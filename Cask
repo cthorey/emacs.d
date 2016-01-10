@@ -8,6 +8,7 @@
 (depends-on "auto-complete")
 (depends-on "helm")
 (depends-on "jedi")
+(depends-on "magit")
 (depends-on "markdown-mode")
 (depends-on "nyan-mode")
 (depends-on "pallet")
