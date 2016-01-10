@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/cthorey/.emacs.d/" . "settings/")
+ ("/Users/cthorey/" . "Documents/")
+ ("/Users/" . "cthorey/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/cthorey/.emacs.d/"
+ "/Users/cthorey/.emacs.d/settings/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "init.el"
+ "Cask"
+ "Atom-theme.el"
+ "auto-complete-settings.el"
+ "el-get-settings.el"
+ "general-settings.el"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/cthorey/Documents/" (22157 41468 0 0) ".localized" "../" "./")
+
+ ("/Users/cthorey/.emacs.d/" (22162 28156 0 0) "settings/" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".cask/" "../" "./")
+
+ ("/Users/cthorey/" (22162 27699 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "emacs2/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".ssh/" ".emacs.d/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" "../" "./")
+
+ ("/Users/cthorey/.emacs.d/settings/" (22162 26973 0 0) "todotxt-mode.el" "scss-settings.el" "python-settings.el" "python-magic.el" "mathematica.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "el-get-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/" (22157 41468 0 0) "Shared/" "cthorey/" ".localized" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
