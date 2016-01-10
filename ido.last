@@ -2,36 +2,57 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/cthorey/.emacs.d/.cask/" . "24.5.1/")
+ ("/Users/cthorey/Documents/repos/pdsimage/" . "pdsimage/")
+ ("/Users/cthorey/Documents/repos/" . "pdsimage/")
+ ("/Users/cthorey/Documents/" . "repos/")
  ("/Users/cthorey/.emacs.d/" . "settings/")
- ("/Users/cthorey/" . "Documents/")
+ ("/Users/cthorey/" . ".emacs.d/")
  ("/Users/" . "cthorey/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
  "/Users/cthorey/.emacs.d/"
+ "/Users/cthorey/Documents/repos/pdsimage/pdsimage/"
  "/Users/cthorey/.emacs.d/settings/"
+ "/Users/cthorey/Documents/repos/pdsimage/"
+ "/Users/cthorey/"
 )
 
 ;; ----- ido-work-file-list -----
 (
  "init.el"
+ "PDS_Extractor.py"
+ "autopep.el"
+ "setup.py"
+ ".bash_profile"
+ ".env"
+ "README.md"
  "Cask"
  "Atom-theme.el"
  "auto-complete-settings.el"
- "el-get-settings.el"
- "general-settings.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/cthorey/Documents/" (22157 41468 0 0) ".localized" "../" "./")
+ ("/Users/cthorey/.emacs.d/" (22162 35078 0 0) "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".git/" ".cask/" "../" "./")
 
- ("/Users/cthorey/.emacs.d/" (22162 28156 0 0) "settings/" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".cask/" "../" "./")
+ ("/Users/cthorey/Documents/repos/pdsimage/pdsimage/" (22162 35031 0 0) "Table/" "Structure.py" "PDS_FILE/" "PDS_Extractor.py" "__init__.pyc" "__init__.py" "../" "./")
 
- ("/Users/cthorey/" (22162 27699 0 0) "Public/" "Pictures/" "Music/" "Movies/" "Library/" "emacs2/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".ssh/" ".emacs.d/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile" ".bash_history" "../" "./")
+ ("/Users/cthorey/.emacs.d/settings/" (22162 34758 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
 
- ("/Users/cthorey/.emacs.d/settings/" (22162 26973 0 0) "todotxt-mode.el" "scss-settings.el" "python-settings.el" "python-magic.el" "mathematica.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "el-get-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
+ ("/Users/cthorey/.emacs.d/.cask/24.5.1/" (22162 24513 0 0) "elpa/" "bootstrap/" "../" "./")
+
+ ("/Users/cthorey/.emacs.d/.cask/" (22162 24413 0 0) "24.5.1/" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/pdsimage/" (22162 34309 0 0) "setup.py" "README.md" "README.html" "pdsimage.egg-info/" "pdsimage/" "Notebook/" "MANIFEST.in" "Image/" "environment.yml" "docs/" "dist/" "build/" ".gitignore" ".git/" ".env" "../" "./")
+
+ ("/Users/cthorey/" (22162 33058 0 0) "Public/" "Pictures/" "Music/" "Movies/" "miniconda2/" "Library/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".ssh/" ".matplotlib/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".emacs.d/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/" (22162 32372 0 0) "pdsimage/" "../" "./")
+
+ ("/Users/cthorey/Documents/" (22162 32349 0 0) "repos/" ".localized" "../" "./")
 
  ("/Users/" (22157 41468 0 0) "Shared/" "cthorey/" ".localized" "../" "./")
 )
