@@ -12,15 +12,15 @@ Setting up autopep8
 Another thing  to make sure is  that autopep8 is correctly  install on
 your machine. Just tape
 
-'''
+```
 autopep8
-'''
+```
 
 in a terminal. If not installed, you can install it with pip
 
-''' 
+``` 
 pip install autopep8
-'''
+```
 
 Then, you  have to  point out  the right path  to **autopep8**  in the
 different place  in the **autopep.el**  file in the setting  folder of

@@ -11,6 +11,7 @@
 (depends-on "magit")
 (depends-on "markdown-mode")
 (depends-on "nyan-mode")
+(depends-on "outline-magic")
 (depends-on "pallet")
 (depends-on "popup")
 (depends-on "py-autopep8")
