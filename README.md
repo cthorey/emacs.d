@@ -3,8 +3,14 @@ Emacs Configuration file
 
 This emacs conf. file is based on Cask & Pallet.
 You can follow the instruction on [cask](http://cask.readthedocs.org/en/latest/) to install Cask properly.
-Once that  done, you have  to make  sure the  first line  of the
-init.el file pointed to the right **cask.el** file.
+
+Once that done,  you have to make  sure the first line  of the init.el
+file pointed to  the right **cask.el** file.  When  using **brew** for
+the installation, the file is usually located either on:
+
+- ``/usr/local/share/emacs/site-lisp/cask.el``
+- ``/usr/local/share/emacs/site-lisp/cask/cask.el``
+
 
 Setting up autopep8
 -------------------
