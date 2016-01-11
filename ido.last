@@ -2,6 +2,7 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/thorey/" . ".emacs.d/")
  ("/Users/cthorey/.emacs.d/.cask/" . "24.5.1/")
  ("/Users/cthorey/Documents/repos/pdsimage/" . "pdsimage/")
  ("/Users/cthorey/Documents/repos/" . "pdsimage/")
@@ -13,6 +14,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/thorey/.emacs.d/"
  "/Users/cthorey/Documents/repos/pdsimage/pdsimage/"
  "/Users/cthorey/.emacs.d/settings/"
  "/Users/cthorey/.emacs.d/"
@@ -23,20 +25,24 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "README.md"
+ "init.el"
+ "Atom-theme.el"
  "PDS_Extractor.py"
  "python-magic.el"
- "init.el"
  "epy-nose.el"
  "epy-setup.el"
  "epy-completion.el"
  "epy-bindings.el"
  "epy-editing.el"
- "autopep.el"
- "epy-init.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/thorey/.emacs.d/" (22163 27241 0 0) "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".git/" ".cask/" "../" "./")
+
+ ("/Users/thorey/" (22163 26843 0 0) "todo.cfg" "texput.log" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "Music/" "Movies/" "Library/" "Google Drive/" "emacsOK/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2014/" ".subversion/" ".ssh/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pineapple/" ".oracle_jre_usage/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".macports/" ".local/" ".littleshoot/" ".latexmkrc" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gem/" ".emacs~" ".emacso" ".emacs_old~" ".emacs_old" ".emacs_GOOD" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".config/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile" ".bash_history" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
+
  ("/Users/cthorey/.emacs.d/emacs-for-python/" (22162 28460 0 0) "snippets/" "scripts/" "README.org" "python-libs/" "extensions/" "epy-setup.el" "epy-python.el" "epy-nose.el" "epy-init.el" "epy-editing.el" "epy-completion.el" "epy-bindings.el" "doc/" "COPYING" "CONTRIBUTORS" "ChangeLog" "../" "./")
 
  ("/Users/cthorey/.emacs.d/" (22162 35407 0 0) "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".git/" ".cask/" "../" "./")
