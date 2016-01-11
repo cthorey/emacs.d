@@ -6,11 +6,13 @@ You can follow the instruction on [cask](http://cask.readthedocs.org/en/latest/)
 
 Once that done,  you have to make  sure the first line  of the init.el
 file pointed to  the right **cask.el** file.  When  using **brew** for
-the installation, the file is usually located either on:
+the installation, the file should be located on:
 
-- ``/usr/local/share/emacs/site-lisp/cask.el``
 - ``/usr/local/share/emacs/site-lisp/cask/cask.el``
 
+If it is not the case, either add the ``cask.el``file to this location
+or  change the  first line  of the  init file  to point  to the  right
+location.
 
 Setting up autopep8
 -------------------
