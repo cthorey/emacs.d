@@ -20,8 +20,9 @@ exist.   Then you  need  to symlink  the ``cask.el``  as  well as  the
 directory. For  instance, using  brew on  mac OS X  gives once  in the
 ``cask``directory:
 
-``ln -s //usr/local/Cellar/cask/0.7.2/share/emacs/site-lisp/cask-bootstrap.el cask-bootstrap.el``
-``ln -s //usr/local/Cellar/cask/0.7.2/share/emacs/site-lisp/cask.el cask.el``
+- ``ln -s //usr/local/Cellar/cask/0.7.2/share/emacs/site-lisp/cask-bootstrap.el
+  cask-bootstrap.el``
+- ``ln -s //usr/local/Cellar/cask/0.7.2/share/emacs/site-lisp/cask.el cask.el``
 
 You can also  simply change the first line of  the ``init.el`` file to
 point to right ``cask.el``file on your machine.
