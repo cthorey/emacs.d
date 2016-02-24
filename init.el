@@ -3,6 +3,10 @@
 (require 'pallet)
 (pallet-mode t)          
 
+;make sure variable in the shell are in emacs
+(when (memq window-system '(mac ns))
+  (exec-path-from-shell-initialize))
+
 ;load atom theme
 (load-theme 'atom-dark t)
 
@@ -43,6 +47,11 @@
 (require 'epy-bindings)   ;; For my suggested keybindings [optional]
 (require 'epy-nose)       ;; For nose integration
 (require 'python-magic)
+
+;; Doc for sphinx
+(add-hook 'python-mode-hook (lambda ()
+                              (require 'sphinx-doc)
+                              (sphinx-doc-mode t)))
 ;-----------;
 ;;; Modes ;;;
 ;-----------;
@@ -72,7 +81,7 @@
 
 (defun reload ()
   (interactive)
-  (load-file "~/.emacs"))
+  (load-file "~/.emacs.d/init.el"))
 
 
 ;---------------------------------------------------------------------

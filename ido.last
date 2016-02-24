@@ -2,10 +2,47 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/" . "Users/")
+ ("/Users/cthorey/Documents/paperwork/" . "fancy-cv/")
+ ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" . "cache/")
+ ("/Users/cthorey/Documents/project/kagle/yelp/Data/" . "train-val-test/")
+ ("/Users/cthorey/Documents/repos/keras/" . "examples/")
+ ("/Users/cthorey/Documents/project/kagle/yelp/" . "Data/")
+ ("/Users/cthorey/Documents/project/kagle/" . "yelp/")
+ ("/Users/cthorey/Documents/repos/Lasagne/" . "examples/")
+ ("/Users/cthorey/Documents/repos/kaggle-right-whale/" . "model_definitions/")
+ ("/Users/cthorey/Documents/repos/nolearn_utils/nolearn_utils/" . "tests/")
+ ("/Users/cthorey/Documents/repos/nolearn_utils/examples/" . "cifar10/")
+ ("/Users/cthorey/Documents/repos/nolearn_utils/" . "nolearn_utils/")
+ ("/ssh:thorey@localhost#11270:/home/thorey/" . "EPGC/")
+ ("/ssh:thorey@localhost#11270:/home/" . "thorey/")
+ ("/ssh:thorey@localhost#11270:/gpfs/users/thorey/CS231/assignment1/" . "cs231n/")
+ ("/ssh:thorey@localhost#11270:/gpfs/users/thorey/CS231/" . "assignment1/")
+ ("/ssh:thorey@localhost#11270:/gpfs/users/thorey/" . "CS231/")
+ ("/ssh:thorey@localhost#11270:/gpfs/users/" . "thorey/")
+ ("/ssh:thorey@localhost#11270:/gpfs/" . "users/")
+ ("/ssh:thorey@localhost#11270:/" . "home/")
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/" . "model_0/")
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/" . "FirstConvNet/")
+ ("/Users/cthorey/Documents/project/agu_data/repo/agu_data/" . "Data/")
+ ("/Users/cthorey/Documents/project/agu_data/gist/" . "WorlMapContribuCountry/")
+ ("/Users/cthorey/Documents/project/agu_data/repo/" . "agu_data/")
+ ("/Users/cthorey/Documents/project/agu_data/" . "gist/")
+ ("/Users/cthorey/Documents/project/cthorey.github.io/" . "_posts/")
+ ("/Users/cthorey/Documents/project/" . "kagle/")
+ ("/Users/cthorey/Documents/repos/agu_data/" . "agu_data/")
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/" . "classifiers/")
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/" . "experiments/")
+ ("/Users/cthorey/Documents/MLearning/CS231/" . "assignment2/")
+ ("/Users/cthorey/Documents/MLearning/" . "CS231/")
+ ("/Users/cthorey/Documents/repos/cthorey.github.io/" . "_layouts/")
+ ("/Users/cthorey/Downloads/" . "Fancy-CV/")
+ ("/Users/cthorey/Documents/repos/pdsimage/docs/source/" . "_static/")
+ ("/Users/cthorey/Documents/repos/pdsimage/docs/" . "source/")
  ("/Users/cthorey/.emacs.d/.cask/" . "24.5.1/")
- ("/Users/cthorey/Documents/repos/pdsimage/" . "pdsimage/")
- ("/Users/cthorey/Documents/repos/" . "pdsimage/")
- ("/Users/cthorey/Documents/" . "repos/")
+ ("/Users/cthorey/Documents/repos/pdsimage/" . "docs/")
+ ("/Users/cthorey/Documents/repos/" . "kaggle-right-whale/")
+ ("/Users/cthorey/Documents/" . "paperwork/")
  ("/Users/cthorey/.emacs.d/" . "settings/")
  ("/Users/cthorey/" . "Documents/")
  ("/Users/" . "cthorey/")
@@ -13,49 +50,208 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/cthorey/Documents/repos/pdsimage/pdsimage/"
+ "/Users/cthorey/Documents/paperwork/fancy-cv/"
  "/Users/cthorey/.emacs.d/settings/"
  "/Users/cthorey/.emacs.d/"
- "/Users/cthorey/.emacs.d/emacs-for-python/"
- "/Users/cthorey/Documents/repos/pdsimage/"
  "/Users/cthorey/"
+ "/Users/cthorey/Downloads/Fancy-CV/"
+ "/Users/cthorey/Documents/project/agu_data/repo/agu_data/"
+ "/Users/cthorey/Documents/project/agu_data/gist/WorlMapContribuCountry/"
+ "/Users/cthorey/Documents/project/kagle/yelp/Script/"
+ "/Users/cthorey/Documents/project/kagle/Yelp/"
+ "/Users/cthorey/Documents/repos/kaggle-right-whale/model_definitions/"
+ "/Users/cthorey/Documents/repos/kaggle-right-whale/scripts/"
+ "/Users/cthorey/Documents/project/kagle/yelp/"
+ "/Users/cthorey/Documents/repos/keras/examples/"
+ "/Users/cthorey/Documents/repos/Lasagne/examples/"
+ "/Users/cthorey/Documents/repos/nolearn_utils/nolearn_utils/"
+ "/Users/cthorey/Documents/repos/nolearn_utils/examples/cifar10/"
+ "/Users/cthorey/Documents/repos/nolearn_utils/examples/mnist/"
+ "/Users/cthorey/Documents/repos/nolearn_utils/"
+ "/Users/cthorey/Documents/repos/nolearn_utils/examples/"
+ "/Users/cthorey/Documents/MLearning/CS231/"
+ "/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/FirstConvNet/"
+ "/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/"
+ "/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/classifiers/"
+ "/Users/cthorey/Documents/MLearning/CS231/assignment2/"
+ "/ssh:thorey@localhost#11270:/home/thorey/EPGC/"
+ "/ssh:thorey@localhost#11270:/gpfs/users/thorey/CS231/assignment1/cs231n/"
+ "/ssh:thorey@localhost#11270:/gpfs/"
+ "/ssh:thorey@localhost#11270:"
+ "/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/model_0/"
+ "/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/"
+ "/Users/cthorey/Documents/"
+ "/Users/cthorey/Documents/project/cthorey.github.io/_posts/"
+ "/Users/cthorey/Documents/project/cthorey.github.io/"
+ "/Users/cthorey/Documents/project/agu_data/repo/Visualization/"
+ "/Users/cthorey/Documents/project/cthorey.github.io/_layouts/"
+ "/Users/cthorey/Documents/project/agu_data/repo/Notebook/"
+ "/Users/cthorey/Documents/project/agu_data/repo/agu_data/Data/"
+ "/Users/cthorey/Documents/repos/cthorey.github.io/"
+ "/Users/cthorey/Documents/repos/cthorey.github.io/_layouts/"
+ "/Users/cthorey/Documents/repos/cthorey.github.io/_posts/"
+ "/Users/cthorey/Documents/repos/agu_data/agu_data/"
+ "/Users/cthorey/Documents/new-site/"
+ "/Users/cthorey/Documents/repos/pdsimage/docs/source/"
+ "/Users/cthorey/Documents/repos/pdsimage/"
+ "/Users/cthorey/Documents/repos/"
+ "/Users/cthorey/Documents/repos/pdsimage/pdsimage/"
+ "/Users/cthorey/Downloads/cartopy-0.11.0/"
+ "/Users/cthorey/Downloads/"
+ "/Users/cthorey/.emacs.d/emacs-for-python/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "PDS_Extractor.py"
- "python-magic.el"
+ "cv.tex"
+ "latex-settings.el"
  "init.el"
- "epy-nose.el"
- "epy-setup.el"
- "epy-completion.el"
- "epy-bindings.el"
- "epy-editing.el"
- "autopep.el"
- "epy-init.el"
+ ".bash_profile"
+ ".bash_history"
+ "build_representations.py"
+ "Data_Utils.py"
+ "basemap.js"
+ "create_cache_image.py"
+ ".gitignore"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/cthorey/Documents/paperwork/fancy-cv/" (22222 7540 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv.tex" "bibliography.bib" "auto/" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Users/cthorey/.emacs.d/" (22222 7357 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".git/" ".cask/" "../" "./")
+
+ ("/Users/cthorey/" (22222 7194 0 0) "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" "../" "./")
+
+ ("/Users/cthorey/Documents/paperwork/" (22222 4293 0 0) "fancy-cv/" "../" "./")
+
+ ("/Users/cthorey/Documents/" (22222 4289 0 0) "teatching/" "repos/" "project/" "paperwork/" "My Tableau Repository/" "MLearning/" ".localized" ".DS_Store" "../" "./")
+
+ ("/Users/cthorey/Downloads/Fancy-CV/" (22222 4012 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv.tex" "bibliography.bib" "../" "./")
+
+ ("/Users/cthorey/Downloads/" (22222 4012 0 0) "video-jimmy-kimmel-clooney-dr-ross-hugh-laurie-dr-house_n_9150226.html" "uTorrent.dmg" "train.csv" "test.csv" "telereglement_IRPS_20160125_112937.pdf" "TD3_corrige.pdf" "TD3.pdf" "TD2_corrige.pdf" "TD2.pdf" "TD1_corrige.pdf" "TD1.pdf" "TableauPublic-9-2-2.dmg" "so-simple-theme-master.zip" "Skype_7.19.407.dmg" "Skim-1.4.17.dmg" "Skim-1.4.17 (1).dmg" "scipy-0.16.1-cp27-none-macosx_10_6_intel.macosx_10_9_intel.macosx_10_9_x86_64.macosx_10_10_intel.macosx_10_10_x86_64.whl" "PopcornTime/" "papers_342_439.dmg" "Miniconda-latest-MacOSX-x86_64.sh" "MathsL2_cours_complet_02022016.pdf" "mactex-20150613.pkg" "jre-8u71-macosx-x64.dmg" "JFM-2016-02-08.zip" "JFM/" "installgoogledrive.dmg" "installgoogledrive (2).dmg" "installgoogledrive (1).dmg" "googlechrome.dmg" "GarminExpressInstaller.dmg" "Fancy-CV.zip" "Fancy-CV/" "example_google.py" "end2end-master.zip" "Emacs-24.5-1-universal.dmg" "DropboxInstaller.dmg" "download.html" "download (2).html" "download (1).html" "cthorey-pdsimage-1.0-0-g6c45610.tar.gz" "CS231n Winter 2016- Lecture 10- Recurrent Neural Networks, Image Captioning, LSTM.mp4" "classeur-osx.dmg" "cartopy-0.11.0.tar.gz" "cartopy-0.11.0/" "Capture d’écran 2016-01-13 à 19.39.37.png" "agutmpl_marebasalt.pdf" "agutmpl_marebasalt (1).pdf" "Advantageous_2015_720p_WEB-DL_DD5_1_H264-RARBG.torrent" "Advantageous.2015.720p.WEB-DL.DD5.1.H264-RARBG/" "AdobeReader_dc_en_a_install.dmg" "12687885_10153458806425847_2032801463522742953_n.jpg" ".localized" ".DS_Store" ".#example_google.py" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/repo/agu_data/" (22219 34725 0 0) "Scrap_papers.py" "Scrap_names.pyc" "Scrap_names.py" "mycorpus.mm.index" "mycorpus.mm" "mycorpus.dict" "Data_Utils.pyc" "Data_Utils.py" "Data/" "chromedriver" "build_representations.py" "__init__.py" "../" "./")
+
+ ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/cache/" (22208 38096 0 0) ".DS_Store" "../" "./")
+
+ ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" (22208 35331 0 0) "val.csv" "train.csv" "test.csv" "cache/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/kagle/yelp/Data/" (22208 43014 0 0) "weight_params/" "train-val-test/" "raw/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/" (22210 18054 0 0) "repo/" "gist/" ".ipynb_checkpoints/" ".gitignore" ".env" "../" "./")
+
+ ("/Users/cthorey/Documents/project/kagle/yelp/Script/" (22208 43512 0 0) "create_cache_image.py" "base_model.py" "../" "./")
+
+ ("/Users/cthorey/Documents/project/kagle/yelp/" (22208 43841 0 0) "Script/" "README.md" "Notebook/" "environment.yml" "Data/" ".gitignore" ".git/" ".env" "../" "./")
+
+ ("/Users/cthorey/Documents/project/kagle/" (22208 43615 0 0) "yelp/" ".env" ".DS_Store" "../" "./")
+
+ ("/Users/cthorey/Documents/project/kagle/Yelp/" (22208 43841 0 0) "Script/" "README.md" "Notebook/" "environment.yml" "Data/" ".gitignore" ".git/" ".env" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/kaggle-right-whale/data/" (22207 4631 0 0) "train_with_points.csv" "train_with_annotations_vinh.csv" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/keras/examples/" (22207 26212 0 0) "stateful_lstm.py" "reuters_mlp.py" "neural_style_transfer.py" "mnist_transfer_cnn.py" "mnist_siamese_graph.py" "mnist_mlp.py" "mnist_irnn.py" "mnist_cnn.py" "lstm_text_generation.py" "kaggle_otto_nn.py" "imdb_lstm.py" "imdb_cnn_lstm.py" "imdb_cnn.py" "imdb_bidirectional_lstm.py" "deep_dream.py" "conv_filter_visualization.py" "cifar10_cnn.py" "babi_rnn.py" "babi_memnn.py" "antirectifier.py" "addition_rnn.py" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/keras/" (22207 24999 0 0) "tests/" "setup.py" "setup.cfg" "README.md" "pytest.ini" "LICENSE" "Keras.egg-info/" "keras/" "examples/" "docs/" "dist/" "CONTRIBUTING.md" "build/" ".travis.yml" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/" (22207 24711 0 0) "nolearn_utils/" "Lasagne/" "keras/" "kaggle-right-whale/" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/Lasagne/examples/" (22207 23754 0 0) "recurrent.py" "mnist.py" ".#mnist.py" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/model_0/" (22201 3810 0 0) "Exploration.ipynb" "conf_init.json" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/" (22204 57734 0 0) "test_newconv.ipynb" "start_ipython_osx.sh" "requirements.txt" "README.md" "puppy.jpg" "kitten.jpg" "FullyConnectedNets.ipynb" "frameworkpython" "experiments/" "Dropout.ipynb" "cs231n/" "ConvolutionalNetworks.ipynb" "collectSubmission.sh" "BatchNormalization.ipynb" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/" (22201 6101 0 0) "vis_utils.py" "solver.pyc" "solver.py" "setup.py" "optim.pyc" "optim.py" "layers.pyc" "layers.py" "layer_utils.pyc" "layer_utils.py" "im2col_cython.so" "im2col_cython.pyx" "im2col_cython.c" "im2col.pyc" "im2col.py" "gradient_check.pyc" "gradient_check.py" "fast_layers.pyc" "fast_layers.py" "datasets/" "data_utils.pyc" "data_utils.py" "classifiers/" "build/" "__init__.pyc" "__init__.py" ".gitignore" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/FirstConvNet/" (22201 6143 0 0) "model_0/" "FirstConvNet.py" "conf_init_maker.py" "../" "./")
+
+ ("/Users/cthorey/Documents/project/" (22204 57679 0 0) "pdsimage/" "kagle/" "cthorey.github.io/" "agu_data/" ".DS_Store" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/kaggle-right-whale/scripts/" (22207 4631 0 0) "train_pts_model.py" "train_model.py" "train_localization_model.py" "predict_from_head_crop.py" "predict_from_crop.py" "predict.py" "extract_features.py" "create_test_head_crop_image.py" "create_test_cropped_image.py" "create_mean_image.py" "create_label_encoder.py" "create_cached_test_image.py" "create_cached_image.py" "create_cached_head_crop_image.py" "create_cached_cropped_image.py" "blend_submission_files.py" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/Lasagne/" (22207 14748 0 0) "setup.py" "setup.cfg" "requirements.txt" "requirements-dev.txt" "README.rst" "MANIFEST.in" "LICENSE" "lasagne/" "examples/" "docs/" "CONTRIBUTING.md" "CHANGES.rst" ".travis.yml" ".gitignore" ".git/" ".coveragerc-nogpu" ".coveragerc" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/kaggle-right-whale/model_definitions/" (22207 4631 0 0) "localize_pts_dec31.py" "cropped_jan05_4.py" "cropped_jan05_3.py" "cropped_jan05_2.py" "cropped_jan03.py" "cropped_jan02.py" "cropped_dec21_3.py" "cropped_dec19.py" "__init__.py" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/kaggle-right-whale/" (22207 4631 0 0) "utils/" "scripts/" "requirements.txt" "README_DOCKER.md" "README.md" "notebooks/" "model_definitions/" "Makefile" "LICENSE" "Dockerfile" "data/" ".gitignore" ".git/" ".dockerignore" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/nolearn_utils/nolearn_utils/tests/" (22207 6371 0 0) "test_iterators.py" "test_hooks.py" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/nolearn_utils/examples/mnist/" (22207 12854 0 0) "training_history.png" "train.py" "train.csv" "test.csv" "predict.py" "model_weights.pkl" "model_history.pkl" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/nolearn_utils/examples/cifar10/" (22207 6371 0 0) "training_history.png" "train.py" "__init__.py" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/nolearn_utils/examples/" (22207 6371 0 0) "mnist/" "cifar10/" "__init__.py" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/nolearn_utils/" (22207 6422 0 0) "setup.py" "setup.cfg" "requirements.txt" "README.md" "notebooks/" "nolearn_utils.egg-info/" "nolearn_utils/" "examples/" "dist/" "build/" ".travis.yml" ".gitignore" ".git/" ".coveragerc" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/nolearn_utils/nolearn_utils/" (22207 6371 0 0) "tests/" "iterators.py" "image_utils.py" "hooks.py" "__init__.py" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/" (22204 57734 0 0) "environment.yml" "assignment3/" "assignment2/" "assignment1/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/" (22204 57679 0 0) "Udacity_DL/" "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/" "CS231/" ".DS_Store" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/" (22200 64741 0 0) "ThreeLayerConvnet/" "FirstConvNet/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/cthorey.github.io/_layouts/" (22189 16346 0 0) "post.html" "page.html" "default.html" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/gist/WorlMapContribuCountry/" (22190 31274 0 0) "index.html" "datamaps.world.min.js" "data.json" "basemap.js" ".git/" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/classifiers/" (22200 37090 0 0) "fc_net.pyc" "fc_net.py" "convnet.py" "cnn.pyc" "cnn.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/datasets/" (22181 64871 0 0) "get_datasets.sh" "cifar-10-batches-py/" ".gitignore" "../" "./")
+
+ ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/" (22196 50436 0 0) "ThreeLayerConvnet.py" "model_0/" "conf_init_maker.py" ".#conf_maker.py" "../" "./")
+
+ ("/Users/cthorey/Documents/project/cthorey.github.io/_posts/" (22195 48853 0 0) "test.js" "2016-02-02-backprop_conv.markdown" "2016-01-28-backpropagation.markdown" "2016-01-26-AGU_Part3.md" "2016-01-26-AGU_Part2.md" "2016-01-26-AGU_Part1.md" "2015-01-27-test.md" "../" "./")
+
+ ("/Users/cthorey/Documents/project/cthorey.github.io/" (22194 13098 0 0) "style.scss" "README.md" "node_modules/" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "about.md" "_site/" "_sass/" "_posts/" "_plugins/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/repo/Notebook/" (22189 14315 0 0) "test2.json" "test.json" "test.ipynb" "Tables/" "Similar_Papers.ipynb" "Scrapp_mised.ipynb" "Nationality_contributors.ipynb" "index.html" "Gender_Detector.ipynb" "Exploratory analysis.ipynb" "Data_AGU.ipynb" "create_json_vis.ipynb" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/repo/Visualization/" (22188 35609 0 0) "world_map_collaborator.js" "world_map_collaborator.html" "test.json" "js/" "datemap.usa.min.js" "datamaps.world.min.js" ".#italy.html" ".#datemap.usa.min.js" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/repo/agu_data/Data/" (22188 58414 0 0) "us_cities_states_counties.csv" "country.csv" "agu2015/" "agu2014/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/gist/" (22188 37700 0 0) "WorlMapContribuCountry/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/repo/" (22188 35612 0 0) "Visualization/" "README.md" "Notebook/" "index.html" "environment.yml" "agu_data/" ".ipynb_checkpoints/" ".gitignore" ".git/" ".env" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/cthorey.github.io/_posts/" (22186 40434 0 0) "2016-01-28-backpropagation.markdown" "2016-01-26-AGU_Part3.md" "2016-01-26-AGU_Part2.md" "2016-01-26-AGU_Part1.md" "2015-01-27-test.md" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/cthorey.github.io/_layouts/" (22186 39574 0 0) "post.html" "page.html" "default.html" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/cthorey.github.io/_includes/" (22178 26210 0 0) "svg-icons.html" "meta.html" "disqus.html" "analytics.html" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/cthorey.github.io/" (22186 29172 0 0) "style.scss" "README.md" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/agu_data/agu_data/" (22178 26167 0 0) "Scrap_papers.py" "Scrap_names.py" "Data_Utils.py" "Data/" "chromedriver" "__init__.py" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/agu_data/" (22178 26168 0 0) "Visualization/" "README.md" "Notebook/" "index.html" "environment.yml" "agu_data/" ".ipynb_checkpoints/" ".gitignore" ".git/" ".env" "../" "./")
+
+ ("/Users/cthorey/Documents/new-site/" (22178 27528 0 0) "theme-setup/" "tags/" "search.json" "search/" "README.md" "package.json" "LICENSE" "index.html" "images/" "Gruntfile.js" "Gemfile.lock" "Gemfile" "feed.xml" "favicon.png" "favicon.ico" "blog/" "assets/" "articles/" "about/" "_templates/" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_data/" "_config.yml" "404.md" ".sass-cache/" ".jshintrc" ".gitignore" ".editorconfig" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/pdsimage/docs/source/" (22166 55014 0 0) "support.rst" "Structure.rst" "PDS_Extractor.rst" "install.rst" "index.rst" "cookbook.rst" "conf.py" "_static/" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/pdsimage/" (22166 53720 0 0) "setup.pyc" "setup.py" "setup.cfg" "requirements.txt" "README.rst" "pdsimage.egg-info/" "pdsimage/" "Notebook/" "MANIFEST.in" "LICENSE.txt" "Image/" "environment.yml" "docs/" "dist/" "build/" ".gitignore" ".git/" ".env" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/pdsimage/pdsimage/" (22166 46032 0 0) "Table/" "Structure.pyc" "Structure.py" "PDS_FILE/" "PDS_Extractor.pyc" "PDS_Extractor.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/pdsimage/docs/" (22162 58494 0 0) "source/" "Makefile" "build/" "../" "./")
+
+ ("/Users/cthorey/Downloads/cartopy-0.11.0/" (21411 2924 0 0) "tools/" "setup.py" "README.md" "lib/" "INSTALL" "docs/" "COPYING.LESSER" "COPYING" "CONTRIBUTING.md" "CHANGES" ".travis_no_output" ".travis.yml" ".gitignore" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/pdsimage/docs/source/_static/" (22162 32527 0 0) "output_8_1.png" "output_16_1.png" "output_10_1.png" "../" "./")
+
  ("/Users/cthorey/.emacs.d/emacs-for-python/" (22162 28460 0 0) "snippets/" "scripts/" "README.org" "python-libs/" "extensions/" "epy-setup.el" "epy-python.el" "epy-nose.el" "epy-init.el" "epy-editing.el" "epy-completion.el" "epy-bindings.el" "doc/" "COPYING" "CONTRIBUTORS" "ChangeLog" "../" "./")
-
- ("/Users/cthorey/.emacs.d/" (22162 35407 0 0) "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".git/" ".cask/" "../" "./")
-
- ("/Users/cthorey/Documents/repos/pdsimage/pdsimage/" (22162 35077 0 0) "Table/" "Structure.py" "PDS_FILE/" "PDS_Extractor.py" "__init__.pyc" "__init__.py" "../" "./")
 
  ("/Users/cthorey/.emacs.d/settings/" (22162 34758 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
 
  ("/Users/cthorey/.emacs.d/.cask/24.5.1/" (22162 24513 0 0) "elpa/" "bootstrap/" "../" "./")
 
  ("/Users/cthorey/.emacs.d/.cask/" (22162 24413 0 0) "24.5.1/" "../" "./")
-
- ("/Users/cthorey/Documents/repos/pdsimage/" (22162 34309 0 0) "setup.py" "README.md" "README.html" "pdsimage.egg-info/" "pdsimage/" "Notebook/" "MANIFEST.in" "Image/" "environment.yml" "docs/" "dist/" "build/" ".gitignore" ".git/" ".env" "../" "./")
-
- ("/Users/cthorey/" (22162 33058 0 0) "Public/" "Pictures/" "Music/" "Movies/" "miniconda2/" "Library/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".ssh/" ".matplotlib/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".emacs.d/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" "../" "./")
-
- ("/Users/cthorey/Documents/repos/" (22162 32372 0 0) "pdsimage/" "../" "./")
-
- ("/Users/cthorey/Documents/" (22162 32349 0 0) "repos/" ".localized" "../" "./")
 
  ("/Users/" (22157 41468 0 0) "Shared/" "cthorey/" ".localized" "../" "./")
 )
