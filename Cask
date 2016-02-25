@@ -19,6 +19,8 @@
 (depends-on "magit")
 (depends-on "magit-popup")
 (depends-on "markdown-mode")
+(depends-on "markdown-preview-eww")
+(depends-on "markdown-preview-mode")
 (depends-on "nyan-mode")
 (depends-on "outline-magic")
 (depends-on "package-build")

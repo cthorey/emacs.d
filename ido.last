@@ -2,6 +2,11 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/" . "markdown-mode-20160223.537/")
+ ("/Users/cthorey/.emacs.d/.cask/24.5.1/" . "elpa/")
+ ("/Users/cthorey/Google Drive/mrouaultserver/metacog_expt/" . "jspsych-4.3/")
+ ("/Users/cthorey/Google Drive/mrouaultserver/" . "metacog_expt/")
+ ("/Users/cthorey/Google Drive/" . "mrouaultserver/")
  ("/Users/thorey/.emacs.d/" . "settings/")
  ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/" . "JFM/")
  ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/" . "JFM/")
@@ -13,7 +18,7 @@
  ("/Users/thorey/Documents/" . "These/")
  ("/Users/thorey/" . "Documents/")
  ("/" . "Users/")
- ("/Users/cthorey/Documents/paperwork/" . "fancy-cv/")
+ ("/Users/cthorey/Documents/paperwork/" . "ASI_Fellowship/")
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" . "cache/")
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/" . "train-val-test/")
  ("/Users/cthorey/Documents/repos/keras/" . "examples/")
@@ -60,14 +65,21 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/cthorey/"
  "/Users/cthorey/.emacs.d/settings/"
+ "/Users/cthorey/Documents/paperwork/ASI_Fellowship/"
+ "/Users/cthorey/.emacs.d/"
+ "/Users/cthorey/"
+ "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-mode-20160223.537/"
+ "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-preview-mode-20160215.849/"
+ "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/"
+ "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-preview-eww-20160111.702/"
+ "/Users/cthorey/Google Drive/mrouaultserver/metacog_expt/jspsych-4.3/"
+ "/Users/cthorey/Google Drive/mrouaultserver/metacog_expt/"
  "/Users/cthorey/Documents/paperwork/fancy-cv/"
  "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/JFM/"
  "/Users/thorey/.emacs.d/settings/"
  "/Users/thorey/Documents/paperwork/fancy_cv/"
  "/Users/thorey/"
- "/Users/cthorey/.emacs.d/"
  "/Users/cthorey/Downloads/Fancy-CV/"
  "/Users/cthorey/Documents/project/agu_data/repo/agu_data/"
  "/Users/cthorey/Documents/project/agu_data/gist/WorlMapContribuCountry/"
@@ -103,36 +115,55 @@
  "/Users/cthorey/Documents/project/agu_data/repo/agu_data/Data/"
  "/Users/cthorey/Documents/repos/cthorey.github.io/"
  "/Users/cthorey/Documents/repos/cthorey.github.io/_layouts/"
- "/Users/cthorey/Documents/repos/cthorey.github.io/_posts/"
- "/Users/cthorey/Documents/repos/agu_data/agu_data/"
- "/Users/cthorey/Documents/new-site/"
- "/Users/cthorey/Documents/repos/pdsimage/docs/source/"
- "/Users/cthorey/Documents/repos/pdsimage/"
- "/Users/cthorey/Documents/repos/"
- "/Users/cthorey/Documents/repos/pdsimage/pdsimage/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- ".latexmkrc"
- "latex-settings.el"
- "cv.tex"
- "JFM_Thorey.tex"
- "cv.tex"
- "cv.log"
+ "custom.el"
+ "custom-functions.el"
+ "camelcase-settings.el"
+ "auto-complete-settings.el"
+ "general-settings.el"
+ "candidature.md"
  "init.el"
- ".latexmk"
+ ".bash_profile"
+ ".bash_profile-miniconda2.bak"
+ "markdown-mode.el"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/cthorey/.emacs.d/settings/" (22222 50893 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
+ ("/Users/cthorey/.emacs.d/settings/" (22223 798 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
 
- ("/Users/cthorey/.emacs.d/" (22222 50893 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".latexmkrc" ".git/" ".cask/" "../" "./")
+ ("/Users/cthorey/.emacs.d/" (22223 715 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".latexmkrc" ".git/" ".cask/" "../" "./")
 
- ("/Users/cthorey/Documents/paperwork/fancy-cv/" (22222 45690 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv.tex" "cv.run.xml" "cv.pdf" "cv.out" "cv.log" "cv.fls" "cv.fdb_latexmk" "cv.blg" "cv.bcf" "cv.bbl" "cv.aux" "bibliography.bib" "auto/" ".ipynb_checkpoints/" ".git/" "../" "./")
+ ("/Users/cthorey/Documents/paperwork/ASI_Fellowship/" (22223 661 0 0) "candidature.md" "../" "./")
 
- ("/Users/cthorey/" (22222 12785 0 0) "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".latexmkrc" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" "../" "./")
+ ("/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-mode-20160223.537/" (22222 7327 0 0) "markdown-mode.elc" "markdown-mode.el" "markdown-mode-pkg.elc" "markdown-mode-pkg.el" "markdown-mode-autoloads.el" "../" "./")
+
+ ("/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-preview-mode-20160215.849/" (22222 65113 0 0) "preview.html" "markdown-preview-mode.elc" "markdown-preview-mode.el" "markdown-preview-mode-pkg.el" "markdown-preview-mode-autoloads.el" "../" "./")
+
+ ("/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-preview-eww-20160111.702/" (22222 65314 0 0) "markdown-preview-eww.elc" "markdown-preview-eww.el" "markdown-preview-eww-pkg.elc" "markdown-preview-eww-pkg.el" "markdown-preview-eww-autoloads.el" "../" "./")
+
+ ("/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/" (22222 65315 0 0) "with-editor-20160223.1155/" "websocket-20160124.2020/" "sphinx-doc-readme.txt" "sphinx-doc-20160116.317/" "shut-up-20150423.522/" "scss-mode-20150107.1400/" "s-20160115.58/" "python-environment-20150310.153/" "pydoc-info-20110301.34/" "py-autopep8-20151231.614/" "popup-20151222.1339/" "pallet-20150512.2/" "package-build-20160129.1332/" "outline-magic-20150209.1426/" "nyan-mode-20151017.2235/" "markdown-preview-mode-20160215.849/" "markdown-preview-eww-readme.txt" "markdown-preview-eww-20160111.702/" "markdown-mode-20160223.537/" "magit-popup-20160130.649/" "magit-20160223.828/" "lua-mode-20151025.530/" "jedi-core-20151214.705/" "jedi-20151214.705/" "helm-core-20160224.350/" "helm-20160221.2157/" "git-commit-20160130.649/" "f-20151113.123/" "exec-path-from-shell-20160112.2246/" "epl-20150517.433/" "epc-20140609.2234/" "deferred-20160109.2046/" "dash-20160223.1028/" "ctable-20140304.1659/" "concurrent-20160109.2046/" "cask-20151123.528/" "auto-complete-20160107.8/" "auctex-lua-20151121.810/" "auctex-latexmk-20151217.557/" "auctex-11.89.1/" "atom-one-dark-theme-20160105.748/" "atom-dark-theme-20151119.2335/" "async-20160223.146/" "archives/" "ac-ispell-readme.txt" "ac-ispell-20151031.1926/" "../" "./")
+
+ ("/Users/cthorey/Documents/paperwork/" (22222 65154 0 0) "fancy-cv/" "ASI_Fellowship/" "../" "./")
+
+ ("/Users/cthorey/Documents/paperwork/fancy-cv/" (22222 64965 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "programing.png" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv.tex" "cv.synctex.gz" "cv.run.xml" "cv.pdf" "cv.out" "cv.log" "cv.fls" "cv.fdb_latexmk" "cv.blg" "cv.bcf" "cv.bbl" "cv.aux" "bibliography.bib" "auto/" ".ipynb_checkpoints/" ".git/" "../" "./")
+
+ ("/Users/cthorey/Google Drive/mrouaultserver/metacog_expt/jspsych-4.3/" (22222 54854 0 0) "tests&examples/" "README.md" "plugins/" "license.txt" "jspsych.js" "Icon
+" "css/" "../" "./")
+
+ ("/Users/cthorey/Google Drive/mrouaultserver/metacog_expt/" (22222 58613 0 0) "stylesheet.css" "savedata.php" "mrturkinterface.html" "metatask_test.js" "metatask.js" "jspsych-4.3/" "infopg.html" "Icon
+" "fixation5.png" "fixation4.png" "fixation3.png" "fixation2.png" "fixation.png" "experiment.html" "draw_stimulus.js" "draw_feedback_test.js" "draw_feedback.js" "draw_fb_or_no_fb.js" "draw_cue.js" "draw_choice.js" "draw_blankstimulus.js" "consentpg.html" "colorcue1.png" "checkSubID.php" "../" "./")
+
+ ("/Users/cthorey/Google Drive/mrouaultserver/" (22222 54629 0 0) "metacog_expt/" "Icon
+" "database_connect.php" "../" "./")
+
+ ("/Users/cthorey/Google Drive/" (22222 55167 0 0) "Zone/" "TPCOrde/" "TP_Moment.zip" "Thesis/" "THESE_THOREY.pdf" "These_Rapport/" "StackEdit/" "SIXT/" "ScanImage001.jpg" "RyanairBoardingPass.pdf" "RyanairBoardingPass(2).pdf" "Rouault_SFN2014final.ppt" "résiliation.doc.gdoc" "résiliation.doc" "Revision_FFC_EPSL/" "Review_2_Thorey_FFC.docx" "posterAGU/" "Poster_AGU/" "Poster5.pdf" "PNP/" "piano/" "PC2015 TD1 300815.doc" "Papier/" "Old_Computer/" "Normandie/" "mrouaultserver/" "Module_Thickness_Newton.f90" "MLFFC/" "Mediapart/" "MathsL2/" "MarionRouaultLERUcoverletter_27jan2014.zdoc.glink" "MarionRouaultLERUcoverletter_27jan2014.doc" "Marion/" "Manuscript_Thorey.pdf" "Manuscript_Thorey (1).pdf" "Manuscript_Revision_2_Thorey_CM.pdf" "Manuscript/" "Manip2.eps" "Manip2.csv" "Manip1.eps" "Manip1.csv" "main.pdf" "Lisboa/" "LeProcheetleMoyenOrienttelecom.pdf" "Lecture7-convnet.md" "Lecture6-convnet.md" "LanguageC/" "Kevin_P._Murphy_Machine_Learning_A_Probabilistic_Perspective_AI_page_icog-labs.pdf" "JFM_Cooling/" "JFM/" "ING/" "Impot/" "IMG_4569.png" "Icon
+" "Highlights.gdoc" "Highlights.doc" "GRAILCrustalThicknessArchive.zip" "GRAIL/" "Google_Sheet.pdf" "Figure_JFM/" "FFC_Jessica/" "FFC_GRL/" "FFC_Gravity/" "Feuille de calcul sans titre.gsheet" "Expert_Python_programming.pdf" "example2_graph.png" "EmploiduTempsMathsL12015.xlsx" "DR BOOGIE 25_7_14.mp3" "Données du demandeur.xls.gsheet" "Données du demandeur.xls" "Document sans titre.gdoc" "Document sans titre (1).gdoc" "Diplome_Administratif/" "Diplome/" "Defense_Thorey.pptx" "Defense.key" "Defense 2.key" "Data1.zdoc.glink" "Data1.zdoc (1).glink" "CV_Français_Complet_Lopez-Oramas.pdf" "cs229-prob.pdf" "Cover_Letter.gdoc" "Cover_Letter.doc" "Corry_Data_Laccolith.xls" "Corry_Data_Laccolith.split/" "Corry_Data_Laccolith.pdf" "Corry_1.xlsx" "CompteRendu.py" "COLLE PHYSIQUE.gsheet" "CFDIP/" "Capture d’écran 2016-01-10 à 22.54.06.png" "Capture d’écran 2014-11-11 à 17.07.02.png" "Capture d’écran 2014-04-11 à 14.10.03.png" "Capture d’écran 2014-03-14 à 15.39.34.png" "Billet_AGU.PDF" "Billet.pdf" "Bibliography.bib" "Bibliography (1).bib" "Antares - Troisieme cycle/" "AGU2014/" "_F_Cleomedes_50m.eps" "113551_Corry.txt" "113233_Corry_1.txt.gdoc" "113233_Corry_1.txt" "113233_Corry_1 (1).txt" "112922_Corry_1.xlsx.gsheet" "112922_Corry_1.xlsx" "../" "./")
+
+ ("/Users/cthorey/" (22222 56937 0 0) "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".latexmkrc" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" "../" "./")
 
  ("/Users/thorey/.emacs.d/settings/" (22222 50550 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
 
@@ -185,8 +216,6 @@
  ("/Users/cthorey/Documents/MLearning/CS231/" (22210 17817 0 0) "environment.yml" "assignment3/" "assignment2/" "assignment1/" ".gitignore" ".git/" "../" "./")
 
  ("/Users/cthorey/Documents/repos/Lasagne/examples/" (22208 33006 0 0) "recurrent.py" "mnist.py" "../" "./")
-
- ("/Users/cthorey/Documents/paperwork/" (22222 4293 0 0) "fancy-cv/" "../" "./")
 
  ("/Users/cthorey/Documents/" (22222 4289 0 0) "teatching/" "repos/" "project/" "paperwork/" "My Tableau Repository/" "MLearning/" ".localized" ".DS_Store" "../" "./")
 
