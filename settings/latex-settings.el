@@ -1,13 +1,11 @@
-
 ;-----------;
 ;;; LaTeX ;;;
 ;-----------;
+(require 'auctex-latexmk)
+(auctex-latexmk-setup)
 
 (require 'tex-site)
 (require 'font-latex)
-
-(setenv "PATH" (concat (getenv "PATH") ":/usr/texbin"))
-(setq exec-path (append exec-path '("/usr/texbin")))
 
 (setq TeX-auto-save t)
 (setq TeX-parse-self t)
@@ -54,6 +52,8 @@
                    (setq fill-nobreak-predicate 'ada-in-string-p)))
 
 
+;; make latexmk available via C-c C-c
+;; Note: SyncTeX is setup via ~/.latexmkrc (see below)
 (add-hook 'LaTeX-mode-hook (lambda ()
   (push
     '("latexmk" "latexmk  -pdf %s" TeX-run-TeX nil t
@@ -61,6 +61,13 @@
     TeX-command-list)))
 (add-hook 'TeX-mode-hook '(lambda () (setq TeX-command-default "latexmk")))
 
+;; make latexmk -xelatex available via C-c C-c
+(add-hook 'LaTeX-mode-hook (lambda ()
+  (push
+    '("xelatexmk" "latexmk -xelatex -pdf %s" TeX-run-TeX nil t
+      :help "Run latexmk with xelatex on file")
+    TeX-command-list)))
+(add-hook 'TeX-mode-hook '(lambda () (setq TeX-command-default "xelatexmk")))
 
 ;; use Skim as default pdf viewer
 ;; Skim's displayline is used for forward search (from .tex to .pdf)

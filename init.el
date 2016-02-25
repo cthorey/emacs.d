@@ -71,7 +71,7 @@
 
 ;; LaTeX and Auctex
 (require 'latex-settings)
-(add-hook 'LaTeX-mode-hook #'latex-extra-mode)
+;; (add-hook 'LaTeX-mode-hook #'latex-extra-mode)
 
 ;; ---------------------------
 ;; -- Custom functions --
