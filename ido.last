@@ -44,16 +44,16 @@
  ("/Users/cthorey/Documents/repos/" . "kaggle-right-whale/")
  ("/Users/cthorey/Documents/" . "paperwork/")
  ("/Users/cthorey/.emacs.d/" . "settings/")
- ("/Users/cthorey/" . ".emacs.d/")
+ ("/Users/cthorey/" . "Documents/")
  ("/Users/" . "cthorey/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/cthorey/Documents/paperwork/fancy-cv/"
  "/Users/cthorey/.emacs.d/"
  "/Users/cthorey/"
  "/Users/cthorey/.emacs.d/settings/"
- "/Users/cthorey/Documents/paperwork/fancy-cv/"
  "/Users/cthorey/Downloads/Fancy-CV/"
  "/Users/cthorey/Documents/project/agu_data/repo/agu_data/"
  "/Users/cthorey/Documents/project/agu_data/gist/WorlMapContribuCountry/"
@@ -103,10 +103,10 @@
 
 ;; ----- ido-work-file-list -----
 (
+ "cv.tex"
  ".latexmkrc"
  "latex-settings.el"
  "cv.log"
- "cv.tex"
  "init.el"
  ".latexmk"
  ".bash_profile"
@@ -117,9 +117,9 @@
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/cthorey/" (22222 12769 0 0) "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".latexmkrc" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" ".#.latexmkrc" "../" "./")
+ ("/Users/cthorey/Documents/paperwork/fancy-cv/" (22222 12786 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv.tex" "cv.run.xml" "cv.pdf" "cv.out" "cv.log" "cv.fls" "cv.fdb_latexmk" "cv.blg" "cv.bcf" "cv.bbl" "cv.aux" "bibliography.bib" "auto/" ".ipynb_checkpoints/" "../" "./")
 
- ("/Users/cthorey/Documents/paperwork/fancy-cv/" (22222 12633 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv.tex" "cv.run.xml" "cv.pdf" "cv.out" "cv.log" "cv.fls" "cv.fdb_latexmk" "cv.blg" "cv.bcf" "cv.bbl" "cv.aux" "bibliography.bib" "auto/" ".ipynb_checkpoints/" ".#cv.log" "../" "./")
+ ("/Users/cthorey/" (22222 12785 0 0) "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".latexmkrc" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" "../" "./")
 
  ("/Users/cthorey/.emacs.d/settings/" (22222 12348 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
 
