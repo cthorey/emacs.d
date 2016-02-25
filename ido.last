@@ -2,6 +2,16 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/thorey/.emacs.d/" . "settings/")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/" . "JFM/")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/" . "JFM/")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" . "Paper/")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/" . "Skin_Model/")
+ ("/Users/thorey/Documents/These/Projet/" . "Refroidissement/")
+ ("/Users/thorey/Documents/These/" . "Projet/")
+ ("/Users/thorey/Documents/paperwork/" . "fancy_cv/")
+ ("/Users/thorey/Documents/" . "These/")
+ ("/Users/thorey/" . "Documents/")
  ("/" . "Users/")
  ("/Users/cthorey/Documents/paperwork/" . "fancy-cv/")
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" . "cache/")
@@ -50,6 +60,10 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/JFM/"
+ "/Users/thorey/.emacs.d/settings/"
+ "/Users/thorey/Documents/paperwork/fancy_cv/"
+ "/Users/thorey/"
  "/Users/cthorey/.emacs.d/"
  "/Users/cthorey/"
  "/Users/cthorey/.emacs.d/settings/"
@@ -96,27 +110,52 @@
  "/Users/cthorey/Documents/repos/pdsimage/"
  "/Users/cthorey/Documents/repos/"
  "/Users/cthorey/Documents/repos/pdsimage/pdsimage/"
- "/Users/cthorey/Downloads/cartopy-0.11.0/"
- "/Users/cthorey/Downloads/"
- "/Users/cthorey/.emacs.d/emacs-for-python/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- ".latexmkrc"
+ "JFM_Thorey.tex"
  "latex-settings.el"
- "cv.log"
  "cv.tex"
+ ".latexmkrc"
+ "cv.log"
  "init.el"
  ".latexmk"
  ".bash_profile"
  ".bash_history"
  "build_representations.py"
- "Data_Utils.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/thorey/.emacs.d/settings/" (22222 50550 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/thorey/.emacs.d/" (22222 50552 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".latexmkrc" ".git/" ".cask/" "../" "./")
+
+ ("/Users/thorey/Documents/paperwork/fancy_cv/" (22222 50418 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv.tex" "cv.synctex.gz" "cv.run.xml" "cv.pdf" "cv.out" "cv.log" "cv.fls" "cv.fdb_latexmk" "cv.blg" "cv.bcf" "cv.bbl" "cv.aux" "bibliography.bib" "auto/" ".ipynb_checkpoints/" ".git/" "../" "./")
+
+ ("/Users/thorey/" (22222 50181 0 0) "todo.cfg" "texput.log" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Google Drive/" "emacs_GOOD/" "emacs_git/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".macports/" ".local/" ".littleshoot/" ".latexmkrc" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs~" ".emacso" ".emacs_old~" ".emacs_old" ".emacs_GOOD" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
+
+ ("/Users/thorey/Documents/Papers Library/" (21733 44502 0 0) "Library.papers3/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/JFM/" (22204 35789 0 0) "Reviewer3.md" "Reviewer3.docx" "Reviewer2.md" "Reviewer2.docx" "Reviewer1.md" "Reviewer1.docx" "natbib.sty" "Library.bib" "JFM_Thorey_Revision.pdf" "JFM_Thorey.tex" "JFM_Thorey.synctex.gz" "JFM_Thorey.pdf" "JFM_Thorey.log" "JFM_Thorey.fls" "JFM_Thorey.fdb_latexmk" "JFM_Thorey.dvi" "JFM_Thorey.blg" "JFM_Thorey.bbl" "JFM_Thorey.aux" "jfm.cls" "jfm.bst" "Figure_Revision/" "auto/" "AMSsymb.sty" "AMSgen.sty" "AMSfonts.sty" "AMSbsy.sty" ".Rhistory" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/" (22159 39086 0 0) "Version_JFM/" "JFM/" "Draft_EPSL_2/" "Draft_EPSL_1_Crystalisation/" "auto/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/" (22121 37239 0 0) "JFM/" "Figure/" "auto/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" (22121 37870 0 0) "Write/" "SCAPAD/" "Routine/" "README.md" "Paper/" "Notebook/" "Figure/" "Code/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/" (21769 42845 0 0) "Writing/" "Skin_Model/" "routine/" "Resultat/" "Presentation/" "Laccolith_Data/" "Daily_Report/" "Analyse_Result/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/" (21735 15813 0 0) "Refroidissement/" "LavaFlow/" "IntrusionSsVolcan/" "Intrusion/" "FFC/" "Basal_Ice_Flow/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/" (22121 31017 0 0) "Submission/" "Projet/" "Paperwork/" "Optimization_Formation/" "Manuscript/" "Librairie/" "Book/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/paperwork/" (22222 49101 0 0) "fancy_cv/" "../" "./")
+
+ ("/Users/thorey/Documents/" (22222 49101 0 0) "Tool/" "These/" "Teaching/" "Stage/" "site/" "repos/" "project/" "pdsimage/" "paperwork/" "Papers Library/" "Own_Project/" "My Tableau Repository/" "MLearning/" "Cursera/" "cthorey.github.io/" "Clement.pprs" "Administratif/" ".sync/" ".localized" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
  ("/Users/cthorey/" (22222 12769 0 0) "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".latexmkrc" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" ".#.latexmkrc" "../" "./")
 
  ("/Users/cthorey/Documents/paperwork/fancy-cv/" (22222 12633 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv.tex" "cv.run.xml" "cv.pdf" "cv.out" "cv.log" "cv.fls" "cv.fdb_latexmk" "cv.blg" "cv.bcf" "cv.bbl" "cv.aux" "bibliography.bib" "auto/" ".ipynb_checkpoints/" ".#cv.log" "../" "./")
