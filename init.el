@@ -73,6 +73,14 @@
 (require 'latex-settings)
 ;; (add-hook 'LaTeX-mode-hook #'latex-extra-mode)
 
+;; Todo.txt
+
+(add-to-list 'load-path "~/Dropbox/todo/")
+(require 'todotxt-mode)
+(setq todotxt-default-file (expand-file-name "/Users/thorey/Dropbox/todo/todo.txt"))
+(define-key global-map "\C-ct" 'todotxt-add-todo)
+(define-key global-map "\C-co" 'todotxt-open-file)
+
 ;; ---------------------------
 ;; -- Custom functions --
 ;; ---------------------------
