@@ -31,4 +31,5 @@
 (depends-on "s")
 (depends-on "scss-mode")
 (depends-on "sphinx-doc")
+(depends-on "todotxt-mode")
 (depends-on "with-editor")
