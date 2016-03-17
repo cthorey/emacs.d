@@ -2,7 +2,6 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/Users/cthorey/Documents/project/competition/" . "fognet/")
  ("/Users/thorey/Documents/project/agu_data/gist/" . "basemap/")
  ("/Users/thorey/Documents/project/cthorey.github.io/" . "_posts/")
  ("/Users/thorey/Documents/project/agu_data/repo/" . "agu_data/")
@@ -51,7 +50,7 @@
  ("/Users/cthorey/Documents/project/agu_data/repo/" . "agu_data/")
  ("/Users/cthorey/Documents/project/agu_data/" . "repo/")
  ("/Users/cthorey/Documents/project/cthorey.github.io/" . "node_modules/")
- ("/Users/cthorey/Documents/project/" . "competition/")
+ ("/Users/cthorey/Documents/project/" . "cthorey.github.io/")
  ("/Users/cthorey/Documents/repos/agu_data/" . "agu_data/")
  ("/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/" . "classifiers/")
  ("/Users/cthorey/Documents/MLearning/CS231/assignment2/" . "experiments/")
@@ -74,10 +73,8 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/cthorey/.emacs.d/settings/"
  "/Users/cthorey/.emacs.d/"
- "/Users/cthorey/.emacs.d/emacs-for-python/"
- "/Users/cthorey/Documents/project/competition/fognet/"
+ "/Users/cthorey/.emacs.d/settings/"
  "/Users/cthorey/Documents/project/cthorey.github.io/"
  "/Users/cthorey/Documents/project/cthorey.github.io/_includes/"
  "/Users/cthorey/Documents/paperwork/fancy-cv/"
@@ -124,43 +121,31 @@
  "/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/classifiers/"
  "/Users/cthorey/Documents/MLearning/CS231/assignment2/"
  "/ssh:thorey@localhost#11270:/home/thorey/EPGC/"
+ "/ssh:thorey@localhost#11270:/gpfs/users/thorey/CS231/assignment1/cs231n/"
+ "/ssh:thorey@localhost#11270:/gpfs/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "latex-settings.el"
  "init.el"
- "epy-editing.el"
- "epy-bindings.el"
- "todo.org"
- "epy-init.el"
  "custom.el"
  "autopep.el"
  "general-settings.el"
  "about.md"
+ "disqus.html"
+ "analytics.html"
+ "meta.html"
+ "README.md"
+ "LICENSE"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/cthorey/.emacs.d/" (22251 11079 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".git/" ".cask/" "../" "./")
-
- ("/Users/cthorey/Documents/project/cthorey.github.io/" (22227 15692 0 0) "style.scss" "README.md" "node_modules/" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "about.md" "_site/" "_sass/" "_posts/" "_plugins/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/cthorey/.emacs.d/settings/" (22251 9835 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
-
- ("/Users/cthorey/Documents/project/competition/fognet/" (22251 8378 0 0) "utils/" "todo.org" "test.ipynb" "scripts/" "model_defs/" "fogwater-benchmark-model.ipynb" "first_submission.csv" "data/" ".ipynb_checkpoints/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/cthorey/Documents/project/competition/" (22248 25375 0 0) "yelp/" "fognet/" ".env" ".DS_Store" "../" "./")
-
- ("/Users/cthorey/Documents/project/agu_data/" (22228 21933 0 0) "repo/" "gist/" "geocolab/" "agu_data/" ".ipynb_checkpoints/" ".gitignore" ".env" "../" "./")
-
- ("/Users/cthorey/Documents/project/" (22245 30447 0 0) "pdsimage/" "cthorey.github.io/" "competition/" "agu_data/" ".DS_Store" "../" "./")
-
- ("/Users/cthorey/Documents/" (22228 32062 0 0) "teatching/" "repos/" "project/" "paperwork/" "MLearning/" ".localized" ".DS_Store" "../" "./")
-
- ("/Users/cthorey/.emacs.d/emacs-for-python/" (22251 10276 0 0) "snippets/" "scripts/" "README.org" "python-libs/" "extensions/" "epy-setup.el" "epy-python.el" "epy-nose.el" "epy-init.el" "epy-editing.el" "epy-completion.el" "epy-bindings.el" "doc/" "COPYING" "CONTRIBUTORS" "ChangeLog" "../" "./")
+ ("/Users/cthorey/.emacs.d/" (22251 9862 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".git/" ".cask/" "../" "./")
 
  ("/Users/cthorey/" (22251 9461 0 0) "Serveur Média/" "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".latexmkrc" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" "../" "./")
+
+ ("/Users/cthorey/.emacs.d/settings/" (22251 9441 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
 
  ("/Users/cthorey/Documents/project/cthorey.github.io/node_modules/" (22189 11568 0 0) "kramdown/" "../" "./")
 
@@ -204,6 +189,8 @@
  ("/Users/cthorey/Documents/project/cthorey.github.io/_site/" (22225 60967 0 0) "style.css" "sitemap.xml" "publications/" "node_modules/" "morley.csv" "index.html" "images/" "feed.xml" "backpropagation/" "backprop_conv/" "AGU_Part3/" "AGU_Part2/" "AGU_Part1/" "about/" "404.html" "../" "./")
 
  ("/Users/cthorey/Documents/project/cthorey.github.io/_plugins/" (22189 11708 0 0) "../" "./")
+
+ ("/Users/cthorey/Documents/project/cthorey.github.io/" (22225 60942 0 0) "style.scss" "README.md" "publication.md" "node_modules/" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "about.md" "_site/" "_sass/" "_posts/" "_plugins/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
 
  ("/Users/cthorey/Documents/project/agu_data/repo/agu_data/Data/" (22225 46893 0 0) "agu2015/" "agu2014/" "../" "./")
 
@@ -288,6 +275,8 @@
 
  ("/Users/cthorey/Documents/repos/Lasagne/examples/" (22208 33006 0 0) "recurrent.py" "mnist.py" "../" "./")
 
+ ("/Users/cthorey/Documents/" (22222 4289 0 0) "teatching/" "repos/" "project/" "paperwork/" "My Tableau Repository/" "MLearning/" ".localized" ".DS_Store" "../" "./")
+
  ("/Users/cthorey/Downloads/Fancy-CV/" (22222 4012 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv.tex" "bibliography.bib" "../" "./")
 
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/cache/" (22208 38096 0 0) ".DS_Store" "../" "./")
@@ -295,6 +284,8 @@
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" (22208 35331 0 0) "val.csv" "train.csv" "test.csv" "cache/" "../" "./")
 
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/" (22208 43014 0 0) "weight_params/" "train-val-test/" "raw/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/agu_data/" (22210 18054 0 0) "repo/" "gist/" ".ipynb_checkpoints/" ".gitignore" ".env" "../" "./")
 
  ("/Users/cthorey/Documents/project/kagle/yelp/Script/" (22208 43512 0 0) "create_cache_image.py" "base_model.py" "../" "./")
 
@@ -311,6 +302,8 @@
  ("/Users/cthorey/Documents/repos/keras/" (22207 24999 0 0) "tests/" "setup.py" "setup.cfg" "README.md" "pytest.ini" "LICENSE" "Keras.egg-info/" "keras/" "examples/" "docs/" "dist/" "CONTRIBUTING.md" "build/" ".travis.yml" ".gitignore" ".git/" "../" "./")
 
  ("/Users/cthorey/Documents/repos/" (22207 24711 0 0) "nolearn_utils/" "Lasagne/" "keras/" "kaggle-right-whale/" "../" "./")
+
+ ("/Users/cthorey/Documents/project/" (22204 57679 0 0) "pdsimage/" "kagle/" "cthorey.github.io/" "agu_data/" ".DS_Store" "../" "./")
 
  ("/Users/cthorey/Documents/repos/kaggle-right-whale/scripts/" (22207 4631 0 0) "train_pts_model.py" "train_model.py" "train_localization_model.py" "predict_from_head_crop.py" "predict_from_crop.py" "predict.py" "extract_features.py" "create_test_head_crop_image.py" "create_test_cropped_image.py" "create_mean_image.py" "create_label_encoder.py" "create_cached_test_image.py" "create_cached_image.py" "create_cached_head_crop_image.py" "create_cached_cropped_image.py" "blend_submission_files.py" "../" "./")
 
@@ -347,6 +340,12 @@
  ("/Users/cthorey/Documents/project/agu_data/gist/" (22188 37700 0 0) "WorlMapContribuCountry/" "../" "./")
 
  ("/Users/cthorey/Documents/repos/cthorey.github.io/_posts/" (22186 40434 0 0) "2016-01-28-backpropagation.markdown" "2016-01-26-AGU_Part3.md" "2016-01-26-AGU_Part2.md" "2016-01-26-AGU_Part1.md" "2015-01-27-test.md" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/cthorey.github.io/_layouts/" (22186 39574 0 0) "post.html" "page.html" "default.html" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/cthorey.github.io/_includes/" (22178 26210 0 0) "svg-icons.html" "meta.html" "disqus.html" "analytics.html" "../" "./")
+
+ ("/Users/cthorey/Documents/repos/cthorey.github.io/" (22186 29172 0 0) "style.scss" "README.md" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" ".DS_Store" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

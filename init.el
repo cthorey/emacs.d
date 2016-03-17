@@ -22,8 +22,7 @@
 
 ;; path to where plugins are kept
 (add-to-list 'load-path "~/.emacs.d/settings")
-(add-to-list 'load-path "~/.emacs.d/site-lisp/grammar")
-
+(add-to-list 'load-path "~/.emacs.d/emacs-for-python")
 
 ;; configure general settings
 (require 'custom-functions)
@@ -33,17 +32,16 @@
 (require 'autopep)
 (add-hook 'python-mode-hook 'py-autopep8-enable-on-save)
 
-;---------------;
-;;; Utilities ;;;
-;---------------;
+;; ;---------------;
+;; ;;; Utilities ;;;
+;; ;---------------;
 
 ;; Python
-(load-file "~/.emacs.d/emacs-for-python/epy-init.el")
-
 (require 'epy-setup)      ;; It will setup other loads, it is required!
 (require 'epy-python)     ;; If you want the python facilities [optional]
 (require 'epy-completion) ;; If you want the autocompletion settings [optional]
-(require 'epy-editing)    ;; For configurations related to editing [optional]
+;; bug
+;; (require 'epy-editing)    ;; For configurations related to editing [optional]
 (require 'epy-bindings)   ;; For my suggested keybindings [optional]
 (require 'epy-nose)       ;; For nose integration
 (require 'python-magic)
@@ -52,9 +50,9 @@
 (add-hook 'python-mode-hook (lambda ()
                               (require 'sphinx-doc)
                               (sphinx-doc-mode t)))
-;-----------;
-;;; Modes ;;;
-;-----------;
+;; ;-----------;
+;; ;;; Modes ;;;
+;; ;-----------;
 
 ;; magit-instruction
 (setq magit-auto-revert-mode nil)
@@ -68,36 +66,33 @@
 ;; Markdown mode
 (require 'markdown-settings)
 
-
 ;; LaTeX and Auctex
 (require 'latex-settings)
-;; (add-hook 'LaTeX-mode-hook #'latex-extra-mode)
+(add-hook 'LaTeX-mode-hook #'latex-extra-mode)
 
 ;; Todo.txt
-
 (add-to-list 'load-path "~/Dropbox/todo/")
 (require 'todotxt-mode)
-(setq todotxt-default-file (expand-file-name "/Users/thorey/Dropbox/todo/todo.txt"))
+(setq todotxt-default-file (expand-file-name "~/Dropbox/todo/todo.txt"))
 (define-key global-map "\C-ct" 'todotxt-add-todo)
 (define-key global-map "\C-co" 'todotxt-open-file)
 
-;; ---------------------------
-;; -- Custom functions --
-;; ---------------------------
+;; ;; ---------------------------
+;; ;; -- Custom functions --
+;; ;; ---------------------------
 
-;; Reload emacs
-
+;; ;; Reload emacs
 (defun reload ()
   (interactive)
   (load-file "~/.emacs.d/init.el"))
 
 
-;---------------------------------------------------------------------
-;; Put auto 'custom' changes in a separate file (this is stuff like
+;; ;---------------------------------------------------------------------
+;; ;; Put auto 'custom' changes in a separate file (this is stuff like
 ;; custom-set-faces and custom-set-variables)
-(load 
- (setq custom-file (expand-file-name "settings/custom.el" user-emacs-directory))
- 'noerror)
+;; (load 
+;;  (setq custom-file (expand-file-name "settings/custom.el" user-emacs-directory))
+;;  'noerror)
 
 (put 'downcase-region 'disabled nil)
 (put 'upcase-region 'disabled nil)
