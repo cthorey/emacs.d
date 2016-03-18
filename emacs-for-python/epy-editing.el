@@ -1,4 +1,4 @@
-;; ibuffer by default
+;; ;; ibuffer by default
 
 (global-set-key (kbd "C-x C-b") 'ibuffer)
 ;; Ido mode with fuzzy matching
@@ -8,7 +8,7 @@
 
 (require 'smart-operator)
 
-;; Open Next Line
+;; ;; Open Next Line
 (require 'open-next-line)
 
 ;; Auto Completion
@@ -35,7 +35,7 @@
   (setq yas/wrap-around-region 'cua))
 
 ;; Eproject project management with emacs
-(require 'eproject)
+;; (require 'eproject)
 
 ;; code borrowed from http://emacs-fu.blogspot.com/2010/01/duplicating-lines-and-commenting-them.html
 (defun djcb-duplicate-line (&optional commentfirst)
@@ -159,24 +159,24 @@ original" (interactive)
 
 
 
-;; Other useful stuff
+;; ;; ;; Other useful stuff
 
-; delete seleted text when typing
-(delete-selection-mode 1)
+;; ;; ; delete seleted text when typing
+;; ;; (delete-selection-mode 1)
 
-;; highlight current line
-;;(global-hl-line-mode 1)
-;;(set-face-background 'hl-line "seashell2") ;; Nice color
+;; ;; ;; highlight current line
+;; ;; ;;(global-hl-line-mode 1)
+;; ;; ;;(set-face-background 'hl-line "seashell2") ;; Nice color
 
-; highlight brackets
+;; ;; ; highlight brackets
 (show-paren-mode t)
 
-;; Highlight indentation
-;;(require 'highlight-indentation)
-;;(add-hook 'python-mode-hook 'highlight-indentation)
+;; ;; ;; Highlight indentation
+(require 'highlight-indentation)
+(add-hook 'python-mode-hook 'highlight-indentation)
 
-;; Line numbering
-;;(setq linum-format "%4d")
-;;(global-linum-mode 1)
+;; ;; ;; Line numbering
+;; (setq linum-format "%4d")
+;; (global-linum-mode 1)
 
 (provide 'epy-editing)
