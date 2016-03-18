@@ -77,6 +77,13 @@
 (define-key global-map "\C-ct" 'todotxt-add-todo)
 (define-key global-map "\C-co" 'todotxt-open-file)
 
+;; Org mode
+
+(setq org-agenda-files (list "~/org/work.org"
+                             "~/org/school.org" 
+                             "~/org/home.org"))
+(setq org-log-done 'time)
+
 ;; ;; ---------------------------
 ;; ;; -- Custom functions --
 ;; ;; ---------------------------
@@ -90,9 +97,9 @@
 ;; ;---------------------------------------------------------------------
 ;; ;; Put auto 'custom' changes in a separate file (this is stuff like
 ;; custom-set-faces and custom-set-variables)
-;; (load 
-;;  (setq custom-file (expand-file-name "settings/custom.el" user-emacs-directory))
-;;  'noerror)
+(load 
+ (setq custom-file (expand-file-name "settings/custom.el" user-emacs-directory))
+ 'noerror)
 
 (put 'downcase-region 'disabled nil)
 (put 'upcase-region 'disabled nil)

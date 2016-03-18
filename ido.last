@@ -2,12 +2,14 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/thorey/Documents/project/competition/fognet/" . "utils/")
+ ("/Users/thorey/Documents/project/competition/" . "fognet/")
  ("/Users/cthorey/Documents/project/competition/" . "fognet/")
  ("/Users/thorey/Documents/project/agu_data/gist/" . "basemap/")
  ("/Users/thorey/Documents/project/cthorey.github.io/" . "_posts/")
  ("/Users/thorey/Documents/project/agu_data/repo/" . "agu_data/")
  ("/Users/thorey/Documents/project/agu_data/" . "repo/")
- ("/Users/thorey/Documents/project/" . "agu_data/")
+ ("/Users/thorey/Documents/project/" . "competition/")
  ("/Users/thorey/Google Drive/" . "ASI_Fellowship/")
  ("/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/" . "markdown-mode-20160223.537/")
  ("/Users/cthorey/.emacs.d/.cask/24.5.1/" . "elpa/")
@@ -23,7 +25,7 @@
  ("/Users/thorey/Documents/These/" . "Projet/")
  ("/Users/thorey/Documents/paperwork/" . "fancy_cv/")
  ("/Users/thorey/Documents/" . "project/")
- ("/Users/thorey/" . "Documents/")
+ ("/Users/thorey/" . ".emacs.d/")
  ("/" . "Users/")
  ("/Users/cthorey/Documents/paperwork/" . "fancy-cv/")
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" . "cache/")
@@ -74,6 +76,12 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/thorey/.emacs.d/"
+ "/Users/thorey/Documents/project/competition/fognet/utils/"
+ "/Users/thorey/Documents/project/competition/fognet/"
+ "/Users/thorey/.emacs.d/settings/"
+ "/Users/thorey/Documents/project/competition/fognet/scripts/"
+ "/Users/thorey/Documents/project/competition/fognet/model_defs/"
  "/Users/cthorey/.emacs.d/settings/"
  "/Users/cthorey/.emacs.d/"
  "/Users/cthorey/.emacs.d/emacs-for-python/"
@@ -92,7 +100,6 @@
  "/Users/thorey/Documents/project/agu_data/binder/"
  "/Users/thorey/Documents/project/pdsimage/"
  "/Users/thorey/Google Drive/ASI_Fellowship/"
- "/Users/thorey/.emacs.d/settings/"
  "/Users/cthorey/Documents/paperwork/ASI_Fellowship/"
  "/Users/cthorey/"
  "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-mode-20160223.537/"
@@ -119,29 +126,46 @@
  "/Users/cthorey/Documents/repos/nolearn_utils/"
  "/Users/cthorey/Documents/repos/nolearn_utils/examples/"
  "/Users/cthorey/Documents/MLearning/CS231/"
- "/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/FirstConvNet/"
- "/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/"
- "/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/classifiers/"
- "/Users/cthorey/Documents/MLearning/CS231/assignment2/"
- "/ssh:thorey@localhost#11270:/home/thorey/EPGC/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "latex-settings.el"
+ "Cask"
  "init.el"
+ "iterator.py"
+ "todo.org"
+ "custom.el"
+ "predict.py"
+ "lstm.py"
+ "latex-settings.el"
  "epy-editing.el"
  "epy-bindings.el"
- "todo.org"
- "epy-init.el"
- "custom.el"
- "autopep.el"
- "general-settings.el"
- "about.md"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/thorey/.emacs.d/" (22251 53866 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".git/" ".cask/" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/" (22251 53501 0 0) "utils/" "todo.org" "test.ipynb" "scripts/" "models/" "model_defs/" "fogwater-benchmark-model.ipynb" "first_submission.csv" "data/" ".ipynb_checkpoints/" ".gitignore" ".git/" ".#todo.org" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/utils/" (22250 63954 0 0) "training_utils.pyc" "training_utils.py" "nolearn_net.pyc" "nolearn_net.py" "iterator.pyc" "iterator.py" "hook.pyc" "hook.py" "data_utils.pyc" "data_utils.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/.emacs.d/settings/" (22251 52867 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/scripts/" (22250 59706 0 0) "train.py" "predict.py" "conf_init_model.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/model_defs/" (22250 54233 0 0) "lstm.pyc" "lstm.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/data/" (22246 42219 0 0) "submission_format.csv" "fb38df29-e4b7-4331-862c-869fac984cfa.csv" "eaa4fe4a-b85f-4088-85ee-42cabad25c81.csv" "e384729e-3b9e-4f53-af1b-8f5449c69cb7.csv" "ba94c953-7381-4d3c-9cd9-a8c9642ecff5.csv" "b57b4f6f-8aae-4630-9a14-2d24902ddf30.csv" "a0f785bc-e8c7-4253-8e8a-8a1cd0441f73.csv" "8272b5ce-19e4-4dbd-80f2-d47e14786fa2.csv" "41d4a6af-93df-48ab-b235-fd69c8e5dab9.csv" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/" (22246 42159 0 0) "yelp/" "fognet/" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/" (22229 35193 0 0) "repo/" "gist/" "geocolab/" "../" "./")
+
+ ("/Users/thorey/Documents/project/" (22246 42153 0 0) "pdsimage/" "mlcrater/" "cthorey.github.io/" "competition/" "agu_data/" "../" "./")
+
+ ("/Users/thorey/" (22251 52906 0 0) "todo.cfg" "texput.log" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "latexmkrc" "Google Drive/" "emacs_GOOD/" "emacs_git/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".macports/" ".local/" ".littleshoot/" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs~" ".emacso" ".emacs_old~" ".emacs_old" ".emacs_GOOD" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".aws/" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
+
  ("/Users/cthorey/.emacs.d/" (22251 11079 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".git/" ".cask/" "../" "./")
 
  ("/Users/cthorey/Documents/project/cthorey.github.io/" (22227 15692 0 0) "style.scss" "README.md" "node_modules/" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "about.md" "_site/" "_sass/" "_posts/" "_plugins/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
@@ -176,21 +200,11 @@
 
  ("/Users/thorey/Documents/project/cthorey.github.io/" (22221 44489 0 0) "style.scss" "README.md" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
 
- ("/Users/thorey/" (22224 23025 0 0) "todo.cfg" "texput.log" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "latexmkrc" "Google Drive/" "emacs_GOOD/" "emacs_git/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".macports/" ".local/" ".littleshoot/" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs~" ".emacso" ".emacs_old~" ".emacs_old" ".emacs_GOOD" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
-
  ("/Users/thorey/Documents/project/agu_data/binder/" (22224 22199 0 0) "README.md" "index.ipynb" "environment.yml" "Data_Utils.pyc" "Data_Utils.py" ".ipynb_checkpoints/" ".gitignore" ".git/" "../" "./")
 
  ("/Users/thorey/Documents/project/pdsimage/" (22209 45274 0 0) "setup.py" "setup.cfg" "requirements.txt" "README.rst" "pdsimage/" "Notebook/" "MANIFEST.in" "LICENSE.txt" "environment.yml" "docs/" ".gitignore" ".git/" ".env" "../" "./")
 
  ("/Users/thorey/Google Drive/ASI_Fellowship/" (22224 20430 0 0) "candidature.md" "candidature.html" "../" "./")
-
- ("/Users/thorey/Documents/project/agu_data/" (22224 10644 0 0) "repo/" "gist/" "binder/" "../" "./")
-
- ("/Users/thorey/Documents/project/" (22209 45268 0 0) "pdsimage/" "kagle/" "cthorey.github.io/" "agu_data/" "../" "./")
-
- ("/Users/thorey/.emacs.d/settings/" (22224 5484 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
-
- ("/Users/thorey/.emacs.d/" (22224 5489 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.el" "ac-comphist.dat" ".latexmkrc" ".git/" ".cask/" "../" "./")
 
  ("/Users/thorey/Google Drive/" (22224 4356 0 0) "Zone/" "TPCOrde/" "TP_Moment.zip" "Thesis/" "THESE_THOREY.pdf" "These_Rapport/" "StackEdit/" "SIXT/" "ScanImage001.jpg" "RyanairBoardingPass.pdf" "RyanairBoardingPass(2).pdf" "Rouault_SFN2014final.ppt" "résiliation.doc.gdoc" "résiliation.doc" "Revision_FFC_EPSL/" "Review_2_Thorey_FFC.docx" "posterAGU/" "Poster_AGU/" "Poster5.pdf" "PNP/" "piano/" "PC2015 TD1 300815.doc" "Papier/" "Old_Computer/" "Normandie/" "mrouaultserver/" "Module_Thickness_Newton.f90" "MLFFC/" "Mediapart/" "MathsL2/" "MarionRouaultLERUcoverletter_27jan2014.zdoc.glink" "MarionRouaultLERUcoverletter_27jan2014.doc" "Marion/" "Manuscript_Thorey.pdf" "Manuscript_Thorey (1).pdf" "Manuscript_Revision_2_Thorey_CM.pdf" "Manuscript/" "Manip2.eps" "Manip2.csv" "Manip1.eps" "Manip1.csv" "main.pdf" "Lisboa/" "LeProcheetleMoyenOrienttelecom.pdf" "Lecture7-convnet.md" "Lecture6-convnet.md" "LanguageC/" "Kevin_P._Murphy_Machine_Learning_A_Probabilistic_Perspective_AI_page_icog-labs.pdf" "JFM_Cooling/" "JFM/" "ING/" "Impot/" "IMG_4569.png" "Icon
 " "Highlights.gdoc" "Highlights.doc" "GRAILCrustalThicknessArchive.zip" "GRAIL/" "Google_Sheet.pdf" "Figure_JFM/" "FFC_Jessica/" "FFC_GRL/" "FFC_Gravity/" "Feuille de calcul sans titre.gsheet" "Expert_Python_programming.pdf" "example2_graph.png" "EmploiduTempsMathsL12015.xlsx" "DR BOOGIE 25_7_14.mp3" "Données du demandeur.xls.gsheet" "Données du demandeur.xls" "Document sans titre.gdoc" "Document sans titre (1).gdoc" "Diplome_Administratif/" "Diplome/" "Defense_Thorey.pptx" "Defense.key" "Defense 2.key" "Data1.zdoc.glink" "Data1.zdoc (1).glink" "CV_Français_Complet_Lopez-Oramas.pdf" "cs229-prob.pdf" "Cover_Letter.gdoc" "Cover_Letter.doc" "Corry_Data_Laccolith.xls" "Corry_Data_Laccolith.split/" "Corry_Data_Laccolith.pdf" "Corry_1.xlsx" "CompteRendu.py" "COLLE PHYSIQUE.gsheet" "CFDIP/" "Capture d’écran 2016-01-10 à 22.54.06.png" "Capture d’écran 2014-11-11 à 17.07.02.png" "Capture d’écran 2014-04-11 à 14.10.03.png" "Capture d’écran 2014-03-14 à 15.39.34.png" "Billet_AGU.PDF" "Billet.pdf" "Bibliography.bib" "Bibliography (1).bib" "ASI_Fellowship/" "Antares - Troisieme cycle/" "AGU2014/" "_F_Cleomedes_50m.eps" "113551_Corry.txt" "113233_Corry_1.txt.gdoc" "113233_Corry_1.txt" "113233_Corry_1 (1).txt" "112922_Corry_1.xlsx.gsheet" "112922_Corry_1.xlsx" ".DS_Store" "../" "./")
@@ -335,18 +349,6 @@
  ("/Users/cthorey/Documents/MLearning/" (22204 57679 0 0) "Udacity_DL/" "Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/" "CS231/" ".DS_Store" "../" "./")
 
  ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/" (22200 64741 0 0) "ThreeLayerConvnet/" "FirstConvNet/" "../" "./")
-
- ("/Users/cthorey/Documents/project/cthorey.github.io/_layouts/" (22189 16346 0 0) "post.html" "page.html" "default.html" "../" "./")
-
- ("/Users/cthorey/Documents/project/agu_data/gist/WorlMapContribuCountry/" (22190 31274 0 0) "index.html" "datamaps.world.min.js" "data.json" "basemap.js" ".git/" "../" "./")
-
- ("/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/datasets/" (22181 64871 0 0) "get_datasets.sh" "cifar-10-batches-py/" ".gitignore" "../" "./")
-
- ("/Users/cthorey/Documents/project/agu_data/repo/Visualization/" (22188 35609 0 0) "world_map_collaborator.js" "world_map_collaborator.html" "test.json" "js/" "datemap.usa.min.js" "datamaps.world.min.js" ".#italy.html" ".#datemap.usa.min.js" "../" "./")
-
- ("/Users/cthorey/Documents/project/agu_data/gist/" (22188 37700 0 0) "WorlMapContribuCountry/" "../" "./")
-
- ("/Users/cthorey/Documents/repos/cthorey.github.io/_posts/" (22186 40434 0 0) "2016-01-28-backpropagation.markdown" "2016-01-26-AGU_Part3.md" "2016-01-26-AGU_Part2.md" "2016-01-26-AGU_Part1.md" "2015-01-27-test.md" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

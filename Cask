@@ -1,6 +1,8 @@
 (source gnu)
+(source marmalade)
 (source melpa)
 (source melpa-stable)
+(source org)
 
 (depends-on "ac-ispell")
 (depends-on "async")
@@ -22,6 +24,8 @@
 (depends-on "markdown-preview-eww")
 (depends-on "markdown-preview-mode")
 (depends-on "nyan-mode")
+(depends-on "org")
+(depends-on "org-plus-contrib")
 (depends-on "outline-magic")
 (depends-on "package-build")
 (depends-on "pallet")
