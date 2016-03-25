@@ -54,6 +54,10 @@
 ;; ;;; Modes ;;;
 ;; ;-----------;
 
+;;; delete seletion mode
+
+(delete-selection-mode 1)
+
 ;; magit-instruction
 (setq magit-auto-revert-mode nil)
 (setq magit-last-seen-setup-instructions "1.4.0")

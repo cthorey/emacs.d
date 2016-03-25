@@ -2,17 +2,39 @@
 
 ;; ----- ido-last-directory-list -----
 (
- ("/Users/thorey/Documents/project/competition/fognet/models/lstm/" . "model_0/")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/" . "New_Version_Workspace/")
+ ("/Users/thorey/Documents/Tool/ThinkStats2/" . "book/")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/" . "geocolab/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/models/clavius/lstm/" . "model_0/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/models/clavius/" . "lstm/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/models/" . "clavius/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/" . "Users/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/" . "scripts/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/" . "fognet/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/" . "competition/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/" . "project/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/" . "Documents/")
+ ("/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/" . "clement/")
+ ("/Users/thorey/Documents/MLearning/CS231/assignment2/experiments/" . "ThreeLayerConvnet/")
+ ("/Users/thorey/Documents/MLearning/CS231/assignment2/" . "experiments/")
+ ("/Users/thorey/Documents/MLearning/CS231/" . "assignment2/")
+ ("/Users/thorey/Documents/MLearning/" . "CS231/")
+ ("/Users/thorey/Documents/Tool/nolearn/nolearn/" . "lasagne/")
+ ("/Users/thorey/Documents/Tool/nolearn/" . "nolearn/")
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_1/" . "h_50_rg_1e-07_lr_0.0001/")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Code/" . "EPGC/")
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_0/" . "h_150_rg_1e-07_lr_0.0001/")
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/" . "model_2/")
  ("/Users/thorey/Documents/project/competition/fognet/models/" . "lstm/")
  ("/Users/thorey/Documents/Tool/kaggle-right-whale/" . "scripts/")
- ("/Users/thorey/Documents/Tool/" . "kaggle-right-whale/")
+ ("/Users/thorey/Documents/Tool/" . "ThinkStats2/")
  ("/Users/thorey/Documents/project/competition/fognet/" . "scripts/")
  ("/Users/thorey/Documents/project/competition/" . "fognet/")
  ("/Users/cthorey/Documents/project/competition/" . "fognet/")
  ("/Users/thorey/Documents/project/agu_data/gist/" . "basemap/")
  ("/Users/thorey/Documents/project/cthorey.github.io/" . "_posts/")
  ("/Users/thorey/Documents/project/agu_data/repo/" . "agu_data/")
- ("/Users/thorey/Documents/project/agu_data/" . "repo/")
+ ("/Users/thorey/Documents/project/agu_data/" . "geocolab/")
  ("/Users/thorey/Documents/project/" . "competition/")
  ("/Users/thorey/Google Drive/" . "ASI_Fellowship/")
  ("/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/" . "markdown-mode-20160223.537/")
@@ -20,16 +42,16 @@
  ("/Users/cthorey/Google Drive/mrouaultserver/metacog_expt/" . "jspsych-4.3/")
  ("/Users/cthorey/Google Drive/mrouaultserver/" . "metacog_expt/")
  ("/Users/cthorey/Google Drive/" . "ASI_Fellowship/")
- ("/Users/thorey/.emacs.d/" . "emacs-for-python/")
+ ("/Users/thorey/.emacs.d/" . "settings/")
  ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/" . "JFM/")
  ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/" . "JFM/")
- ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" . "Paper/")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" . "Routine/")
  ("/Users/thorey/Documents/These/Projet/Refroidissement/" . "Skin_Model/")
  ("/Users/thorey/Documents/These/Projet/" . "Refroidissement/")
  ("/Users/thorey/Documents/These/" . "Projet/")
  ("/Users/thorey/Documents/paperwork/" . "fancy_cv/")
- ("/Users/thorey/Documents/" . "Tool/")
- ("/Users/thorey/" . ".emacs.d/")
+ ("/Users/thorey/Documents/" . "These/")
+ ("/Users/thorey/" . "Documents/")
  ("/" . "Users/")
  ("/Users/cthorey/Documents/paperwork/" . "fancy-cv/")
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" . "cache/")
@@ -73,22 +95,41 @@
  ("/Users/cthorey/Documents/" . "project/")
  ("/Users/cthorey/.emacs.d/" . "settings/")
  ("/Users/cthorey/" . ".emacs.d/")
- ("/Users/" . "cthorey/")
+ ("/Users/" . "thorey/")
  ("/Users/cthorey/" . ".emacs.d/")
  ("/Users/" . "thorey/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/thorey/.emacs.d/emacs-for-python/"
- "/Users/thorey/.emacs.d/"
  "/Users/thorey/Documents/project/competition/fognet/scripts/"
+ "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/New_Version_Workspace/"
+ "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Code/EPGC/"
  "/Users/thorey/Documents/project/competition/fognet/utils/"
- "/Users/thorey/Documents/project/competition/fognet/models/lstm/model_0/"
- "/Users/thorey/Documents/Tool/kaggle-right-whale/scripts/"
- "/Users/thorey/Documents/project/competition/fognet/"
- "/Users/thorey/.emacs.d/settings/"
  "/Users/thorey/Documents/project/competition/fognet/model_defs/"
+ "/Users/thorey/Documents/project/competition/fognet/"
+ "/Users/thorey/Documents/Tool/ThinkStats2/book/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/geocolab/"
+ "/Users/thorey/Documents/project/cthorey.github.io/_posts/"
+ "/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/scripts/"
+ "/ssh:clement@clavius.step.univ-paris-diderot.fr:"
+ "/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/models/clavius/lstm/model_0/"
+ "/Users/thorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/"
+ "/Users/thorey/Documents/Tool/nolearn/nolearn/lasagne/"
+ "/Users/thorey/Documents/Tool/nolearn/"
+ "/Users/thorey/Documents/project/competition/fognet/models/lstm/model_2/"
+ "/Users/thorey/Documents/project/competition/fognet/models/lstm/model_1/h_50_rg_1e-07_lr_0.0001/"
+ "/Users/thorey/Documents/Tool/kaggle-right-whale/scripts/"
+ "/Users/thorey/Documents/project/competition/fognet/models/lstm/model_1/"
+ "/Users/thorey/.emacs.d/"
+ "/Users/thorey/.emacs.d/settings/"
+ "/Users/thorey/Google Drive/ASI_Fellowship/"
+ "/Users/thorey/Google Drive/S2DC/"
+ "/Users/thorey/Google Drive/"
+ "/Users/thorey/Documents/project/competition/fognet/models/lstm/model_0/"
+ "/Users/thorey/Documents/project/competition/fognet/models/lstm/model_0/h_150_rg_1e-07_lr_0.0001/"
+ "/Users/thorey/Documents/Tool/kaggle-right-whale/model_definitions/"
+ "/Users/thorey/.emacs.d/emacs-for-python/"
  "/Users/cthorey/.emacs.d/settings/"
  "/Users/cthorey/.emacs.d/"
  "/Users/cthorey/.emacs.d/emacs-for-python/"
@@ -103,66 +144,119 @@
  "/Users/thorey/Documents/project/agu_data/repo/"
  "/Users/thorey/Documents/project/agu_data/gist/basemap/"
  "/Users/thorey/Documents/project/agu_data/repo/agu_data/"
- "/Users/thorey/Documents/project/cthorey.github.io/_posts/"
  "/Users/thorey/Documents/project/agu_data/binder/"
  "/Users/thorey/Documents/project/pdsimage/"
- "/Users/thorey/Google Drive/ASI_Fellowship/"
  "/Users/cthorey/Documents/paperwork/ASI_Fellowship/"
  "/Users/cthorey/"
  "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-mode-20160223.537/"
  "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-preview-mode-20160215.849/"
  "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/"
  "/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/markdown-preview-eww-20160111.702/"
- "/Users/cthorey/Google Drive/mrouaultserver/metacog_expt/jspsych-4.3/"
- "/Users/cthorey/Google Drive/mrouaultserver/metacog_expt/"
- "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/JFM/"
- "/Users/thorey/Documents/paperwork/fancy_cv/"
- "/Users/thorey/"
- "/Users/cthorey/Downloads/Fancy-CV/"
- "/Users/cthorey/Documents/project/agu_data/gist/WorlMapContribuCountry/"
- "/Users/cthorey/Documents/project/kagle/yelp/Script/"
- "/Users/cthorey/Documents/project/kagle/Yelp/"
- "/Users/cthorey/Documents/repos/kaggle-right-whale/model_definitions/"
- "/Users/cthorey/Documents/repos/kaggle-right-whale/scripts/"
- "/Users/cthorey/Documents/project/kagle/yelp/"
- "/Users/cthorey/Documents/repos/keras/examples/"
- "/Users/cthorey/Documents/repos/Lasagne/examples/"
- "/Users/cthorey/Documents/repos/nolearn_utils/nolearn_utils/"
- "/Users/cthorey/Documents/repos/nolearn_utils/examples/cifar10/"
- "/Users/cthorey/Documents/repos/nolearn_utils/examples/mnist/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "epy-editing.el"
- "epy-bindings.el"
- "init.el"
  "conf_init_model.py"
- "training_utils.py"
- "conf_model.json"
+ "Load_Utils.py"
+ "Extract_Data.py"
+ "Job_Gen.py"
+ "prediction_utils.py"
+ "checkpoints.py"
  "train.py"
- "predict.py"
- "nolearn_net.py"
- "data_utils.py"
+ "helper.py"
+ "initialization.py"
+ "iterator.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/thorey/.emacs.d/emacs-for-python/" (22252 5650 0 0) "snippets/" "scripts/" "README.org" "python-libs/" "extensions/" "epy-setup.el" "epy-python.el" "epy-nose.el" "epy-init.el" "epy-editing.el" "epy-completion.el" "epy-bindings.el" "doc/" "COPYING" "CONTRIBUTORS" "ChangeLog" "../" "./")
+ ("/Users/thorey/Documents/project/competition/fognet/scripts/" (22260 13929 0 0) "train.pyc" "train.py" "predict.py" "gridsearch.py" "conf_init_model.py" ".#train.py" "../" "./")
 
- ("/Users/thorey/.emacs.d/" (22252 5655 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".gitignore" ".git/" ".cask/" "../" "./")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/New_Version_Workspace/" (22203 1442 0 0) "test/" "sync.sh" "Plot.pyc" "Plot.py" "Load_Utils.pyc" "Load_Utils.py" "Grid_Time.py" "Figure_Tool.pyc" "Figure_Tool.py" "Figure_Panel_Many.py" "Figure_JFM_Revision.pyc" "Figure_JFM_Revision.py" "Figure_Heating.pyc" "Figure_Heating.py" "Figure_Data.pyc" "Figure_Data.py" "Figure_Contact_Aureole.py" "Extract_Data.pyc" "Extract_Data.py" ".#MatchTe.py" "../" "./")
 
- ("/Users/thorey/Documents/project/competition/fognet/models/lstm/" (22252 5116 0 0) "model_2/" "model_1/" "model_0/" "../" "./")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/" (22147 51847 0 0) "TEST/" "PAPER/" "New_Version_Workspace/" "GRAV/" "ELAS_GRAV/" "ELAS/" "Data_Load_tmp.py" ".DS_Store" "../" "./")
 
- ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_1/" (22252 4848 0 0) "h_150_rg_1e-07_lr_0.0001/" "conf_model.json" "../" "./")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" (22121 37870 0 0) "Write/" "SCAPAD/" "Routine/" "README.md" "Paper/" "Notebook/" "Figure/" "Code/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/" (21769 42845 0 0) "Writing/" "Skin_Model/" "routine/" "Resultat/" "Presentation/" "Laccolith_Data/" "Daily_Report/" "Analyse_Result/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/" (21735 15813 0 0) "Refroidissement/" "LavaFlow/" "IntrusionSsVolcan/" "Intrusion/" "FFC/" "Basal_Ice_Flow/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/" (22260 9099 0 0) "utils/" "todo.org" "test.ipynb" "scripts/" "models/" "model_ensemble.csv" "model_defs/" "fogwater-benchmark-model.ipynb" "first_submission.csv" "environment.yml" "data/" "checkup.ipynb" ".ipynb_checkpoints/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/utils/" (22260 9051 0 0) "utils.pyc" "training_utils.pyc" "train_utils.py" "preprocessing.pyc" "preprocessing.py" "prediction_utils.pyc" "prediction_utils.py" "nolearn_net.pyc" "nolearn_net.py" "iterator.pyc" "iterator.py" "initialization.pyc" "initialization.py" "hook.pyc" "hook.py" "helper.pyc" "helper.py" "data_utils.pyc" "data_utils.py" "checkpoints.py" "__init__.pyc" "__init__.py" ".#train_utils.py" "../" "./")
+
+ ("/Users/thorey/Google Drive/" (22259 48924 0 0) "TPCOrde/" "Thinking, Fast and Slow - Kahneman, Daniel.epub" "Thinking, Fast and Slow - Kahneman, Daniel (1).epub" "These_Rapport/" "S2DC/" "Research.gdoc" "Question_prep.gdoc" "Question.gdoc" "mrouaultserver/" "JFM/" "Interview ASI preparatop.gdoc" "Icon
+" "GRAIL/" "geocolab/" "Document sans titre.gdoc" "Diplome_Administratif/" "Diplome/" "Defense_Final.pdf" "Defense_Final.key" "Candidature_S2C.gdoc" "candidature.gdoc" "ASI_Fellowship/" "Apps/" "application revue par mae.gdoc" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Google Drive/S2DC/" (22256 9775 0 0) "candidature.org" "../" "./")
+
+ ("/Users/thorey/.emacs.d/" (22259 62405 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".gitignore" ".git/" ".cask/" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/ThinkStats2/book/" (22260 4862 0 0) "up.png" "note.tex" "next.png" "mylocals.py" "Makefile" "localdef.py" "latexonly" "htmlonly" "header.html" "footer.html" "book.toc" "book.tex" "book.log" "book.idx" "book.fls" "book.fdb_latexmk" "book.aux" "back.png" "auto/" "../" "./")
+
+ ("/Users/thorey/" (22260 4829 0 0) "todo.cfg" "texput.log" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "latexmkrc" "Google Drive/" "emacs_GOOD/" "emacs_git/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".macports/" ".local/" ".littleshoot/" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs~" ".emacso" ".emacs_old~" ".emacs_old" ".emacs_GOOD" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".aws/" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/ThinkStats2/" (22260 4765 0 0) "README.md" "LICENSE" "code/" "book/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/" (22260 4732 0 0) "word_cloud/" "WAC_GLOBAL_E000N0000_008P.IMG" "WAC_GLOBAL_E000N0000_004P.IM" "us_cities_and_states/" "twython/" "tqdm/" "Toyplot/" "todo.txt_cli-2.10/" "ThinkStats2/" "Theausurus.mthesaur.txt.cache" "Theausurus/" "TensorFlow/" "standfordParser/" "sloth/" "slate/" "SHTOOLS/" "scipy_distutils/" "Recipes/" "quartic/" "Python_Mod/" "Python_Function/" "python-progressbar/" "PyPDS/" "Pymacs/" "pyautopep8/" "Port/" "polished_notebooks/" "planetaryimage-0.2.0/" "palettable/" "nolearn_utils/" "nolearn/" "node_modules/" "mpld3/" "mechanize/" "matta/" "Mathematica 10/" "link-grammar-5.2.5/" "Lasagne/" "LanguageTool-3.0.zip" "LanguageTool-3.0/" "kramdown-with-pygments/" "keras/" "kaggle-right-whale/" "is13/" "IPython-notebook-extensions/" "grammar.svn/" "gmtpy/" "Ghost.py/" "ggplot/" "genderizer/" "folium/" "F2PY/" "f.txt" "Emacs_Config/" "elman-forward/" "dryscrape/" "Detection/" "datamaps/" "country-list/" "Copy_mae.py" "conlleval.pl" "Colormap/" "Cluster/" "clint/" "Circles/" "chromedriver" "benchmarks/" "atis.fold3.pkl.gz" "adjustbox/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/" (22260 4638 0 0) "Tool/" "These/" "Teaching/" "Stage/" "site/" "ressources/" "repos/" "project/" "pdsimage/" "paperwork/" "Papers Library/" "Own_Project/" "My Tableau Repository/" "MLearning/" "Cursera/" "cthorey.github.io/" "Clement.pprs" "Administratif/" ".sync/" ".localized" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/" (22259 48483 0 0) "requirements.txt" "README.md" "notebooks/" "index.ipynb" "geocolab/" "data/" ".ipynb_checkpoints/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/geocolab/" (22259 48413 0 0) "Scrap_papers.py" "Scrap_names.py" "Data_Utils.pyc" "Data_Utils.py" "build_representations.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/cthorey.github.io/" (22230 51212 0 0) "style.scss" "README.md" "publication.md" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "archive.md" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/Documents/These/" (22121 31017 0 0) "Submission/" "Projet/" "Paperwork/" "Optimization_Formation/" "Manuscript/" "Librairie/" "Book/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/" (22201 4546 0 0) "ThreeLayerConvnet.py" "model_0/" "conf_init_maker.py" "../" "./")
+
+ ("/Users/thorey/Documents/MLearning/CS231/assignment2/experiments/" (22204 37584 0 0) "ThreeLayerConvnet/" "FirstConvNet/" "../" "./")
+
+ ("/Users/thorey/Documents/MLearning/CS231/assignment2/" (22204 48547 0 0) "test_newconv.ipynb" "start_ipython_osx.sh" "requirements.txt" "README.md" "puppy.jpg" "kitten.jpg" "FullyConnectedNets.ipynb" "frameworkpython" "experiments/" "Dropout.ipynb" "cs231n/" "ConvolutionalNetworks.ipynb" "collectSubmission.sh" "BatchNormalization.ipynb" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/MLearning/CS231/" (22237 33823 0 0) "theano_tuto/" "README.md" "environment.yml" "assignment3/" "assignment2/" "assignment1/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/MLearning/" (22187 15603 0 0) "zacstewart/" "Side_Project/" "Ressource/" "ProjectTemplate.pdf" "probability_cheatsheet.pdf" "OLD_CS231/" "ml_guide.svg" "Mitchell_Lecture/" "Kagle/" "Interesting_Notebook/" "data-wrangling-cheatsheet.pdf" "CS231/" "CS/" "Book/" "AppliedMachineLearningProcess.pdf" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/nolearn/nolearn/lasagne/" (22250 57311 0 0) "visualize.py" "util.py" "tests/" "handlers.py" "base.py" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/nolearn/nolearn/" (22249 27656 0 0) "util.py" "tests/" "overfeat.py" "metrics.py" "lasagne/" "inischema.py" "grid_search.py" "decaf.py" "caffe.py" "cache.py" "_compat.py" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/nolearn/" (22249 27656 0 0) "setup.py" "setup.cfg" "requirements.txt" "requirements.in" "README.rst" "nolearn/" "LICENSE.txt" "docs/" "CHANGES.txt" ".travis.yml" ".gitignore" ".git/" ".coveragerc" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_2/" (22256 14245 0 0) "h_50_rg_1e-07_lr_0.0001/" "conf_model.json" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/" (22256 14210 0 0) "model_2/" "model_1/" "model_0/" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_1/h_50_rg_1e-07_lr_0.0001/" (22256 12535 0 0) "submissions_20160321_183312.csv" "model_history.png" "model_history.pkl" "model.pkl" "conf_model.json" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_1/" (22256 11898 0 0) "h_50_rg_1e-07_lr_0.0001/" "conf_model.json" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Code/EPGC/" (22146 38093 0 0) "Tree.py" "Test/" "SConstruct" "run_tmp.sh" "run.sh" "run.py" "run.job" "Remove_Backup_File.py" "README.md" "Output_Time_GRA" "Output_Time_BUG" "Output_Time.txt" "Output.txt" "Module_Thickness_Skin_Newton_Roscoe.f90" "Module_Thickness_Skin_Newton_Bercovici.f90" "Module_Thickness_Skin_Newton_Arrhenius.f90" "Module_Thickness_Skin_Newton.f90" "Module_Thickness_Skin_GFD_Bercovici.o" "module_thickness_skin_gfd_bercovici.mod" "module_thickness_newton_gravi.mod" "Module_Thickness_Newton_Gravi.f90" "Module_Thickness_Inte_GFD_Bercovici.f90" "Module_Thickness_GRAV_Bercovici.f90" "Module_Thickness_GRAV_Arrhenius.f90" "Module_Thickness.f90" "Module_Thermal_Skin_Newton_Roscoe.f90" "Module_Thermal_Skin_Newton_Bercovici.f90" "Module_Thermal_Skin_Newton_Arrhenius.f90" "Module_Thermal_Skin_Newton.f90" "Module_Thermal_Skin_GFD_GRAVI.f90" "Module_Thermal_Skin_GFD_Bercovici.f90" "Module_Thermal_IntE_Newton_Bercovici.f90" "Module_Thermal_GFD_GRAVI_Bercovici.f90" "Module_Thermal_GFD_GRAVI_Arrhenius.f90" "Module_Thermal.f90" "Module_Surface.f90" "Module_Output.f90" "Module_Numerical_Integration.f90" "Module_Mobility.f90" "Module_Initialisation.f90" "Module_Init_tmp.f90" "Module_Init.f90" "Module_Conservation.f90" "Module_Complementaire.f90" "Mobility_Thickness_Skin_Rheology.f90" "Mobility_Thermal_Skin_Rheology.f90" "main.f90" "lib_array.f90" "Job_Test.job" "Job_Gen.py" "DatOld.py" "Data_Utils.py" "Data_Utils.job" "Data_Test.py" "Data.py" ".sconsign.dblite" ".gitignore" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Code/" (22121 37305 0 0) "TEST/" "Run_Code/" "EPGC_1/" "EPGC/" "Code_GRAV/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/model_defs/" (22256 9983 0 0) "lstm.pyc" "lstm.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Google Drive/ASI_Fellowship/" (22255 53900 0 0) "Icon
+" "candidature.md" "candidature.html" "../" "./")
+
+ ("/Users/thorey/Documents/paperwork/" (22255 51024 0 0) "S2DC/" "fancy_cv/" "../" "./")
+
+ ("/Users/thorey/.emacs.d/emacs-for-python/" (22252 5680 0 0) "snippets/" "scripts/" "README.org" "python-libs/" "extensions/" "epy-setup.el" "epy-python.el" "epy-nose.el" "epy-init.el" "epy-editing.el" "epy-completion.el" "epy-bindings.el" "doc/" "COPYING" "CONTRIBUTORS" "ChangeLog" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_0/h_150_rg_1e-07_lr_0.0001/" (22252 12293 0 0) "submissions_20160318_174208.csv" "model_history.png" "model_history.pkl" "model.pkl" "conf_model.json" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_0/" (22252 13465 0 0) "h_250_rg_1e-07_lr_5e-05/" "h_150_rg_1e-07_lr_0.0001/" "h_100_rg_1e-07_lr_5e-5/" "h_100_rg_1e-07_lr_5e-05/" "conf_model.json" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/kaggle-right-whale/model_definitions/" (22249 15378 0 0) "localize_pts_dec31.py" "cropped_jan05_4.py" "cropped_jan05_3.py" "cropped_jan05_2.py" "cropped_jan03.py" "cropped_jan02.py" "cropped_dec21_3.py" "cropped_dec19.py" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/LanguageTool-3.0/" (21905 4138 0 0) "third-party-licenses/" "testrules.sh" "testrules.bat" "README.md" "org/" "META-INF/" "libs/" "languagetool.jar" "languagetool-server.jar" "languagetool-commandline.jar" "COPYING.txt" "CHANGES.txt" "CHANGES.md" "../" "./")
 
  ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_1/h_150_rg_1e-07_lr_0.0001/" (22252 4887 0 0) "conf_model.json" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/scripts/" (22252 5090 0 0) "train.py" "predict.py" "conf_init_model.py" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/" (22252 3640 0 0) "utils/" "todo.org" "test.ipynb" "scripts/" "models/" "model_defs/" "fogwater-benchmark-model.ipynb" "first_submission.csv" "data/" ".ipynb_checkpoints/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/lstm/model_0/" (22250 59681 0 0) "learning_rate_0.0001_hidden_units_150_l2_reg_1e-07/" "conf_model.json" "../" "./")
 
  ("/Users/thorey/Documents/project/competition/fognet/models/" (22250 47649 0 0) "lstm/" ".ipynb_checkpoints/" "../" "./")
 
@@ -170,14 +264,7 @@
 
  ("/Users/thorey/Documents/Tool/kaggle-right-whale/" (22249 10716 0 0) "utils/" "scripts/" "requirements.txt" "README_DOCKER.md" "README.md" "notebooks/" "model_definitions/" "Makefile" "LICENSE" "Dockerfile" "data/" ".gitignore" ".git/" ".dockerignore" "../" "./")
 
- ("/Users/thorey/Documents/Tool/" (22249 27654 0 0) "word_cloud/" "WAC_GLOBAL_E000N0000_008P.IMG" "WAC_GLOBAL_E000N0000_004P.IM" "us_cities_and_states/" "twython/" "tqdm/" "Toyplot/" "todo.txt_cli-2.10/" "Theausurus.mthesaur.txt.cache" "Theausurus/" "TensorFlow/" "standfordParser/" "sloth/" "slate/" "SHTOOLS/" "scipy_distutils/" "Recipes/" "quartic/" "Python_Mod/" "Python_Function/" "python-progressbar/" "PyPDS/" "Pymacs/" "pyautopep8/" "Port/" "polished_notebooks/" "planetaryimage-0.2.0/" "palettable/" "nolearn_utils/" "nolearn/" "node_modules/" "mpld3/" "mechanize/" "matta/" "Mathematica 10/" "link-grammar-5.2.5/" "Lasagne/" "LanguageTool-3.0.zip" "LanguageTool-3.0/" "kramdown-with-pygments/" "keras/" "kaggle-right-whale/" "is13/" "IPython-notebook-extensions/" "grammar.svn/" "gmtpy/" "Ghost.py/" "ggplot/" "genderizer/" "folium/" "F2PY/" "f.txt" "Emacs_Config/" "elman-forward/" "dryscrape/" "Detection/" "datamaps/" "country-list/" "Copy_mae.py" "conlleval.pl" "Colormap/" "Cluster/" "clint/" "Circles/" "chromedriver" "benchmarks/" "atis.fold3.pkl.gz" "adjustbox/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/utils/" (22252 3116 0 0) "training_utils.pyc" "training_utils.py" "nolearn_net.pyc" "nolearn_net.py" "iterator.pyc" "iterator.py" "hook.pyc" "hook.py" "data_utils.pyc" "data_utils.py" "__init__.pyc" "__init__.py" "../" "./")
-
  ("/Users/thorey/Documents/paperwork/fancy_cv/" (22230 47927 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "README.md" "programing.png" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv.tex" "cv.synctex.gz" "cv.run.xml" "cv.pdf" "cv.out" "cv.md" "cv.log" "cv.fls" "cv.fdb_latexmk" "cv.blg" "cv.bcf" "cv.bbl" "cv.aux" "bibliography.bib" "auto/" ".ipynb_checkpoints/" ".git/" "../" "./")
-
- ("/Users/thorey/Google Drive/ASI_Fellowship/" (22225 43205 0 0) "Icon
-" "candidature.md" "candidature.html" "../" "./")
 
  ("/Users/thorey/Documents/project/pdsimage/" (22237 38730 0 0) "setup.py" "setup.cfg" "requirements.txt" "README.rst" "pdsimage/" "Notebook/" "MANIFEST.in" "LICENSE.txt" "environment.yml" "docs/" ".gitignore" ".git/" ".env" "../" "./")
 
@@ -189,8 +276,6 @@
 
  ("/Users/thorey/.emacs.d/settings/" (22251 52867 0 0) "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
 
- ("/Users/thorey/Documents/project/competition/fognet/model_defs/" (22250 54233 0 0) "lstm.pyc" "lstm.py" "__init__.pyc" "__init__.py" "../" "./")
-
  ("/Users/thorey/Documents/project/competition/fognet/data/" (22246 42219 0 0) "submission_format.csv" "fb38df29-e4b7-4331-862c-869fac984cfa.csv" "eaa4fe4a-b85f-4088-85ee-42cabad25c81.csv" "e384729e-3b9e-4f53-af1b-8f5449c69cb7.csv" "ba94c953-7381-4d3c-9cd9-a8c9642ecff5.csv" "b57b4f6f-8aae-4630-9a14-2d24902ddf30.csv" "a0f785bc-e8c7-4253-8e8a-8a1cd0441f73.csv" "8272b5ce-19e4-4dbd-80f2-d47e14786fa2.csv" "41d4a6af-93df-48ab-b235-fd69c8e5dab9.csv" "../" "./")
 
  ("/Users/thorey/Documents/project/competition/" (22246 42159 0 0) "yelp/" "fognet/" "../" "./")
@@ -198,8 +283,6 @@
  ("/Users/thorey/Documents/project/agu_data/" (22229 35193 0 0) "repo/" "gist/" "geocolab/" "../" "./")
 
  ("/Users/thorey/Documents/project/" (22246 42153 0 0) "pdsimage/" "mlcrater/" "cthorey.github.io/" "competition/" "agu_data/" "../" "./")
-
- ("/Users/thorey/" (22251 52906 0 0) "todo.cfg" "texput.log" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "latexmkrc" "Google Drive/" "emacs_GOOD/" "emacs_git/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".macports/" ".local/" ".littleshoot/" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs~" ".emacso" ".emacs_old~" ".emacs_old" ".emacs_GOOD" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".aws/" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
 
  ("/Users/cthorey/.emacs.d/" (22251 11079 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".git/" ".cask/" "../" "./")
 
@@ -227,12 +310,7 @@
 
  ("/Users/thorey/Documents/project/agu_data/gist/" (22187 39272 0 0) "basemap/" "../" "./")
 
- ("/Users/thorey/Documents/project/cthorey.github.io/" (22221 44489 0 0) "style.scss" "README.md" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
-
  ("/Users/thorey/Documents/project/agu_data/binder/" (22224 22199 0 0) "README.md" "index.ipynb" "environment.yml" "Data_Utils.pyc" "Data_Utils.py" ".ipynb_checkpoints/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/thorey/Google Drive/" (22224 4356 0 0) "Zone/" "TPCOrde/" "TP_Moment.zip" "Thesis/" "THESE_THOREY.pdf" "These_Rapport/" "StackEdit/" "SIXT/" "ScanImage001.jpg" "RyanairBoardingPass.pdf" "RyanairBoardingPass(2).pdf" "Rouault_SFN2014final.ppt" "résiliation.doc.gdoc" "résiliation.doc" "Revision_FFC_EPSL/" "Review_2_Thorey_FFC.docx" "posterAGU/" "Poster_AGU/" "Poster5.pdf" "PNP/" "piano/" "PC2015 TD1 300815.doc" "Papier/" "Old_Computer/" "Normandie/" "mrouaultserver/" "Module_Thickness_Newton.f90" "MLFFC/" "Mediapart/" "MathsL2/" "MarionRouaultLERUcoverletter_27jan2014.zdoc.glink" "MarionRouaultLERUcoverletter_27jan2014.doc" "Marion/" "Manuscript_Thorey.pdf" "Manuscript_Thorey (1).pdf" "Manuscript_Revision_2_Thorey_CM.pdf" "Manuscript/" "Manip2.eps" "Manip2.csv" "Manip1.eps" "Manip1.csv" "main.pdf" "Lisboa/" "LeProcheetleMoyenOrienttelecom.pdf" "Lecture7-convnet.md" "Lecture6-convnet.md" "LanguageC/" "Kevin_P._Murphy_Machine_Learning_A_Probabilistic_Perspective_AI_page_icog-labs.pdf" "JFM_Cooling/" "JFM/" "ING/" "Impot/" "IMG_4569.png" "Icon
-" "Highlights.gdoc" "Highlights.doc" "GRAILCrustalThicknessArchive.zip" "GRAIL/" "Google_Sheet.pdf" "Figure_JFM/" "FFC_Jessica/" "FFC_GRL/" "FFC_Gravity/" "Feuille de calcul sans titre.gsheet" "Expert_Python_programming.pdf" "example2_graph.png" "EmploiduTempsMathsL12015.xlsx" "DR BOOGIE 25_7_14.mp3" "Données du demandeur.xls.gsheet" "Données du demandeur.xls" "Document sans titre.gdoc" "Document sans titre (1).gdoc" "Diplome_Administratif/" "Diplome/" "Defense_Thorey.pptx" "Defense.key" "Defense 2.key" "Data1.zdoc.glink" "Data1.zdoc (1).glink" "CV_Français_Complet_Lopez-Oramas.pdf" "cs229-prob.pdf" "Cover_Letter.gdoc" "Cover_Letter.doc" "Corry_Data_Laccolith.xls" "Corry_Data_Laccolith.split/" "Corry_Data_Laccolith.pdf" "Corry_1.xlsx" "CompteRendu.py" "COLLE PHYSIQUE.gsheet" "CFDIP/" "Capture d’écran 2016-01-10 à 22.54.06.png" "Capture d’écran 2014-11-11 à 17.07.02.png" "Capture d’écran 2014-04-11 à 14.10.03.png" "Capture d’écran 2014-03-14 à 15.39.34.png" "Billet_AGU.PDF" "Billet.pdf" "Bibliography.bib" "Bibliography (1).bib" "ASI_Fellowship/" "Antares - Troisieme cycle/" "AGU2014/" "_F_Cleomedes_50m.eps" "113551_Corry.txt" "113233_Corry_1.txt.gdoc" "113233_Corry_1.txt" "113233_Corry_1 (1).txt" "112922_Corry_1.xlsx.gsheet" "112922_Corry_1.xlsx" ".DS_Store" "../" "./")
 
  ("/Users/" (21852 41263 0 0) "thorey/" "Shared/" ".localized" "../" "./")
 
@@ -292,68 +370,6 @@
  ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/JFM/" (22204 35789 0 0) "Reviewer3.md" "Reviewer3.docx" "Reviewer2.md" "Reviewer2.docx" "Reviewer1.md" "Reviewer1.docx" "natbib.sty" "Library.bib" "JFM_Thorey_Revision.pdf" "JFM_Thorey.tex" "JFM_Thorey.synctex.gz" "JFM_Thorey.pdf" "JFM_Thorey.log" "JFM_Thorey.fls" "JFM_Thorey.fdb_latexmk" "JFM_Thorey.dvi" "JFM_Thorey.blg" "JFM_Thorey.bbl" "JFM_Thorey.aux" "jfm.cls" "jfm.bst" "Figure_Revision/" "auto/" "AMSsymb.sty" "AMSgen.sty" "AMSfonts.sty" "AMSbsy.sty" ".Rhistory" ".DS_Store" "../" "./")
 
  ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/" (22159 39086 0 0) "Version_JFM/" "JFM/" "Draft_EPSL_2/" "Draft_EPSL_1_Crystalisation/" "auto/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/" (22121 37239 0 0) "JFM/" "Figure/" "auto/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" (22121 37870 0 0) "Write/" "SCAPAD/" "Routine/" "README.md" "Paper/" "Notebook/" "Figure/" "Code/" ".gitignore" ".git/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/Refroidissement/" (21769 42845 0 0) "Writing/" "Skin_Model/" "routine/" "Resultat/" "Presentation/" "Laccolith_Data/" "Daily_Report/" "Analyse_Result/" ".sync/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/" (21735 15813 0 0) "Refroidissement/" "LavaFlow/" "IntrusionSsVolcan/" "Intrusion/" "FFC/" "Basal_Ice_Flow/" ".sync/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/These/" (22121 31017 0 0) "Submission/" "Projet/" "Paperwork/" "Optimization_Formation/" "Manuscript/" "Librairie/" "Book/" ".sync/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/paperwork/" (22222 49101 0 0) "fancy_cv/" "../" "./")
-
- ("/Users/thorey/Documents/" (22222 49101 0 0) "Tool/" "These/" "Teaching/" "Stage/" "site/" "repos/" "project/" "pdsimage/" "paperwork/" "Papers Library/" "Own_Project/" "My Tableau Repository/" "MLearning/" "Cursera/" "cthorey.github.io/" "Clement.pprs" "Administratif/" ".sync/" ".localized" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
-
- ("/Users/cthorey/" (22222 12785 0 0) "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "Applications/" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".latexmkrc" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".continuum/" ".conda/" ".CFUserTextEncoding" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".autoenv_authorized.tmp" ".autoenv_authorized" "../" "./")
-
- ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/" (22210 17817 0 0) "ThreeLayerConvnet.py" "model_0/" "conf_init_maker.py" "../" "./")
-
- ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/model_0/" (22210 17817 0 0) "Exploration.ipynb" "conf_init.json" "../" "./")
-
- ("/Users/cthorey/Documents/MLearning/CS231/assignment2/" (22210 17817 0 0) "test_newconv.ipynb" "start_ipython_osx.sh" "requirements.txt" "README.md" "puppy.jpg" "kitten.jpg" "FullyConnectedNets.ipynb" "frameworkpython" "experiments/" "Dropout.ipynb" "cs231n/" "ConvolutionalNetworks.ipynb" "collectSubmission.sh" "BatchNormalization.ipynb" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
-
- ("/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/classifiers/" (22210 17817 0 0) "fc_net.py" "convnet.py" "cnn.py" "__init__.py" "../" "./")
-
- ("/Users/cthorey/Documents/MLearning/CS231/assignment2/cs231n/" (22210 17817 0 0) "vis_utils.py" "solver.py" "setup.py" "optim.py" "layers.py" "layer_utils.py" "im2col_cython.pyx" "im2col.py" "gradient_check.py" "fast_layers.py" "datasets/" "data_utils.py" "classifiers/" "__init__.py" ".gitignore" "../" "./")
-
- ("/Users/cthorey/Documents/MLearning/CS231/assignment2/experiments/FirstConvNet/" (22210 17817 0 0) "model_0/" "FirstConvNet.py" "conf_init_maker.py" "../" "./")
-
- ("/Users/cthorey/Documents/MLearning/CS231/" (22210 17817 0 0) "environment.yml" "assignment3/" "assignment2/" "assignment1/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/cthorey/Documents/repos/Lasagne/examples/" (22208 33006 0 0) "recurrent.py" "mnist.py" "../" "./")
-
- ("/Users/cthorey/Downloads/Fancy-CV/" (22222 4012 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv.tex" "bibliography.bib" "../" "./")
-
- ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/cache/" (22208 38096 0 0) ".DS_Store" "../" "./")
-
- ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" (22208 35331 0 0) "val.csv" "train.csv" "test.csv" "cache/" "../" "./")
-
- ("/Users/cthorey/Documents/project/kagle/yelp/Data/" (22208 43014 0 0) "weight_params/" "train-val-test/" "raw/" "../" "./")
-
- ("/Users/cthorey/Documents/project/kagle/yelp/Script/" (22208 43512 0 0) "create_cache_image.py" "base_model.py" "../" "./")
-
- ("/Users/cthorey/Documents/project/kagle/yelp/" (22208 43841 0 0) "Script/" "README.md" "Notebook/" "environment.yml" "Data/" ".gitignore" ".git/" ".env" "../" "./")
-
- ("/Users/cthorey/Documents/project/kagle/" (22208 43615 0 0) "yelp/" ".env" ".DS_Store" "../" "./")
-
- ("/Users/cthorey/Documents/project/kagle/Yelp/" (22208 43841 0 0) "Script/" "README.md" "Notebook/" "environment.yml" "Data/" ".gitignore" ".git/" ".env" "../" "./")
-
- ("/Users/cthorey/Documents/repos/kaggle-right-whale/data/" (22207 4631 0 0) "train_with_points.csv" "train_with_annotations_vinh.csv" "../" "./")
-
- ("/Users/cthorey/Documents/repos/keras/examples/" (22207 26212 0 0) "stateful_lstm.py" "reuters_mlp.py" "neural_style_transfer.py" "mnist_transfer_cnn.py" "mnist_siamese_graph.py" "mnist_mlp.py" "mnist_irnn.py" "mnist_cnn.py" "lstm_text_generation.py" "kaggle_otto_nn.py" "imdb_lstm.py" "imdb_cnn_lstm.py" "imdb_cnn.py" "imdb_bidirectional_lstm.py" "deep_dream.py" "conv_filter_visualization.py" "cifar10_cnn.py" "babi_rnn.py" "babi_memnn.py" "antirectifier.py" "addition_rnn.py" "../" "./")
-
- ("/Users/cthorey/Documents/repos/keras/" (22207 24999 0 0) "tests/" "setup.py" "setup.cfg" "README.md" "pytest.ini" "LICENSE" "Keras.egg-info/" "keras/" "examples/" "docs/" "dist/" "CONTRIBUTING.md" "build/" ".travis.yml" ".gitignore" ".git/" "../" "./")
-
- ("/Users/cthorey/Documents/repos/" (22207 24711 0 0) "nolearn_utils/" "Lasagne/" "keras/" "kaggle-right-whale/" "../" "./")
-
- ("/Users/cthorey/Documents/repos/kaggle-right-whale/scripts/" (22207 4631 0 0) "train_pts_model.py" "train_model.py" "train_localization_model.py" "predict_from_head_crop.py" "predict_from_crop.py" "predict.py" "extract_features.py" "create_test_head_crop_image.py" "create_test_cropped_image.py" "create_mean_image.py" "create_label_encoder.py" "create_cached_test_image.py" "create_cached_image.py" "create_cached_head_crop_image.py" "create_cached_cropped_image.py" "blend_submission_files.py" "../" "./")
-
- ("/Users/cthorey/Documents/repos/Lasagne/" (22207 14748 0 0) "setup.py" "setup.cfg" "requirements.txt" "requirements-dev.txt" "README.rst" "MANIFEST.in" "LICENSE" "lasagne/" "examples/" "docs/" "CONTRIBUTING.md" "CHANGES.rst" ".travis.yml" ".gitignore" ".git/" ".coveragerc-nogpu" ".coveragerc" "../" "./")
-
- ("/Users/cthorey/Documents/repos/kaggle-right-whale/model_definitions/" (22207 4631 0 0) "localize_pts_dec31.py" "cropped_jan05_4.py" "cropped_jan05_3.py" "cropped_jan05_2.py" "cropped_jan03.py" "cropped_jan02.py" "cropped_dec21_3.py" "cropped_dec19.py" "__init__.py" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

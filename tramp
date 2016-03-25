@@ -1,10 +1,8 @@
-;; -*- emacs-lisp -*- <16/02/08 22:55:45 /Users/cthorey/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <16/03/24 15:03:47 /Users/thorey/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
-((["scp" nil "ssh" nil nil]
-  nil)
- (["ssh" "thorey" "localhost#11270" nil nil]
+((["ssh" "thorey" "localhost#11270" nil nil]
   ("locale" "LC_ALL=en_US.utf8")
   ("uname" "Linux 2.6.32-358.23.2.el6.x86_64")
   ("test" "test")
@@ -24,5 +22,25 @@
   ("perl" "\\perl")
   ("readlink" "\\readlink")
   ("git" "\\git"))
- (["ssh" "thorey" "localhost" nil nil]
+ (["ssh" "clement" "clavius.step.univ-paris-diderot.fr" nil nil]
+  ("locale" "LC_ALL=C")
+  ("uname" "Darwin 15.2.0")
+  ("test" "test")
+  ("remote-path"
+   ("/usr/bin" "/bin" "/usr/sbin" "/sbin" "/usr/local/bin" "/opt/local/bin"))
+  ("remote-shell" "/bin/sh")
+  ("~" "/Users/clement")
+  ("ls" "/bin/ls")
+  ("ls-dired" nil)
+  ("stat" nil)
+  ("perl-file-spec" t)
+  ("perl-cwd-realpath" t)
+  ("perl" "\\perl5")
+  ("id" "/usr/bin/id")
+  ("gid-integer" 20)
+  ("gid-string" "staff")
+  ("readlink" nil)
+  ("file-exists" "test -e")
+  ("git" "\\git"))
+ (["scp" nil "ssh" nil nil]
   nil))
