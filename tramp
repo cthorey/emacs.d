@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <16/03/24 15:03:47 /Users/thorey/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <16/04/21 17:23:07 /Users/thorey/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -24,23 +24,25 @@
   ("git" "\\git"))
  (["ssh" "clement" "clavius.step.univ-paris-diderot.fr" nil nil]
   ("locale" "LC_ALL=C")
-  ("uname" "Darwin 15.2.0")
+  ("uname" "Darwin 15.4.0")
   ("test" "test")
   ("remote-path"
-   ("/usr/bin" "/bin" "/usr/sbin" "/sbin" "/usr/local/bin" "/opt/local/bin"))
+   ("/usr/bin" "/bin" "/usr/sbin" "/sbin" "/usr/local/bin"))
   ("remote-shell" "/bin/sh")
-  ("~" "/Users/clement")
   ("ls" "/bin/ls")
   ("ls-dired" nil)
   ("stat" nil)
   ("perl-file-spec" t)
   ("perl-cwd-realpath" t)
-  ("perl" "\\perl5")
+  ("perl" "\\perl")
   ("id" "/usr/bin/id")
   ("gid-integer" 20)
   ("gid-string" "staff")
   ("readlink" nil)
   ("file-exists" "test -e")
-  ("git" "\\git"))
+  ("git" "\\git")
+  ("~" "/Users/clement"))
  (["scp" nil "ssh" nil nil]
+  nil)
+ (["ssh" "thorey" "localhost" nil nil]
   nil))
