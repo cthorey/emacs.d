@@ -93,6 +93,10 @@
 (setq web-mode-ac-sources-alist
   '(("css" . (ac-source-css-property))
     ("html" . (ac-source-words-in-buffer ac-source-abbrev))))
+(setq web-mode-engines-alist
+      '(("django"    . "\\.html?\\'")
+        ("blade"  . "\\.blade\\."))
+)
 
 
 ;; Todo.txt

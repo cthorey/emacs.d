@@ -2,6 +2,12 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/thorey/Documents/project/agu_data/geocolab/models/" . "LSA_abstract/")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/src/" . "model/")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/geocolab/" . "database/")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/data/" . "database/")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/static/" . "js/")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/" . "templates/")
  ("/Users/thorey/Documents/Tool/arxiv-sanity-preserver/" . "templates/")
  ("/Users/thorey/Documents/project/geocolab/webapp/static/" . "js/")
  ("/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/static/" . "css/")
@@ -54,8 +60,8 @@
  ("/Users/thorey/Documents/project/competition/fognet/models/" . "bbking/")
  ("/Users/thorey/Documents/Tool/kaggle-right-whale/" . "scripts/")
  ("/Users/thorey/Documents/Tool/" . "arxiv-sanity-preserver/")
- ("/Users/thorey/Documents/project/competition/fognet/" . "utils/")
- ("/Users/thorey/Documents/project/competition/" . "fognet/")
+ ("/Users/thorey/Documents/project/competition/fognet/" . "scripts/")
+ ("/Users/thorey/Documents/project/competition/" . "expedia/")
  ("/Users/cthorey/Documents/project/competition/" . "fognet/")
  ("/Users/thorey/Documents/project/agu_data/gist/" . "basemap/")
  ("/Users/thorey/Documents/project/cthorey.github.io/" . "_posts/")
@@ -77,7 +83,7 @@
  ("/Users/thorey/Documents/These/" . "Projet/")
  ("/Users/thorey/Documents/paperwork/" . "fancy_cv/")
  ("/Users/thorey/Documents/" . "project/")
- ("/Users/thorey/" . ".emacs.d/")
+ ("/Users/thorey/" . "Documents/")
  ("/" . "Users/")
  ("/Users/cthorey/Documents/paperwork/" . "fancy-cv/")
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" . "cache/")
@@ -128,9 +134,20 @@
 
 ;; ----- ido-work-directory-list -----
 (
- "/Users/thorey/.emacs.d/"
- "/Users/thorey/.emacs.d/settings/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/webapp/templates/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/src/model/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/webapp/static/js/"
  "/Users/thorey/Documents/project/agu_data/geocolab/webapp/"
+ "/Users/thorey/.emacs.d/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/"
+ "/Users/thorey/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/data/database/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/src/database/"
+ "/Users/thorey/Documents/project/competition/expedia/"
+ "/Users/thorey/Documents/project/competition/fognet/scripts/arima/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/geocolab/database/"
+ "/Users/thorey/Documents/project/agu_data/geocolab/geocolab/"
+ "/Users/thorey/.emacs.d/settings/"
  "/Users/thorey/Documents/project/geocolab/webapp/"
  "/Users/thorey/Documents/project/geocolab/webapp/templates/"
  "/Users/thorey/Documents/project/competition/fognet/utils/"
@@ -139,14 +156,12 @@
  "/ssh:thorey@localhost#11270:"
  "/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/utils/"
  "/ssh:clement@clavius.step.univ-paris-diderot.fr:"
- "/Users/thorey/Documents/project/competition/fognet/scripts/arima/"
  "/Users/thorey/Documents/project/agu_data/gist/basemap/"
  "/Users/thorey/Documents/project/geocolab/webapp/static/js/"
  "/Users/thorey/Documents/project/geocolab/geocolab/"
  "/Users/thorey/Documents/project/geocolab/webapp/static/css/"
  "/Users/thorey/Documents/Tool/arxiv-sanity-preserver/"
  "/Users/thorey/Documents/Tool/arxiv-sanity-preserver/templates/"
- "/Users/thorey/Documents/project/agu_data/geocolab/geocolab/"
  "/Users/thorey/Documents/project/geocolab/"
  "/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/static/css/"
  "/Users/thorey/Documents/project/geocolab/webapp/static/"
@@ -169,67 +184,79 @@
  "/Users/thorey/Documents/project/competition/fognet/model_defs/"
  "/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/model_0/hiddens_100_lr_0.001_reg_1e-06_seq_length_200/"
  "/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/model_0/"
- "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/New_Version_Workspace/"
- "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Code/EPGC/"
- "/Users/thorey/Documents/Tool/ThinkStats2/book/"
- "/Users/thorey/Documents/project/cthorey.github.io/_posts/"
- "/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/models/clavius/lstm/model_0/"
- "/Users/thorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/"
- "/Users/thorey/Documents/Tool/nolearn/"
- "/Users/thorey/Documents/project/competition/fognet/models/lstm/model_2/"
- "/Users/thorey/Documents/project/competition/fognet/models/lstm/model_1/h_50_rg_1e-07_lr_0.0001/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "init.el"
- "web-mode.el"
- "routes.py"
+ "schedule.html"
+ "helper.py"
+ "base_query.html"
+ "base_schedule.html"
+ "scratch.html"
+ "collab_map.js"
+ "basejourney.js"
  "layout.html"
- "about.html"
- "__init__.py"
- "conf_init_model.py"
- "initialization.py"
- "gridsearch.py"
+ "query_based.html"
+ "recomendation.py"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
- ("/Users/thorey/.emacs.d/settings/" (22296 61451 0 0) "web-mode.el" "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/templates/" (22312 50243 0 0) "search.html" "scratch.html" "schedule.html" "query_based_journey.html" "query_based.html" "layout.html" "home.html" "collaborators.html" "basejourney.html" "baseapp.html" "base_schedule.html" "base_query.html" "about.html" ".#scratch.html" ".#basejourney.html" "../" "./")
 
- ("/Users/thorey/.emacs.d/" (22295 34320 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".gitignore" ".git/" ".cask/" "../" "./")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/src/model/" (22312 51156 0 0) "recomendation.pyc" "recomendation.py" "helper.pyc" "helper.py" "build_model.py" "__init__.pyc" "__init__.py" ".#recomendation.py" "../" "./")
 
- ("/Users/thorey/" (22296 61282 0 0) "todo.cfg" "texput.log" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "mys.txt" "Music/" "Movies/" "miniconda2/" "Library/" "latexmkrc" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".local/" ".littleshoot/" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".aws/" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/static/js/" (22312 48203 0 0) "npm.js" "jquery-helper.js" "home_map.js" "helper-DOM.js" "collab_map.js" "bootstrap.min.js" "bootstrap.js" "basejourney.js" "baseapp.js" "../" "./")
 
- ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/" (22296 61270 0 0) "templates/" "static/" "routes.pyc" "routes.py" "__init__.pyc" "__init__.py" "../" "./")
+ ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/" (22312 46030 0 0) "templates/" "static/" "routes.pyc" "routes.py" "__init__.pyc" "__init__.py" "../" "./")
 
- ("/Users/thorey/Documents/project/agu_data/geocolab/" (22296 61223 0 0) "webapp/" "runserver.py" "requirements.txt" "README.md" "notebooks/" "index.ipynb" "geocolab/" "data/" ".ipynb_checkpoints/" ".gitignore" ".git/" "../" "./")
+ ("/Users/thorey/" (22312 41162 0 0) "todo.cfg" "texput.log" "Test/" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "mys.txt" "Music/" "Movies/" "miniconda2/" "Library/" "latexmkrc" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".wget-hsts" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".local/" ".littleshoot/" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".aws/" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
+
+ ("/Users/thorey/.emacs.d/" (22307 14436 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".gitignore" ".git/" ".cask/" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/src/database/" (22312 24779 0 0) "make_database.py" "insert_primary_keys.sql" "database.pyc" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/data/database/" (22312 24945 0 0) "test.sql" "geocolab.db" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/static/" (22312 27480 0 0) "js/" "fonts/" "css/" "bower_components/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/" (22312 27252 0 0) "webapp/" "src/" "runserver.py" "requirements.txt" "report.org" "README.md" "package.json" "notebooks/" "node_modules/" "models/" "index.ipynb" "data/" "bower.json" ".ipynb_checkpoints/" ".gitignore" ".git/" ".bowerrc" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/src/" (22312 24614 0 0) "scrapping/" "model/" "database/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/expedia/" (22306 440 0 0) "tox.ini" "src/" "requirements.txt" "reports/" "references/" "README.md" "notebooks/" "models/" "LICENSE" "docs/" "data/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/" (22305 64240 0 0) "yelp/" "fognet/" "expedia/" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/models/LSA_abstract/" (22304 47543 0 0) "abstract_Xtsne.pkl_01.npy" "abstract_Xtsne.pkl" "abstract_X.pkl_01.npy" "abstract_X.pkl" "abstract_tfidf.model" "abstract_tfidf.mm.index" "abstract_tfidf.mm" "abstract_tfidf.index" "abstract_sources.txt" "abstract_raw.dict" "abstract_lsi.model.projection" "abstract_lsi.model" "abstract_lsi.mm.index" "abstract_lsi.mm" "abstract_lsi.index.index.npy" "abstract_lsi.index" "abstract_data.txt" "abstract_bow.mm.index" "abstract_bow.mm" "abstract_bow.index" "abstract_authors.dict" "abstract.dict" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/models/" (22304 47547 0 0) "LSA_abstract/" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/data/" (22304 47435 0 0) "scrapped/" "database/" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/geocolab/database/" (22304 45030 0 0) "insert_primary_keys.sql" "database.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/geocolab/geocolab/" (22304 45053 0 0) "Scrap_papers.py" "Scrap_names.py" "database.py" "database/" "Data_Utils.pyc" "Data_Utils.py" "build_representations.py" "__init__.pyc" "__init__.py" "?FILENAME?" "../" "./")
+
+ ("/Users/thorey/Documents/project/cthorey.github.io/_posts/" (22237 33942 0 0) "test.js" "2016-02-02-backprop_conv.markdown" "2016-01-28-backpropagation.markdown" "2016-01-26-AGU_Part3.md" "2016-01-26-AGU_Part2.md" "2016-01-26-AGU_Part1.md" "2015-01-27-test.md" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/" (22303 30992 0 0) "utils/" "Untitled3.ipynb" "Untitled2.ipynb" "Untitled1.ipynb" "Untitled.ipynb" "todo.org" "test.ipynb" "test rnn_mask.ipynb" "Test improve base model.ipynb" "submission_today.csv" "submission.csv" "submision_today.csv" "scripts/" "result_ray.csv" "models/" "model_ensemble.csv" "model_defs/" "Model_checking.ipynb" "Model_check.ipynb" "helper_function_design.ipynb" "forecast.ipynb" "fogwater-benchmark-model.ipynb" "first_submission.csv" "environment.yml" "desing_feature.ipynb" "design_data.ipynb" "data/" "10-03-2016.ipynb" "07-04-2016.ipynb" ".Rhistory" ".ipynb_checkpoints/" ".gitignore" ".git/" ".daf4d466-3dc3-49d4-b3ed-f288cd506e3d.png-ZeNE" "../" "./")
+
+ ("/Users/thorey/Documents/Tool/arxiv-sanity-preserver/" (22292 61457 0 0) "ui.jpeg" "thumb_pdf.py" "templates/" "static/" "serve.py" "schema.sql" "requirements.txt" "README.md" "parse_pdf_to_text.py" "fetch_papers.py" "download_pdfs.py" "buildsvm.py" "analyze.py" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/.emacs.d/settings/" (22304 29104 0 0) "web-mode.el" "sql-setting.el" "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/gist/basemap/" (22298 14345 0 0) "index.html" "datamaps.world.min.js" "basemap.js" ".git/" ".#index.html" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/scripts/arima/" (22296 60832 0 0) "train.py" "predict.py" "log" "gridsearch.py" "conf_init_model.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/fognet/utils/" (22298 6764 0 0) "utils.pyc" "training_utils.pyc" "train_utils.pyc" "train_utils.py" "split_method.pyc" "split_method.py" "result_utils.pyc" "result_utils.py" "preprocessing.pyc" "preprocessing.py" "pipe_def_arima.pyc" "pipe_def_arima.py" "pipe_def.pyc" "pipe_def.py" "objectives_utils.pyc" "objectives_utils.py" "nolearn_net.pyc" "nolearn_net.py" "net_builder.pyc" "net_builder.py" "lstm_utils.py" "iterator.pyc" "iterator.py" "initialization.pyc" "initialization.py" "hook.pyc" "hook.py" "helper.pyc" "helper.py" "ensemble_utils.pyc" "ensemble_utils.py" "data_utils.pyc" "data_utils.py" "arima_utils.pyc" "arima_utils.py" "__init__.pyc" "__init__.py" "../" "./")
 
  ("/Users/thorey/Documents/project/" (22296 61232 0 0) "pdsimage/" "mlcrater/" "cthorey.github.io/" "competition/" "agu_data/" "../" "./")
 
  ("/Users/thorey/Documents/project/geocolab/webapp/" (22296 61119 0 0) "templates/" "static/" "routes.pyc" "routes.py" "__init__.pyc" "__init__.py" "../" "./")
 
  ("/Users/thorey/Documents/project/geocolab/webapp/templates/" (22296 61118 0 0) "search.html" "layout.html" "home.html" "about.html" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/utils/" (22296 60980 0 0) "utils.pyc" "training_utils.pyc" "train_utils.pyc" "train_utils.py" "split_method.pyc" "split_method.py" "result_utils.pyc" "result_utils.py" "preprocessing.pyc" "preprocessing.py" "pipe_def_arima.pyc" "pipe_def_arima.py" "pipe_def.pyc" "pipe_def.py" "objectives_utils.pyc" "objectives_utils.py" "nolearn_net.pyc" "nolearn_net.py" "net_builder.pyc" "net_builder.py" "lstm_utils.py" "iterator.pyc" "iterator.py" "initialization.pyc" "initialization.py" "hook.pyc" "hook.py" "helper.pyc" "helper.py" "ensemble_utils.pyc" "ensemble_utils.py" "data_utils.pyc" "data_utils.py" "arima_utils.pyc" "arima_utils.py" "__init__.pyc" "__init__.py" "../" "./")
-
- ("/ssh:clement@clavius.step.univ-paris-diderot.fr:Documents/project/competition/fognet/scripts/arima/" (ftp . 405902.99361111113) "./" "../" ".Rhistory" "conf_init_model.py" "gridsearch.py" "predict.py" "train.py")
-
- ("/ssh:clement@clavius.step.univ-paris-diderot.fr:Documents/project/competition/fognet/scripts/" (ftp . 405902.99333333335) "./" "../" "arima/" "lstm/")
-
- ("/ssh:clement@clavius.step.univ-paris-diderot.fr:Documents/project/competition/fognet/" (ftp . 405902.99305555556) "./" "../" ".daf4d466-3dc3-49d4-b3ed-f288cd506e3d.png-ZeNE" ".git/" ".gitignore" ".ipynb_checkpoints/" ".Rhistory" "07-04-2016.ipynb" "10-03-2016.ipynb" "data/" "design_data.ipynb" "desing_feature.ipynb" "environment.yml" "first_submission.csv" "fogwater-benchmark-model.ipynb" "forecast.ipynb" "helper_function_design.ipynb" "Model_checking.ipynb" "model_ensemble.csv" "models/" "result_ray.csv" "scripts/" "submision_today.csv" "submission.csv" "submission_today.csv" "Test improve base model.ipynb" "test rnn_mask.ipynb" "test.ipynb" "todo.org" "Untitled.ipynb" "Untitled1.ipynb" "utils/")
-
- ("/ssh:clement@clavius.step.univ-paris-diderot.fr:Documents/project/competition/" (ftp . 405902.9927777778) "./" "../" "fognet/" "yelp/")
-
- ("/ssh:clement@clavius.step.univ-paris-diderot.fr:Documents/project/" (ftp . 405902.9927777778) "./" "../" "agu_data/" "competition/" "pdsimage/")
-
- ("/ssh:clement@clavius.step.univ-paris-diderot.fr:Documents/" (ftp . 405902.9919444444) "./" "../" ".DS_Store" ".localized" "Classification/" "Gravi_GRAIL/" "Library.papers3/" "MLearning/" "project/" "repo/")
-
- ("/Users/thorey/Documents/project/competition/fognet/" (22296 59484 0 0) "utils/" "Untitled1.ipynb" "Untitled.ipynb" "todo.org" "test.ipynb" "test rnn_mask.ipynb" "Test improve base model.ipynb" "submission_today.csv" "submission.csv" "submision_today.csv" "scripts/" "result_ray.csv" "models/" "model_ensemble.csv" "model_defs/" "Model_checking.ipynb" "helper_function_design.ipynb" "forecast.ipynb" "fogwater-benchmark-model.ipynb" "first_submission.csv" "environment.yml" "desing_feature.ipynb" "design_data.ipynb" "data/" "10-03-2016.ipynb" "07-04-2016.ipynb" ".Rhistory" ".ipynb_checkpoints/" ".gitignore" ".git/" ".daf4d466-3dc3-49d4-b3ed-f288cd506e3d.png-ZeNE" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/scripts/arima/" (22296 56758 0 0) "train.py" "predict.py" "log" "gridsearch.py" "conf_init_model.py" "../" "./")
-
- ("/Users/thorey/Documents/project/agu_data/gist/basemap/" (22187 40311 0 0) "index.html" "datamaps.world.min.js" "basemap.js" ".git/" "../" "./")
 
  ("/Users/thorey/Documents/project/agu_data/gist/" (22187 39272 0 0) "basemap/" "../" "./")
 
@@ -248,8 +275,6 @@
  ("/Users/thorey/Documents/project/geocolab/webapp/static/img/" (22291 28925 0 0) "../" "./")
 
  ("/Users/thorey/Documents/Tool/arxiv-sanity-preserver/templates/" (22288 44148 0 0) "main.html" "../" "./")
-
- ("/Users/thorey/Documents/Tool/arxiv-sanity-preserver/" (22288 44148 0 0) "ui.jpeg" "thumb_pdf.py" "templates/" "static/" "serve.py" "schema.sql" "requirements.txt" "README.md" "parse_pdf_to_text.py" "fetch_papers.py" "download_pdfs.py" "buildsvm.py" "analyze.py" ".gitignore" ".git/" "../" "./")
 
  ("/Users/thorey/Documents/Tool/" (22288 44146 0 0) "word_cloud/" "WAC_GLOBAL_E000N0000_008P.IMG" "WAC_GLOBAL_E000N0000_004P.IM" "us_cities_and_states/" "twython/" "tqdm/" "Toyplot/" "todo.txt_cli-2.10/" "ThinkStats2/" "Theausurus.mthesaur.txt.cache" "Theausurus/" "TensorFlow/" "statsmodels/" "standfordParser/" "sloth/" "slate/" "SHTOOLS/" "scipy_distutils/" "Recipes/" "quartic/" "Python_Mod/" "Python_Function/" "python-progressbar/" "PyPDS/" "Pymacs/" "pyautopep8/" "Port/" "polished_notebooks/" "planetaryimage-0.2.0/" "palettable/" "nolearn_utils/" "nolearn/" "node_modules/" "mpld3/" "mechanize/" "matta/" "Mathematica 10/" "link-grammar-5.2.5/" "Lasagne/" "LanguageTool-3.0.zip" "LanguageTool-3.0/" "kramdown-with-pygments/" "keras/" "kaggle-right-whale/" "is13/" "IPython-notebook-extensions/" "grammar.svn/" "gmtpy/" "Ghost.py/" "ggplot/" "genderizer/" "folium/" "F2PY/" "f.txt" "example_statsmodels/" "Emacs_Config/" "elman-forward/" "dryscrape/" "Detection/" "datamaps/" "country-list/" "Copy_mae.py" "conlleval.pl" "Colormap/" "Cluster/" "clint/" "Circles/" "chromedriver" "benchmarks/" "atis.fold3.pkl.gz" "arxiv-sanity-preserver/" "adjustbox/" ".DS_Store" "../" "./")
 
@@ -300,8 +325,6 @@
 
  ("/Users/thorey/Documents/project/competition/fognet/scripts/" (22278 968 0 0) "lstm/" "arima/" "../" "./")
 
- ("/Users/thorey/Documents/project/competition/" (22274 33031 0 0) "yelp/" "fognet/" "../" "./")
-
  ("/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/" (22267 54210 0 0) "model_2/" "model_1/" "model_0/" "../" "./")
 
  ("/Users/thorey/Documents/project/competition/fognet/utils/Version_1/" (22267 53523 0 0) "utils.pyc" "training_utils.pyc" "train_utils.pyc" "train_utils.py" "result_utils.pyc" "result_utils.py" "preprocessing.pyc" "preprocessing.py" "objectives_utils.pyc" "objectives_utils.py" "nolearn_net.pyc" "nolearn_net.py" "net_builder.pyc" "net_builder.py" "iterator.pyc" "iterator.py" "initialization.pyc" "initialization.py" "hook.pyc" "hook.py" "helper.pyc" "helper.py" "ensemble_utils.pyc" "ensemble_utils.py" "data_utils.pyc" "data_utils.py" "__init__.pyc" "__init__.py" ".#nolearn_net.py" "../" "./")
@@ -335,8 +358,6 @@
  ("/Users/thorey/Documents/Tool/ThinkStats2/" (22260 4765 0 0) "README.md" "LICENSE" "code/" "book/" ".gitignore" ".git/" "../" "./")
 
  ("/Users/thorey/Documents/" (22260 4638 0 0) "Tool/" "These/" "Teaching/" "Stage/" "site/" "ressources/" "repos/" "project/" "pdsimage/" "paperwork/" "Papers Library/" "Own_Project/" "My Tableau Repository/" "MLearning/" "Cursera/" "cthorey.github.io/" "Clement.pprs" "Administratif/" ".sync/" ".localized" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/project/agu_data/geocolab/geocolab/" (22259 48413 0 0) "Scrap_papers.py" "Scrap_names.py" "Data_Utils.pyc" "Data_Utils.py" "build_representations.py" "__init__.pyc" "__init__.py" "../" "./")
 
  ("/Users/thorey/Documents/project/cthorey.github.io/" (22230 51212 0 0) "style.scss" "README.md" "publication.md" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "archive.md" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
 

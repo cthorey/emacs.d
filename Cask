@@ -18,6 +18,7 @@
 (depends-on "helm")
 (depends-on "helm-core")
 (depends-on "jedi")
+(depends-on "jinja2-mode")
 (depends-on "js2-mode")
 (depends-on "magit")
 (depends-on "magit-popup")
