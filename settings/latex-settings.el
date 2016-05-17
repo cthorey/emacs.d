@@ -1,6 +1,6 @@
 ;-----------;
 ;;; LaTeX ;;;
-;-----------;
+                                        ;-----------;
 (require 'auctex-latexmk)
 (auctex-latexmk-setup)
 
@@ -30,27 +30,11 @@
 
 
 (add-hook 'message-mode-hook 'turn-on-auto-fill)
+
 (add-hook 'text-mode-hook
   (lambda ()
   (auto-fill-mode 1)
   (setq default-justification 'full)))
-
-;; (defun my-fill-nobreak-predicate ()
-;;   (save-match-data
-;;     (or (looking-at "[ \t]*[])}»!?;:]")
-;;         (looking-at "[ \t]*\\.\\.\\.")
-;;         (save-excursion
-;;           (skip-chars-backward " \t")
-;;           (backward-char 1)
-;;           (looking-at "[([{«]")))))
-
-;; (setq fill-nobreak-predicate 'my-fill-nobreak-predicate)
-
-;; (add-hook 'ada-mode-hook
-;;           '(lambda ()
-;;                    (make-local-variable 'fill-nobreak-predicate)
-;;                    (setq fill-nobreak-predicate 'ada-in-string-p)))
-
 
 ;; make latexmk available via C-c C-c
 ;; Note: SyncTeX is setup via ~/.latexmkrc (see below)

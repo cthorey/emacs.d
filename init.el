@@ -75,9 +75,9 @@
 
 ;; LaTeX and Auctex
 (require 'latex-settings)
-(add-hook 'LaTeX-mode-hook #'latex-extra-mode)
 
-;; web-mode
+
+
 (require 'web-mode)
 (add-to-list 'auto-mode-alist '("\\.phtml\\'" . web-mode))
 (add-to-list 'auto-mode-alist '("\\.tpl\\.php\\'" . web-mode))
