@@ -2,6 +2,15 @@
 
 ;; ----- ido-last-directory-list -----
 (
+ ("/Users/thorey/Documents/project/competition/expedia/notebooks/exploratory/" . "notebooks/")
+ ("/Users/thorey/Documents/project/competition/expedia/notebooks/" . "exploratory/")
+ ("/Users/thorey/Documents/project/competition/expedia/" . "notebooks/")
+ ("/Users/thorey/Documents/project/geocolab/data/" . "database/")
+ ("/Users/thorey/Downloads/auto/" . "templates/")
+ ("/Users/thorey/Downloads/" . "auto/")
+ ("/Users/thorey/Documents/project/geocolab/src/" . "model/")
+ ("/Users/thorey/Documents/repos/jQuery-Autocomplete/" . "dist/")
+ ("/Users/thorey/Documents/repos/" . "jQuery-Autocomplete/")
  ("/Users/cthorey/Documents/These/Refroidissement/Skin_Model/Paper/JFM/" . "JFM/")
  ("/Users/cthorey/Documents/These/Refroidissement/Skin_Model/Paper/" . "JFM/")
  ("/Users/cthorey/Documents/These/Refroidissement/Skin_Model/" . "Paper/")
@@ -14,11 +23,11 @@
  ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/static/" . "js/")
  ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/" . "templates/")
  ("/Users/thorey/Documents/Tool/arxiv-sanity-preserver/" . "templates/")
- ("/Users/thorey/Documents/project/geocolab/webapp/static/" . "js/")
+ ("/Users/thorey/Documents/project/geocolab/webapp/static/" . "css/")
  ("/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/static/" . "css/")
  ("/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/" . "static/")
  ("/Users/thorey/Documents/project/geocolab/webapp/" . "templates/")
- ("/Users/thorey/Documents/project/geocolab/" . "webapp/")
+ ("/Users/thorey/Documents/project/geocolab/" . "src/")
  ("/Users/thorey/Documents/ressources/flaskapptest/" . "intro_to_flask/")
  ("/Users/thorey/Documents/ressources/Thinckstats/ThinkStats2/" . "code/")
  ("/Users/thorey/Documents/ressources/Thinckstats/" . "ThinkStats2/")
@@ -72,7 +81,7 @@
  ("/Users/thorey/Documents/project/cthorey.github.io/" . "_posts/")
  ("/Users/thorey/Documents/project/agu_data/repo/" . "agu_data/")
  ("/Users/thorey/Documents/project/agu_data/" . "geocolab/")
- ("/Users/thorey/Documents/project/" . "agu_data/")
+ ("/Users/thorey/Documents/project/" . "competition/")
  ("/Users/thorey/Google Drive/" . "ASI_Fellowship/")
  ("/Users/cthorey/.emacs.d/.cask/24.5.1/elpa/" . "markdown-mode-20160223.537/")
  ("/Users/cthorey/.emacs.d/.cask/24.5.1/" . "elpa/")
@@ -82,13 +91,13 @@
  ("/Users/thorey/.emacs.d/" . "settings/")
  ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/" . "JFM/")
  ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/" . "JFM/")
- ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" . "Routine/")
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" . "Paper/")
  ("/Users/thorey/Documents/These/Projet/Refroidissement/" . "Skin_Model/")
  ("/Users/thorey/Documents/These/Projet/" . "Refroidissement/")
  ("/Users/thorey/Documents/These/" . "Projet/")
  ("/Users/thorey/Documents/paperwork/" . "fancy_cv/")
  ("/Users/thorey/Documents/" . "project/")
- ("/Users/thorey/" . "Documents/")
+ ("/Users/thorey/" . ".emacs.d/")
  ("/" . "Users/")
  ("/Users/cthorey/Documents/paperwork/" . "fancy-cv/")
  ("/Users/cthorey/Documents/project/kagle/yelp/Data/train-val-test/" . "cache/")
@@ -132,13 +141,41 @@
  ("/Users/cthorey/Documents/" . "paperwork/")
  ("/Users/cthorey/.emacs.d/" . "settings/")
  ("/Users/cthorey/" . "Documents/")
- ("/Users/" . "cthorey/")
+ ("/Users/" . "thorey/")
  ("/Users/cthorey/" . ".emacs.d/")
  ("/Users/" . "thorey/")
 )
 
 ;; ----- ido-work-directory-list -----
 (
+ "/Users/thorey/.emacs.d/settings/"
+ "/Users/thorey/.emacs.d/"
+ "/Users/thorey/Dockerfile/"
+ "/Users/thorey/Documents/project/competition/expedia/notebooks/exploratory/notebooks/"
+ "/Users/thorey/Documents/project/geocolab/src/model/"
+ "/Users/thorey/Documents/project/geocolab/src/scrapping/"
+ "/Users/thorey/Documents/project/geocolab/src/database/"
+ "/Users/thorey/Documents/project/competition/expedia/"
+ "/ssh:thorey@46.101.190.186:"
+ "/Users/thorey/"
+ "/ssh:root@46.101.99.129:"
+ "/Users/thorey/.digitalocean/"
+ "/Users/thorey/Documents/project/geocolab/data/database/"
+ "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/JFM/"
+ "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/New_Version_Workspace/"
+ "/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/PAPER/"
+ "/Users/thorey/Documents/project/geocolab/"
+ "/Users/thorey/.aws/"
+ "/Users/thorey/Documents/project/geocolab/webapp/templates/"
+ "/Users/thorey/Documents/project/geocolab/webapp/static/css/"
+ "/Users/thorey/Documents/project/geocolab/webapp/"
+ "/Users/thorey/Documents/project/geocolab/config/"
+ "/Users/thorey/Documents/project/cthorey.github.io/_posts/"
+ "/Users/thorey/Documents/project/geocolab/webapp/static/js/"
+ "/Users/thorey/Downloads/auto/"
+ "/Users/thorey/Downloads/auto/templates/"
+ "/Users/thorey/Documents/repos/jQuery-Autocomplete/scripts/"
+ "/Users/thorey/Documents/repos/jQuery-Autocomplete/"
  "/Users/cthorey/Documents/paperwork/fancy-cv/"
  "/Users/cthorey/.emacs.d/"
  "/Users/cthorey/Documents/These/Refroidissement/Skin_Model/Paper/JFM/JFM/"
@@ -148,18 +185,12 @@
  "/Users/thorey/Documents/project/agu_data/geocolab/src/model/"
  "/Users/thorey/Documents/project/agu_data/geocolab/webapp/static/js/"
  "/Users/thorey/Documents/project/agu_data/geocolab/webapp/"
- "/Users/thorey/.emacs.d/"
  "/Users/thorey/Documents/project/agu_data/geocolab/"
- "/Users/thorey/"
  "/Users/thorey/Documents/project/agu_data/geocolab/data/database/"
  "/Users/thorey/Documents/project/agu_data/geocolab/src/database/"
- "/Users/thorey/Documents/project/competition/expedia/"
  "/Users/thorey/Documents/project/competition/fognet/scripts/arima/"
  "/Users/thorey/Documents/project/agu_data/geocolab/geocolab/database/"
  "/Users/thorey/Documents/project/agu_data/geocolab/geocolab/"
- "/Users/thorey/.emacs.d/settings/"
- "/Users/thorey/Documents/project/geocolab/webapp/"
- "/Users/thorey/Documents/project/geocolab/webapp/templates/"
  "/Users/thorey/Documents/project/competition/fognet/utils/"
  "/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/scripts/arima/"
  "/ssh:clement@clavius.step.univ-paris-diderot.fr:Documents/project/competition/fognet/scripts/arima/"
@@ -167,46 +198,129 @@
  "/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/utils/"
  "/ssh:clement@clavius.step.univ-paris-diderot.fr:"
  "/Users/thorey/Documents/project/agu_data/gist/basemap/"
- "/Users/thorey/Documents/project/geocolab/webapp/static/js/"
- "/Users/thorey/Documents/project/geocolab/geocolab/"
- "/Users/thorey/Documents/project/geocolab/webapp/static/css/"
- "/Users/thorey/Documents/Tool/arxiv-sanity-preserver/"
- "/Users/thorey/Documents/Tool/arxiv-sanity-preserver/templates/"
- "/Users/thorey/Documents/project/geocolab/"
- "/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/static/css/"
- "/Users/thorey/Documents/project/geocolab/webapp/static/"
- "/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/"
- "/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/templates/"
- "/Users/thorey/Documents/ressources/flaskapptest/"
- "/Users/thorey/Documents/ressources/Thinckstats/ThinkStats2/code/"
- "/ssh:clement@clavius.step.univ-paris-diderot.fr:/Users/clement/Documents/project/competition/fognet/"
- "/Users/thorey/Documents/ressources/flaskr/"
- "/Users/thorey/Documents/project/competition/fognet/models/bbking/arima/model_0/"
- "/Users/thorey/Documents/project/competition/fognet/"
- "/Users/thorey/Documents/project/competition/fognet/scripts/"
- "/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/model_2/"
- "/Users/thorey/Documents/project/competition/fognet/utils/Version_1/"
- "/Users/thorey/Documents/Tool/nolearn/nolearn/lasagne/"
- "/Users/thorey/Documents/project/competition/fognet/models/clavius/lstm/model_1/"
- "/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/model_1/"
 )
 
 ;; ----- ido-work-file-list -----
 (
- "cv_2pages.tex"
+ "sql-setting.el"
  "init.el"
- "JFM_Thorey.tex"
- "latex-settings.el"
- "auto-complete-settings.el"
- "cv.tex"
- "Lato-Hairline.ttf"
- ".latexmkrc"
- "schedule.html"
+ "Dockerfile"
+ "predictions.csv"
  "helper.py"
+ "data_utils.py"
+ "make_database.py"
+ "build_model.py"
+ "DOCKERFILE"
 )
 
 ;; ----- ido-dir-file-cache -----
 (
+ ("/Users/thorey/.emacs.d/settings/" (22351 2620 0 0) "web-mode.el" "sql-setting.el" "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
+
+ ("/Users/thorey/.emacs.d/" (22351 2634 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".gitignore" ".git/" ".cask/" "../" "./")
+
+ ("/Users/thorey/Dockerfile/" (22351 928 0 0) "Dockerfile" "../" "./")
+
+ ("/Users/thorey/" (22351 871 0 0) "todo.cfg" "texput.log" "Test/" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "nginxlogs/" "mys.txt" "Music/" "Movies/" "miniconda2/" "Library/" "latexmkrc" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "Dockerfile/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".wget-hsts" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".psql_history" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".node-gyp/" ".netrc" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".local/" ".littleshoot/" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ispell_english" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".heroku/" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".docker/" ".distlib/" ".dir_colors" ".digitalocean/" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".aws/" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/expedia/notebooks/exploratory/notebooks/" (22350 64810 0 0) "predictions.csv" "dataquestio.ipynb" ".ipynb_checkpoints/" ".gitkeep" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/expedia/notebooks/exploratory/" (22350 64808 0 0) "notebooks/" "2.0-clem-GTBmodel.ipynb" "1.0-clem-initial-data-explor.ipynb" ".ipynb_checkpoints/" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/expedia/notebooks/" (22306 460 0 0) "report/" "exploratory/" ".gitkeep" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/expedia/references/" (22305 64240 0 0) ".gitkeep" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/expedia/models/" (22305 64240 0 0) ".gitkeep" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/expedia/" (22350 57690 0 0) "tox.ini" "src/" "requirements.txt" "reports/" "references/" "README.md" "notebooks/" "models/" "LICENSE" "docs/" "Dockerfile" "data/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/.digitalocean/" (22350 50882 0 0) "token" ".#token" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/expedia/reports/" (22305 64240 0 0) "figures/" ".gitkeep" "../" "./")
+
+ ("/Users/thorey/Documents/project/competition/" (22342 58716 0 0) "yelp/" "test/" "fognet/" "expedia/" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/src/model/" (22349 49432 0 0) "recomendation.pyc" "recomendation.py" "helper.pyc" "helper.py" "build_model.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/webapp/templates/" (22342 61083 0 0) "schedule.html" "schedule-macro.html" "query_based_journey.html" "query_based.html" "query-macro.html" "nav-macro.html" "message-macro.html" "layout.html" "increasenb-macro.html" "home.html" "collaborators.html" "baseapp.html" "about.html" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/models/" (22341 38385 0 0) "LSA_OLD/" "LSA_500/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/JFM/" (22349 46531 0 0) "Reviewer3.md" "Reviewer3.docx" "Reviewer2.md" "Reviewer2.docx" "Reviewer1.md" "Reviewer1.docx" "review.org" "review.docx" "natbib.sty" "Library.bib" "JFM_Thorey_Revision.pdf" "JFM_Thorey_backup.tex" "JFM_Thorey_AVANTREVIEW.pdf" "JFM_Thorey.tex" "JFM_Thorey.synctex.gz" "JFM_Thorey.pdf" "JFM_Thorey.log" "JFM_Thorey.fls" "JFM_Thorey.fdb_latexmk" "JFM_Thorey.dvi" "JFM_Thorey.blg" "JFM_Thorey.bbl" "JFM_Thorey.aux" "jfm.cls" "jfm.bst" "Figure_Revision2/" "Figure_Revision/" "example29.docx" "auto/" "AMSsymb.sty" "AMSgen.sty" "AMSfonts.sty" "AMSbsy.sty" ".Rhistory" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/New_Version_Workspace/" (22349 27764 0 0) "test/" "sync.sh" "Plot.pyc" "Plot.py" "Load_Utils.pyc" "Load_Utils.py" "Grid_Time.py" "Figure_Tool.pyc" "Figure_Tool.py" "Figure_Panel_Many.py" "Figure_JFM_Revision.pyc" "Figure_JFM_Revision.py" "Figure_Heating.pyc" "Figure_Heating.py" "Figure_Data.pyc" "Figure_Data.py" "Figure_Contact_Aureole.py" "Extract_Data.pyc" "Extract_Data.py" ".#MatchTe.py" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/PAPER/" (22344 14710 0 0) "Plot.pyc" "Plot.py" "Movie_Make.py" "Load_Utils.pyc" "Load_Utils.py" "Grid_Time.py" "G_Data_Load.pyc" "G_Data_Load.py" "Figure_Tool.pyc" "Figure_Tool.py" "Figure_Section3.pyc" "Figure_Section3.py" "Figure_Section2.pyc" "Figure_Poster.pyc" "Figure_Poster.py" "Figure_Panel_Many.py" "Figure_Panel_Front.py" "Figure_Old.pyc" "Figure_Old.py" "Figure_JFM_V13.pyc" "Figure_JFM_V13.py" "Figure_JFM.pyc" "Figure_JFM.py" "Figure_Heating.pyc" "Figure_Heating.py" "Figure_CDD.pyc" "Figure_CDD.py" "Figure.pyc" "Figure.py" "Extract_Data.pyc" "Extract_Data.py" "EG_Data_Load.pyc" "EG_Data_Load.py" "E_Data_Load.py" "Data_Load.pyc" "Data_Load.py" "basic_animation.mp4" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/project/" (22342 51934 0 0) "pdsimage/" "mlcrater/" "geocolab/" "cthorey.github.io/" "competition/" "agu_data/" "../" "./")
+
+ ("/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/templates/" (22341 26422 0 0) "signup.html" "layout.html" "home.html" "contact.html" "about.html" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/webapp/static/" (22342 47840 0 0) "js/" "images/" "css/" "bower_components/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Downloads/auto/templates/" (22334 57252 0 0) "autocomplete.html" "../" "./")
+
+ ("/Users/thorey/Downloads/auto/" (22334 57252 0 0) "templates/" "static/" "hw2.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/src/scrapping/" (22340 32532 0 0) "scrap_papers.py" "scrap_authors.py" "data_utils.pyc" "data_utils.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/src/database/" (22341 24284 0 0) "make_database.py" "insert_primary_keys.sql" "geocolab.db" "drop_tables.sql" "create_tables.sql" "create_homemap.sql" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/webapp/static/js/" (22342 47840 0 0) "schedule.js" "query.js" "home.js" "helper.js" "collaborator.js" "ajax-loader.gif" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/data/database/" (22342 47473 0 0) "test.sql" "geocolab.db" "../" "./")
+
+ ("/Users/thorey/.aws/" (22342 50877 0 0) "rsa-APKAJYEECV2XEQGEARCA.pem" "pk-APKAJYEECV2XEQGEARCA.pem" "ec2-test.pem" "credentials.csv" "credentials" "config" "../" "./")
+
+ ("/Users/Shared/" (21859 28443 0 0) "www/" "to-do.txt" "src/" "sitemap.xml" "SHTOOLS/" "SC Info/" "README.txt" "modules/" "man/" "Makefile" "LICENSE" "Library/" "lib/" "iSkysoft.plist" "examples/" ".localized" ".iSkysoft_thorey.dat" ".DS_Store" ".com.hp.Installer.plist" "../" "./")
+
+ ("/Users/" (22330 62803 0 0) "thorey/" "Shared/" ".localized" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/" (22342 47840 0 0) "webapp/" "src/" "runserver.py" "requirements.txt" "report.org" "README.md" "Procfile" "package.json" "notebooks/" "node_modules/" "models/" "data/" "config.pyc" "config.py" "bower.json" ".slugignore" ".gitignore" ".git/" ".env" ".bowerrc" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/webapp/" (22342 47840 0 0) "templates/" "static/" "routes.pyc" "routes.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/webapp/static/css/" (22342 45837 0 0) "mycss.css" "home.css" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/config/" (22340 30854 0 0) "production.py" "development.py" "default.pyc" "default.py" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/project/cthorey.github.io/" (22230 51212 0 0) "style.scss" "README.md" "publication.md" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "archive.md" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/JFM/" (22159 39086 0 0) "Version_JFM/" "JFM/" "Draft_EPSL_2/" "Draft_EPSL_1_Crystalisation/" "auto/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Paper/" (22121 37239 0 0) "JFM/" "Figure/" "auto/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/" (22147 51847 0 0) "TEST/" "PAPER/" "New_Version_Workspace/" "GRAV/" "ELAS_GRAV/" "ELAS/" "Data_Load_tmp.py" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" (22121 37870 0 0) "Write/" "SCAPAD/" "Routine/" "README.md" "Paper/" "Notebook/" "Figure/" "Code/" ".gitignore" ".git/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/Refroidissement/" (21769 42845 0 0) "Writing/" "Skin_Model/" "routine/" "Resultat/" "Presentation/" "Laccolith_Data/" "Daily_Report/" "Analyse_Result/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/Projet/" (21735 15813 0 0) "Refroidissement/" "LavaFlow/" "IntrusionSsVolcan/" "Intrusion/" "FFC/" "Basal_Ice_Flow/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/These/" (22121 31017 0 0) "Submission/" "Projet/" "Paperwork/" "Optimization_Formation/" "Manuscript/" "Librairie/" "Book/" ".sync/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/data/" (22325 38278 0 0) "scrapped/" "database/" "../" "./")
+
+ ("/Users/thorey/Documents/" (22260 4638 0 0) "Tool/" "These/" "Teaching/" "Stage/" "site/" "ressources/" "repos/" "project/" "pdsimage/" "paperwork/" "Papers Library/" "Own_Project/" "My Tableau Repository/" "MLearning/" "Cursera/" "cthorey.github.io/" "Clement.pprs" "Administratif/" ".sync/" ".localized" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
+
+ ("/Users/thorey/Downloads/" (22333 49752 0 0) "credentials.csv" "auto.tar.gz" "auto/" "13052016_COMMANDE_C649E173382O69396.pdf" ".~lock.Rouault_SFN2014 (2).ppt#" ".~lock.Rouault_SFN2014 (1).ppt#" ".~lock.Lunar_Impact_Crater_Database_v9Feb2009.xls#" ".localized" ".DS_Store" ".com.google.Chrome.Zv3g7E" "../" "./")
+
+ ("/Users/thorey/Documents/repos/jQuery-Autocomplete/dist/" (22333 49038 0 0) "license.txt" "jquery.autocomplete.min.js" "jquery.autocomplete.js" "../" "./")
+
+ ("/Users/thorey/Documents/project/geocolab/src/" (22325 55968 0 0) "scrapping/" "model/" "database/" "__init__.pyc" "__init__.py" "../" "./")
+
+ ("/Users/thorey/Documents/repos/jQuery-Autocomplete/scripts/" (22333 49038 0 0) "jquery.mockjax.js" "jquery-2.1.1.js" "jquery-1.8.2.min.js" "demo.js" "countries.js" "../" "./")
+
+ ("/Users/thorey/Documents/repos/jQuery-Autocomplete/" (22333 49038 0 0) "src/" "spec/" "scripts/" "readme.md" "package.json" "license.txt" "index.htm" "gruntfile.js" "dist/" "devbridge-autocomplete.jquery.json" "content/" "bower.json" ".gitignore" ".git/" "../" "./")
+
+ ("/Users/thorey/Documents/repos/" (22333 49037 0 0) "pdsimage/" "Kagle/" "jQuery-Autocomplete/" "example/" "cthorey.github.io/" "agu_data2/" ".env" "../" "./")
+
+ ("/Users/thorey/Documents/My Tableau Repository/" (22164 65404 0 0) "Workbooks/" "Shapes/" "Services/" "Preferences.tps" "Mapsources/" "Logs/" "Datasources/" "Connectors/" "Bookmarks/" "../" "./")
+
+ ("/Users/thorey/Documents/project/agu_data/" (22323 112 0 0) "repo/" "gist/" "geocolab.git.bfg-report/" "geocolab.git/" "geocolab-backup.git/" "environment.yml" "../" "./")
+
  ("/Users/cthorey/.emacs.d/" (22331 2483 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".gitignore" ".git/" ".cask/" "../" "./")
 
  ("/Users/cthorey/.emacs.d/settings/" (22331 2417 0 0) "web-mode.el" "sql-setting.el" "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
@@ -214,10 +328,6 @@
  ("/Users/cthorey/Documents/These/Refroidissement/Skin_Model/Paper/JFM/JFM/" (22331 2391 0 0) "Reviewer3.md" "Reviewer3.docx" "Reviewer2.md" "Reviewer2.docx" "Reviewer1.md" "Reviewer1.docx" "review.org" "natbib.sty" "Library.bib" "JFM_Thorey_Revision.pdf" "JFM_Thorey.tex" "JFM_Thorey.synctex.gz" "JFM_Thorey.pdf" "JFM_Thorey.log" "JFM_Thorey.fls" "JFM_Thorey.fdb_latexmk" "JFM_Thorey.dvi" "JFM_Thorey.blg" "JFM_Thorey.bbl" "JFM_Thorey.aux" "jfm.cls" "jfm.bst" "Figure_Revision/" "auto/" "AMSsymb.sty" "AMSgen.sty" "AMSfonts.sty" "AMSbsy.sty" ".Rhistory" ".git/" ".DS_Store" "../" "./")
 
  ("/Users/cthorey/Documents/paperwork/fancy-cv/" (22330 63148 0 0) "texgyreheros-regular.otf" "texgyreheros-italic.otf" "texgyreheros-bolditalic.otf" "texgyreheros-bold.otf" "README.md" "programing.png" "Lato-Light.ttf" "Lato-Hairline.ttf" "img/" "friggeri-cv.cls" "cv_figure.ipynb" "cv_2pages.tex" "cv_2pages.run.xml" "cv_2pages.pdf" "cv_2pages.out" "cv_2pages.log" "cv_2pages.fls" "cv_2pages.fdb_latexmk" "cv_2pages.blg" "cv_2pages.bcf" "cv_2pages.bbl" "cv_2pages.aux" "cv.tex" "cv.synctex.gz" "cv.run.xml" "cv.pdf" "cv.out" "cv.log" "cv.fls" "cv.fdb_latexmk" "cv.blg" "cv.bcf" "cv.bbl" "cv.aux" "bibliography.bib" "auto/" ".ipynb_checkpoints/" ".git/" ".DS_Store" "../" "./")
-
- ("/Users/Shared/" (22258 63757 0 0) "SC Info/" "adi/" ".localized" "../" "./")
-
- ("/Users/" (22157 41468 0 0) "Shared/" "cthorey/" ".localized" "../" "./")
 
  ("/Users/cthorey/" (22330 61675 0 0) "Serveur Média/" "Public/" "Pictures/" "nltk_data/" "Music/" "Movies/" "miniconda2/" "Library/" "Google Drive/" "emacs.d-b/" "Dropbox/" "Downloads/" "Documents/" "Desktop/" "cmd-key-happy/" "bracket/" "Applications/" ".Xauthority" ".viminfo" ".Trash/" ".theano/" ".subversion/" ".ssh/" ".serverauth.2212" ".serverauth.17891" ".rnd" ".pypirc" ".plotly/" ".oracle_jre_usage/" ".npm/" ".matplotlib/" ".local/" ".latexmkrc" ".keras/" ".jupyter/" ".ipython/" ".ipynb_checkpoints/" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".docker/" ".cookiecutters/" ".cookiecutter_replay/" ".continuum/" ".config/" ".condamanager/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bash_sessions/" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".aws/" ".autoenv_authorized.tmp" ".autoenv_authorized" ".anaconda/" "../" "./")
 
@@ -247,10 +357,6 @@
 
  ("/Users/thorey/Documents/project/agu_data/geocolab/webapp/" (22312 46030 0 0) "templates/" "static/" "routes.pyc" "routes.py" "__init__.pyc" "__init__.py" "../" "./")
 
- ("/Users/thorey/" (22312 41162 0 0) "todo.cfg" "texput.log" "Test/" "Sites/" "scikit_learn_data/" "Public/" "Pictures/" "paster.cfg" "OldEmacs2/" "OldEmacs/" "nltk_data/" "mys.txt" "Music/" "Movies/" "miniconda2/" "Library/" "latexmkrc" "Google Drive/" "Dropbox/" "Downloads/" "Documents/" "dev/" "Desktop/" "bin/" "auto/" "Applications/" ".wget-hsts" ".vimrc" ".viminfo" ".vim/" ".Trash/" ".tramp_history" ".todo/" ".theano/" ".texlive2015/" ".texlive2014/" ".subversion/" ".ssh/" ".skdata/" ".sh_history" ".rodeorc" ".Rhistory" ".RData" ".Rapp.history" ".pyxbld/" ".pypirc" ".plotly/" ".pineapple/" ".oracle_jre_usage/" ".npm/" ".mysql_history" ".matplotlibrc" ".matplotlib/" ".local/" ".littleshoot/" ".lantern/" ".languagetool.cfg" ".kmlcsv/" ".jupyter/" ".jnaerator/" ".ipython/" ".ipynb_checkpoints/" ".ido.last~" ".ido.last" ".idlerc/" ".hgignore_global" ".gitignore_global" ".gitconfig" ".gistup.json" ".gem/" ".emacs.d/" ".DS_Store" ".dropbox/" ".distlib/" ".dir_colors" ".cups/" ".continuum/" ".config/" ".conda/" ".CFUserTextEncoding" ".cache/" ".bzr.log" ".bokeh/" ".bash_profile~" ".bash_profile.macports-saved_2015-05-27_at_15:36:05" ".bash_profile.macports-saved_2014-04-01_at_10:40:03" ".bash_profile-miniconda2.bak" ".bash_profile" ".bash_history" ".aws/" ".autoenv_authorized.tmp" ".autoenv_authorized" ".atom/" ".aspell.en.pws" ".aspell.en.prepl" ".adobe/" ".:e" "../" "./")
-
- ("/Users/thorey/.emacs.d/" (22307 14436 0 0) "tramp" "settings/" "README.md" "nomencl.ist" "init.el~" "init.el" "ido.last~" "ido.last" "eproject.lst" "emacs-for-python/" "Cask" "auto-save-list/" "Atom-theme.elc" "Atom-theme.el" "ac-comphist.dat" "abbrev_defs" ".latexmkrc" ".gitignore" ".git/" ".cask/" "../" "./")
-
  ("/Users/thorey/Documents/project/agu_data/geocolab/src/database/" (22312 24779 0 0) "make_database.py" "insert_primary_keys.sql" "database.pyc" "__init__.pyc" "__init__.py" "../" "./")
 
  ("/Users/thorey/Documents/project/agu_data/geocolab/data/database/" (22312 24945 0 0) "test.sql" "geocolab.db" "../" "./")
@@ -260,10 +366,6 @@
  ("/Users/thorey/Documents/project/agu_data/geocolab/" (22312 27252 0 0) "webapp/" "src/" "runserver.py" "requirements.txt" "report.org" "README.md" "package.json" "notebooks/" "node_modules/" "models/" "index.ipynb" "data/" "bower.json" ".ipynb_checkpoints/" ".gitignore" ".git/" ".bowerrc" "../" "./")
 
  ("/Users/thorey/Documents/project/agu_data/geocolab/src/" (22312 24614 0 0) "scrapping/" "model/" "database/" "__init__.pyc" "__init__.py" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/expedia/" (22306 440 0 0) "tox.ini" "src/" "requirements.txt" "reports/" "references/" "README.md" "notebooks/" "models/" "LICENSE" "docs/" "data/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/" (22305 64240 0 0) "yelp/" "fognet/" "expedia/" "../" "./")
 
  ("/Users/thorey/Documents/project/agu_data/geocolab/models/LSA_abstract/" (22304 47543 0 0) "abstract_Xtsne.pkl_01.npy" "abstract_Xtsne.pkl" "abstract_X.pkl_01.npy" "abstract_X.pkl" "abstract_tfidf.model" "abstract_tfidf.mm.index" "abstract_tfidf.mm" "abstract_tfidf.index" "abstract_sources.txt" "abstract_raw.dict" "abstract_lsi.model.projection" "abstract_lsi.model" "abstract_lsi.mm.index" "abstract_lsi.mm" "abstract_lsi.index.index.npy" "abstract_lsi.index" "abstract_data.txt" "abstract_bow.mm.index" "abstract_bow.mm" "abstract_bow.index" "abstract_authors.dict" "abstract.dict" "../" "./")
 
@@ -281,33 +383,15 @@
 
  ("/Users/thorey/Documents/Tool/arxiv-sanity-preserver/" (22292 61457 0 0) "ui.jpeg" "thumb_pdf.py" "templates/" "static/" "serve.py" "schema.sql" "requirements.txt" "README.md" "parse_pdf_to_text.py" "fetch_papers.py" "download_pdfs.py" "buildsvm.py" "analyze.py" ".gitignore" ".git/" "../" "./")
 
- ("/Users/thorey/.emacs.d/settings/" (22304 29104 0 0) "web-mode.el" "sql-setting.el" "scss-settings.el" "python-settings.el" "python-magic.el" "markdown-settings.el" "latex-settings.el" "helm-settings.el" "general-settings.el" "custom.el" "custom-functions.el" "camelcase-settings.el" "autopep.el" "auto-complete-settings.el" "../" "./")
-
  ("/Users/thorey/Documents/project/agu_data/gist/basemap/" (22298 14345 0 0) "index.html" "datamaps.world.min.js" "basemap.js" ".git/" ".#index.html" "../" "./")
 
  ("/Users/thorey/Documents/project/competition/fognet/scripts/arima/" (22296 60832 0 0) "train.py" "predict.py" "log" "gridsearch.py" "conf_init_model.py" "../" "./")
 
  ("/Users/thorey/Documents/project/competition/fognet/utils/" (22298 6764 0 0) "utils.pyc" "training_utils.pyc" "train_utils.pyc" "train_utils.py" "split_method.pyc" "split_method.py" "result_utils.pyc" "result_utils.py" "preprocessing.pyc" "preprocessing.py" "pipe_def_arima.pyc" "pipe_def_arima.py" "pipe_def.pyc" "pipe_def.py" "objectives_utils.pyc" "objectives_utils.py" "nolearn_net.pyc" "nolearn_net.py" "net_builder.pyc" "net_builder.py" "lstm_utils.py" "iterator.pyc" "iterator.py" "initialization.pyc" "initialization.py" "hook.pyc" "hook.py" "helper.pyc" "helper.py" "ensemble_utils.pyc" "ensemble_utils.py" "data_utils.pyc" "data_utils.py" "arima_utils.pyc" "arima_utils.py" "__init__.pyc" "__init__.py" "../" "./")
 
- ("/Users/thorey/Documents/project/" (22296 61232 0 0) "pdsimage/" "mlcrater/" "cthorey.github.io/" "competition/" "agu_data/" "../" "./")
-
- ("/Users/thorey/Documents/project/geocolab/webapp/" (22296 61119 0 0) "templates/" "static/" "routes.pyc" "routes.py" "__init__.pyc" "__init__.py" "../" "./")
-
- ("/Users/thorey/Documents/project/geocolab/webapp/templates/" (22296 61118 0 0) "search.html" "layout.html" "home.html" "about.html" "../" "./")
-
  ("/Users/thorey/Documents/project/agu_data/gist/" (22187 39272 0 0) "basemap/" "../" "./")
 
- ("/Users/thorey/Documents/project/geocolab/" (22294 20311 0 0) "webapp/" "runserver.py" "requirements.txt" "README.md" "notebooks/" "index.ipynb" "geocolab/" "data/" ".ipynb_checkpoints/" ".gitignore" ".git/" "../" "./")
-
  ("/Users/thorey/Documents/project/geocolab/geocolab/" (22292 57565 0 0) "Scrap_papers.py" "Scrap_names.py" "Data_Utils.pyc" "Data_Utils.py" "build_representations.py" "__init__.pyc" "__init__.py" "../" "./")
-
- ("/Users/thorey/Documents/project/geocolab/webapp/static/css/" (22292 60091 0 0) "recommendation.css" "main.css" "../" "./")
-
- ("/Users/thorey/Documents/project/agu_data/" (22292 52330 0 0) "repo/" "gist/" "geocolab/" "environment.yml" "../" "./")
-
- ("/Users/thorey/Documents/project/geocolab/webapp/static/" (22292 51245 0 0) "main.css" "js/" "img/" "css/" "../" "./")
-
- ("/Users/thorey/Documents/project/geocolab/webapp/static/js/" (22291 28931 0 0) "../" "./")
 
  ("/Users/thorey/Documents/project/geocolab/webapp/static/img/" (22291 28925 0 0) "../" "./")
 
@@ -318,8 +402,6 @@
  ("/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/static/css/" (22289 1590 0 0) "main.css" "../" "./")
 
  ("/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/static/" (22288 49947 0 0) "js/" "img/" "css/" "../" "./")
-
- ("/Users/thorey/Documents/ressources/flaskapptest/intro_to_flask/templates/" (22289 1800 0 0) "signup.html" "layout.html" "home.html" "contact.html" "about.html" "../" "./")
 
  ("/Users/thorey/Google Drive/" (22291 26876 0 0) "War and Peace by graf Leo Tolstoy.epub" "Thinking, Fast and Slow - Kahneman, Daniel.epub" "Thinking, Fast and Slow - Kahneman, Daniel (1).epub" "These_Rapport/" "S2DC/" "Research.gdoc" "Question_prep.gdoc" "Question.gdoc" "mrouaultserver/" "JFM/" "Interview ASI preparatop.gdoc" "Icon
 " "GRAIL/" "geocolab/" "Document sans titre.gdoc" "Diplome_Administratif/" "Diplome/" "Defense_Final.pdf" "Defense_Final.key" "Comite_Thorey.pdf" "Candidature_S2C.gdoc" "candidature.gdoc" "ASI_Fellowship/" "Apps/" "application revue par mae.gdoc" ".DS_Store" "../" "./")
@@ -333,80 +415,6 @@
  ("/Users/thorey/Documents/ressources/flaskapptest/" (22291 28370 0 0) "runserver.py" "README.md" "intro_to_flask/" "../" "./")
 
  ("/Users/thorey/Documents/ressources/" (22288 49921 0 0) "TimeSeries_Analysis_State_Space_Methods.pdf" "Thinckstats/" "flaskapptest/" "flask/" "ESLII_print4.pdf" "Cdu339-C8E1.pdf" "bok%3A978-0-387-22777-1.pdf" "Bayesian-forecasting-and-dynamic-models-West-Harison.pdf" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/ressources/Thinckstats/ThinkStats2/" (22283 28047 0 0) "README.md" "LICENSE" "code/" "book/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/thorey/Documents/ressources/Thinckstats/" (22283 28266 0 0) "Untitled.ipynb" "thinkstats2.pdf" "ThinkStats2/" "thinkstats.pdf" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/scripts/lstm/" (22278 349 0 0) "train.py" "predict.py" "gridsearch.py" "conf_init_model.py" "../" "./")
-
- ("/Users/thorey/Documents/ressources/flaskr/" (22278 26050 0 0) "templates/" "static/" "schema.sql" "flaskr.py" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/model_0/" (22269 2094 0 0) "hiddens_60_lr_0.0001_reg_1e-06/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.0001_nb_layers_3_reg_1e-06/" "conf_model.json" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/model_1/" (22269 2777 0 0) "hiddens_50_seq_length_300_update_rule_adam_stride_2_lr_0.0001_nb_layers_1_reg_0.0001/" "hiddens_20_seq_length_300_update_rule_rmsprop_stride_2_lr_0.0001_nb_layers_2_reg_1e-06/" "hiddens_100_seq_length_100_update_rule_rmsprop_stride_1_lr_0.001_nb_layers_3_reg_0.0001/" "hiddens_100_seq_length_100_update_rule_adam_stride_2_lr_0.0001_nb_layers_3_reg_0.0001/" "conf_model.json" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/clavius/lstm/model_1/" (22274 20603 0 0) "hiddens_50_seq_length_300_update_rule_rmsprop_stride_2_lr_0.01_nb_layers_1_reg_0.0001/" "hiddens_50_seq_length_300_update_rule_rmsprop_stride_2_lr_0.001_nb_layers_3_reg_0.0001/" "hiddens_50_seq_length_300_update_rule_rmsprop_stride_2_lr_0.0001_nb_layers_3_reg_1e-06/" "hiddens_50_seq_length_300_update_rule_rmsprop_stride_1_lr_0.01_nb_layers_2_reg_0.0/" "hiddens_50_seq_length_300_update_rule_adam_stride_1_lr_0.001_nb_layers_3_reg_0.0001/" "hiddens_50_seq_length_200_update_rule_rmsprop_stride_2_lr_0.001_nb_layers_3_reg_1e-06/" "hiddens_50_seq_length_200_update_rule_rmsprop_stride_1_lr_0.01_nb_layers_3_reg_0.0001/" "hiddens_50_seq_length_200_update_rule_rmsprop_stride_1_lr_0.0001_nb_layers_1_reg_1e-06/" "hiddens_50_seq_length_200_update_rule_adam_stride_2_lr_0.001_nb_layers_3_reg_0.0001/" "hiddens_50_seq_length_200_update_rule_adam_stride_2_lr_0.001_nb_layers_3_reg_0.0/" "hiddens_50_seq_length_200_update_rule_adam_stride_1_lr_0.0001_nb_layers_3_reg_0.0001/" "hiddens_50_seq_length_100_update_rule_rmsprop_stride_2_lr_0.0001_nb_layers_2_reg_1e-06/" "hiddens_50_seq_length_100_update_rule_adam_stride_1_lr_0.01_nb_layers_3_reg_0.0001/" "hiddens_50_seq_length_100_update_rule_adam_stride_1_lr_0.001_nb_layers_3_reg_0.0/" "hiddens_50_seq_length_100_update_rule_adam_stride_1_lr_0.001_nb_layers_1_reg_0.0001/" "hiddens_200_seq_length_300_update_rule_rmsprop_stride_2_lr_0.01_nb_layers_1_reg_0.0001/" "hiddens_200_seq_length_300_update_rule_rmsprop_stride_2_lr_0.001_nb_layers_2_reg_0.0/" "hiddens_200_seq_length_300_update_rule_rmsprop_stride_1_lr_0.01_nb_layers_3_reg_0.0/" "hiddens_200_seq_length_300_update_rule_rmsprop_stride_1_lr_0.001_nb_layers_3_reg_1e-06/" "hiddens_200_seq_length_300_update_rule_rmsprop_stride_1_lr_0.001_nb_layers_3_reg_0.0001/" "hiddens_200_seq_length_300_update_rule_rmsprop_stride_1_lr_0.0001_nb_layers_3_reg_0.0001/" "hiddens_200_seq_length_300_update_rule_rmsprop_stride_1_lr_0.0001_nb_layers_2_reg_0.0/" "hiddens_200_seq_length_300_update_rule_adam_stride_2_lr_0.01_nb_layers_2_reg_0.0/" "hiddens_200_seq_length_300_update_rule_adam_stride_2_lr_0.01_nb_layers_1_reg_0.0/" "hiddens_200_seq_length_300_update_rule_adam_stride_2_lr_0.001_nb_layers_1_reg_1e-06/" "hiddens_200_seq_length_300_update_rule_adam_stride_2_lr_0.001_nb_layers_1_reg_0.0001/" "hiddens_200_seq_length_300_update_rule_adam_stride_1_lr_0.0001_nb_layers_1_reg_0.0001/" "hiddens_200_seq_length_200_update_rule_rmsprop_stride_2_lr_0.01_nb_layers_3_reg_0.0001/" "hiddens_200_seq_length_200_update_rule_rmsprop_stride_2_lr_0.0001_nb_layers_2_reg_0.0/" "hiddens_200_seq_length_200_update_rule_rmsprop_stride_2_lr_0.0001_nb_layers_1_reg_0.0/" "hiddens_200_seq_length_200_update_rule_rmsprop_stride_1_lr_0.01_nb_layers_2_reg_1e-06/" "hiddens_200_seq_length_200_update_rule_adam_stride_2_lr_0.001_nb_layers_3_reg_0.0/" "hiddens_200_seq_length_200_update_rule_adam_stride_1_lr_0.01_nb_layers_3_reg_0.0001/" "hiddens_200_seq_length_200_update_rule_adam_stride_1_lr_0.001_nb_layers_3_reg_0.0001/" "hiddens_200_seq_length_100_update_rule_rmsprop_stride_2_lr_0.001_nb_layers_3_reg_1e-06/" "hiddens_200_seq_length_100_update_rule_rmsprop_stride_1_lr_0.01_nb_layers_2_reg_0.0001/" "hiddens_200_seq_length_100_update_rule_rmsprop_stride_1_lr_0.0001_nb_layers_3_reg_1e-06/" "hiddens_200_seq_length_100_update_rule_adam_stride_2_lr_0.001_nb_layers_2_reg_0.0/" "hiddens_200_seq_length_100_update_rule_adam_stride_2_lr_0.0001_nb_layers_2_reg_1e-06/" "hiddens_200_seq_length_100_update_rule_adam_stride_1_lr_0.01_nb_layers_3_reg_1e-06/" "hiddens_200_seq_length_100_update_rule_adam_stride_1_lr_0.001_nb_layers_3_reg_1e-06/" "hiddens_200_seq_length_100_update_rule_adam_stride_1_lr_0.0001_nb_layers_3_reg_0.0001/" "hiddens_200_seq_length_100_update_rule_adam_stride_1_lr_0.0001_nb_layers_2_reg_0.0/" "hiddens_100_seq_length_300_update_rule_rmsprop_stride_1_lr_0.0001_nb_layers_3_reg_0.0/" "hiddens_100_seq_length_300_update_rule_adam_stride_2_lr_0.0001_nb_layers_2_reg_0.0001/" "hiddens_100_seq_length_300_update_rule_adam_stride_2_lr_0.0001_nb_layers_1_reg_0.0001/" "hiddens_100_seq_length_300_update_rule_adam_stride_1_lr_0.0001_nb_layers_1_reg_0.0001/" "hiddens_100_seq_length_200_update_rule_rmsprop_stride_2_lr_0.0001_nb_layers_3_reg_0.0001/" "hiddens_100_seq_length_200_update_rule_rmsprop_stride_2_lr_0.0001_nb_layers_2_reg_0.0/" "hiddens_100_seq_length_200_update_rule_adam_stride_2_lr_0.01_nb_layers_3_reg_1e-06/" "hiddens_100_seq_length_200_update_rule_adam_stride_2_lr_0.01_nb_layers_3_reg_0.0/" "hiddens_100_seq_length_200_update_rule_adam_stride_2_lr_0.0001_nb_layers_3_reg_1e-06/" "hiddens_100_seq_length_200_update_rule_adam_stride_1_lr_0.001_nb_layers_2_reg_0.0/" "hiddens_100_seq_length_100_update_rule_rmsprop_stride_2_lr_0.01_nb_layers_3_reg_1e-06/" "hiddens_100_seq_length_100_update_rule_rmsprop_stride_2_lr_0.01_nb_layers_3_reg_0.0001/" "hiddens_100_seq_length_100_update_rule_rmsprop_stride_2_lr_0.001_nb_layers_3_reg_0.0001/" "hiddens_100_seq_length_100_update_rule_adam_stride_2_lr_0.0001_nb_layers_1_reg_0.0001/" "hiddens_100_seq_length_100_update_rule_adam_stride_2_lr_0.0001_nb_layers_1_reg_0.0/" "hiddens_100_seq_length_100_update_rule_adam_stride_1_lr_0.001_nb_layers_2_reg_1e-06/" "hiddens_100_seq_length_100_update_rule_adam_stride_1_lr_0.0001_nb_layers_1_reg_1e-06/" "conf_model.json" "../" "./")
-
- ("/Users/thorey/Documents/Tool/nolearn/nolearn/lasagne/" (22266 34368 0 0) "visualize.py" "util.py" "tests/" "handlers.py" "base.py" "__init__.py" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/model_2/" (22275 56684 0 0) "hiddens_5_seq_length_20_update_rule_rmsprop_stride_1_lr_0.323298314468_nb_layers_1_reg_0.0/" "hiddens_5_seq_length_20_update_rule_rmsprop_stride_1_lr_0.0351525844703_nb_layers_2_reg_1e-06/" "hiddens_30_seq_length_80_update_rule_rmsprop_stride_5_lr_0.00545976153611_nb_layers_1_reg_6.82760238681e-07/" "hiddens_30_seq_length_80_update_rule_rmsprop_stride_2_lr_0.0064468963539_nb_layers_1_reg_8.27678697489e-07/" "hiddens_30_seq_length_80_update_rule_adam_stride_5_lr_0.00812891893594_nb_layers_2_reg_6.53566616032e-07/" "hiddens_30_seq_length_80_update_rule_adam_stride_4_lr_0.00957743384663_nb_layers_1_reg_9.57791392403e-07/" "hiddens_30_seq_length_80_update_rule_adam_stride_4_lr_0.00783585547892_nb_layers_2_reg_8.4436166141e-07/" "hiddens_30_seq_length_80_update_rule_adam_stride_4_lr_0.000702873916895_nb_layers_2_reg_7.02227855171e-07/" "hiddens_30_seq_length_80_update_rule_adam_stride_3_lr_0.00451264931353_nb_layers_1_reg_3.12649709078e-07/" "hiddens_30_seq_length_80_update_rule_adam_stride_1_lr_0.00959203401126_nb_layers_2_reg_7.06772072221e-07/" "hiddens_30_seq_length_30_update_rule_rmsprop_stride_4_lr_0.0043633838813_nb_layers_1_reg_2.34912603823e-07/" "hiddens_30_seq_length_30_update_rule_adam_stride_2_lr_0.00413704559959_nb_layers_2_reg_5.75785231128e-07/" "hiddens_30_seq_length_29_update_rule_adam_stride_1_lr_0.00722242455136_nb_layers_1_reg_6.72716137765e-07/" "hiddens_30_seq_length_20_update_rule_rmsprop_stride_5_lr_0.00141296327528_nb_layers_2_reg_5.85543744348e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_5_lr_0.0042283423311_nb_layers_2_reg_5.42107643189e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_4_lr_0.00783440778499_nb_layers_1_reg_2.40410613108e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_4_lr_0.00532126544292_nb_layers_1_reg_1.3913517904e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_3_lr_0.00954210847025_nb_layers_1_reg_5.77737705077e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_3_lr_0.00839575624625_nb_layers_2_reg_9.9721842838e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_3_lr_0.00305289918999_nb_layers_2_reg_5.73307614461e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_2_lr_0.00838730356116_nb_layers_1_reg_7.09251921468e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_1_lr_0.00940361163939_nb_layers_2_reg_3.00538035488e-07/" "hiddens_30_seq_length_100_update_rule_rmsprop_stride_1_lr_0.00708560350291_nb_layers_2_reg_1.57488096608e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_4_lr_0.00996112068444_nb_layers_2_reg_4.30485134363e-08/" "hiddens_30_seq_length_100_update_rule_adam_stride_4_lr_0.00855960657455_nb_layers_2_reg_3.84216169559e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_4_lr_0.00824534466235_nb_layers_2_reg_1.98205756119e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_4_lr_0.00717414854882_nb_layers_2_reg_8.03659788742e-09/" "hiddens_30_seq_length_100_update_rule_adam_stride_4_lr_0.00682922028467_nb_layers_2_reg_4.86262355242e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_4_lr_0.0036901843977_nb_layers_2_reg_9.08115987523e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00997164997168_nb_layers_2_reg_3.34339186188e-08/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00994387643116_nb_layers_1_reg_4.54179830017e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00982101361883_nb_layers_2_reg_5.27690207657e-08/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00973734616539_nb_layers_1_reg_7.50636517626e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00924301375923_nb_layers_2_reg_2.31498960514e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00909568682133_nb_layers_1_reg_1.42049854809e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00753003312426_nb_layers_1_reg_8.07349621768e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00674291974987_nb_layers_2_reg_6.10214360394e-08/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00673005694156_nb_layers_2_reg_3.69606522878e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00573247816064_nb_layers_2_reg_2.05122685053e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.0044793614932_nb_layers_2_reg_3.36115671365e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00370693478503_nb_layers_2_reg_7.74976118432e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_3_lr_0.00291661807193_nb_layers_2_reg_7.7096364943e-08/" "hiddens_30_seq_length_100_update_rule_adam_stride_2_lr_0.00899179969739_nb_layers_2_reg_1.06218071706e-08/" "hiddens_30_seq_length_100_update_rule_adam_stride_2_lr_0.00625237335257_nb_layers_2_reg_6.70524931955e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_2_lr_0.00614721031591_nb_layers_2_reg_8.89458673396e-09/" "hiddens_30_seq_length_100_update_rule_adam_stride_2_lr_0.00409136655288_nb_layers_2_reg_9.18084313427e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_2_lr_0.00265206551237_nb_layers_2_reg_7.34913136201e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_2_lr_0.0012487138362_nb_layers_2_reg_7.65372178205e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.00804395037676_nb_layers_2_reg_5.31163956395e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.00782249766985_nb_layers_2_reg_5.51758765898e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.00659596803804_nb_layers_2_reg_9.66391604359e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.00654061612803_nb_layers_2_reg_6.48464597966e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.00625277853111_nb_layers_2_reg_4.13069403188e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.0047160245569_nb_layers_2_reg_7.61121131129e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.00437943399899_nb_layers_1_reg_3.92685428494e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.00329342392244_nb_layers_2_reg_6.25657140578e-07/" "hiddens_30_seq_length_100_update_rule_adam_stride_1_lr_0.0027650705153_nb_layers_2_reg_6.19678756695e-07/" "hiddens_27_seq_length_22_update_rule_adam_stride_1_lr_0.00645977462776_nb_layers_1_reg_7.86999125522e-07/" "hiddens_25_seq_length_28_update_rule_rmsprop_stride_1_lr_0.00859204709636_nb_layers_2_reg_3.05620057877e-07/" "hiddens_20_seq_length_80_update_rule_rmsprop_stride_3_lr_0.0076947963616_nb_layers_1_reg_5.58990605834e-07/" "hiddens_20_seq_length_80_update_rule_rmsprop_stride_1_lr_0.0001432158003_nb_layers_1_reg_6.05165049173e-07/" "hiddens_20_seq_length_80_update_rule_adam_stride_4_lr_0.00488029823443_nb_layers_2_reg_4.40556684345e-07/" "hiddens_20_seq_length_80_update_rule_adam_stride_4_lr_0.0024222986847_nb_layers_2_reg_9.43680770923e-07/" "hiddens_20_seq_length_80_update_rule_adam_stride_2_lr_0.00767941198965_nb_layers_1_reg_6.85548173284e-07/" "hiddens_20_seq_length_80_update_rule_adam_stride_2_lr_0.00164887451079_nb_layers_2_reg_8.21085080277e-07/" "hiddens_20_seq_length_80_update_rule_adam_stride_1_lr_0.00192572120899_nb_layers_1_reg_4.51752508354e-07/" "hiddens_20_seq_length_30_update_rule_rmsprop_stride_4_lr_0.00305394656683_nb_layers_1_reg_8.92523737461e-07/" "hiddens_20_seq_length_22_update_rule_rmsprop_stride_2_lr_0.000394652315006_nb_layers_2_reg_1.63630843282e-07/" "hiddens_20_seq_length_10_update_rule_rmsprop_stride_2_lr_0.00286114415407_nb_layers_1_reg_7.39730087627e-07/" "hiddens_20_seq_length_10_update_rule_adam_stride_4_lr_0.000695993249486_nb_layers_2_reg_6.13034409898e-07/" "hiddens_20_seq_length_10_update_rule_adam_stride_1_lr_0.00119985933141_nb_layers_2_reg_4.81503136255e-07/" "hiddens_20_seq_length_100_update_rule_rmsprop_stride_3_lr_0.00984478194855_nb_layers_2_reg_1.23304769363e-07/" "hiddens_20_seq_length_100_update_rule_rmsprop_stride_3_lr_0.0090325967456_nb_layers_2_reg_7.97728086627e-07/" "hiddens_20_seq_length_100_update_rule_rmsprop_stride_2_lr_0.004717895913_nb_layers_1_reg_2.07722700844e-07/" "hiddens_20_seq_length_100_update_rule_rmsprop_stride_1_lr_0.00685101707168_nb_layers_1_reg_9.5659499838e-07/" "hiddens_20_seq_length_100_update_rule_rmsprop_stride_1_lr_0.000360710847273_nb_layers_2_reg_5.00513331979e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_5_lr_0.00399229253479_nb_layers_2_reg_8.84197799233e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_5_lr_0.00075880442247_nb_layers_1_reg_8.45049016439e-08/" "hiddens_20_seq_length_100_update_rule_adam_stride_3_lr_0.00875949035246_nb_layers_1_reg_1.66030363317e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_3_lr_0.00596684428362_nb_layers_2_reg_6.24208588624e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_3_lr_0.0058419263332_nb_layers_2_reg_9.97081423813e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_3_lr_0.00463778544076_nb_layers_2_reg_7.22093015623e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.00746994862413_nb_layers_2_reg_2.65439669105e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.00644824733914_nb_layers_1_reg_3.27984219078e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.0057094315185_nb_layers_2_reg_4.61386569584e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.00560595514291_nb_layers_2_reg_4.71709394882e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.00523589088066_nb_layers_2_reg_6.74203526057e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.0038895295691_nb_layers_2_reg_5.29249644519e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.00235279245077_nb_layers_2_reg_9.04671130492e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_2_lr_0.00138918249109_nb_layers_2_reg_9.50746096523e-08/" "hiddens_20_seq_length_100_update_rule_adam_stride_1_lr_0.00862852398659_nb_layers_1_reg_4.24599390053e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_1_lr_0.0069391563902_nb_layers_2_reg_7.83689284329e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_1_lr_0.00606811962577_nb_layers_2_reg_7.05446006358e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_1_lr_0.00595283208613_nb_layers_2_reg_7.05817068268e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_1_lr_0.00498612239823_nb_layers_2_reg_8.70802838431e-07/" "hiddens_20_seq_length_100_update_rule_adam_stride_1_lr_0.0036742972608_nb_layers_2_reg_5.9247138712e-07/" "hiddens_10_seq_length_80_update_rule_rmsprop_stride_5_lr_0.00341763804549_nb_layers_2_reg_2.90826878721e-07/" "hiddens_10_seq_length_80_update_rule_rmsprop_stride_4_lr_0.00215605351917_nb_layers_2_reg_2.80626772821e-07/" "hiddens_10_seq_length_80_update_rule_rmsprop_stride_3_lr_0.00789575764371_nb_layers_1_reg_2.70271830458e-07/" "hiddens_10_seq_length_80_update_rule_adam_stride_3_lr_0.0054001518192_nb_layers_2_reg_5.13355286863e-07/" "hiddens_10_seq_length_80_update_rule_adam_stride_2_lr_0.00721354059833_nb_layers_2_reg_8.60538059427e-07/" "hiddens_10_seq_length_80_update_rule_adam_stride_2_lr_0.00514854650482_nb_layers_1_reg_7.44366204245e-07/" "hiddens_10_seq_length_80_update_rule_adam_stride_2_lr_0.00513906587732_nb_layers_2_reg_1.09780231032e-07/" "hiddens_10_seq_length_80_update_rule_adam_stride_2_lr_0.00241349923852_nb_layers_2_reg_7.979170134e-07/" "hiddens_10_seq_length_80_update_rule_adam_stride_1_lr_0.00932278523779_nb_layers_1_reg_6.41561588203e-07/" "hiddens_10_seq_length_30_update_rule_adam_stride_5_lr_0.0012077047911_nb_layers_1_reg_4.56198367492e-07/" "hiddens_10_seq_length_30_update_rule_adam_stride_4_lr_0.00620433733696_nb_layers_1_reg_8.38391260373e-07/" "hiddens_10_seq_length_20_update_rule_adam_stride_2_lr_0.00960246027274_nb_layers_2_reg_8.07514540206e-07/" "hiddens_10_seq_length_20_update_rule_adam_stride_1_lr_0.0237088555406_nb_layers_2_reg_0.0/" "hiddens_10_seq_length_10_update_rule_adam_stride_1_lr_0.152042927701_nb_layers_2_reg_0.0/" "hiddens_10_seq_length_10_update_rule_adam_stride_1_lr_0.0030770506767_nb_layers_1_reg_8.95511394049e-07/" "hiddens_10_seq_length_100_update_rule_rmsprop_stride_4_lr_0.00735287116826_nb_layers_2_reg_1.46372523032e-07/" "hiddens_10_seq_length_100_update_rule_rmsprop_stride_1_lr_0.00999510187258_nb_layers_2_reg_1.3228361776e-07/" "hiddens_10_seq_length_100_update_rule_rmsprop_stride_1_lr_0.0087567696781_nb_layers_2_reg_5.69715360022e-07/" "hiddens_10_seq_length_100_update_rule_adam_stride_5_lr_0.00337485493808_nb_layers_2_reg_5.10723182787e-07/" "hiddens_10_seq_length_100_update_rule_adam_stride_4_lr_0.00762173842452_nb_layers_2_reg_6.45966121816e-07/" "hiddens_10_seq_length_100_update_rule_adam_stride_4_lr_0.00641380759314_nb_layers_2_reg_3.45961240709e-07/" "hiddens_10_seq_length_100_update_rule_adam_stride_4_lr_0.00588576726039_nb_layers_2_reg_3.42427846207e-07/" "hiddens_10_seq_length_100_update_rule_adam_stride_3_lr_0.00498731352693_nb_layers_2_reg_8.37936578754e-07/" "hiddens_10_seq_length_100_update_rule_adam_stride_2_lr_0.00880649321971_nb_layers_2_reg_6.00749252737e-07/" "hiddens_10_seq_length_100_update_rule_adam_stride_2_lr_0.00610479924835_nb_layers_2_reg_1.52874155489e-07/" "conf_model.json" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/bbking/arima/" (22278 2977 0 0) "submissions_20160406_184658.csv" "model_0/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/bbking/" (22277 7991 0 0) "lstm/" "arima/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/" (22278 2795 0 0) "ray/" "clavius/" "bbking/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/scripts/" (22278 968 0 0) "lstm/" "arima/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/" (22267 54210 0 0) "model_2/" "model_1/" "model_0/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/utils/Version_1/" (22267 53523 0 0) "utils.pyc" "training_utils.pyc" "train_utils.pyc" "train_utils.py" "result_utils.pyc" "result_utils.py" "preprocessing.pyc" "preprocessing.py" "objectives_utils.pyc" "objectives_utils.py" "nolearn_net.pyc" "nolearn_net.py" "net_builder.pyc" "net_builder.py" "iterator.pyc" "iterator.py" "initialization.pyc" "initialization.py" "hook.pyc" "hook.py" "helper.pyc" "helper.py" "ensemble_utils.pyc" "ensemble_utils.py" "data_utils.pyc" "data_utils.py" "__init__.pyc" "__init__.py" ".#nolearn_net.py" "../" "./")
-
- ("/Users/thorey/Documents/repos/" (22260 4722 0 0) "pdsimage/" "Kagle/" "example/" "cthorey.github.io/" "agu_data2/" ".env" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/clavius/lstm/" (22261 40629 0 0) "model_1/" "model_0/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/clavius/" (22257 26169 0 0) "sync.sh" "lstm/" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/model_defs/" (22264 63282 0 0) "lstm.pyc" "__init__.pyc" "../" "./")
-
- ("/Users/thorey/Documents/project/pdsimage/pdsimage/" (22237 36495 0 0) "Table/" "Structure.pyc" "Structure.py" "PDS_Extractor.pyc" "PDS_Extractor.py" "__init__.pyc" "__init__.py" "../" "./")
-
- ("/Users/thorey/Documents/project/competition/fognet/models/bbking/lstm/model_0/hiddens_100_lr_0.001_reg_1e-06_seq_length_200/" (22261 23315 0 0) "train_2.798_val_2.816" "submissions_20160325_163649.csv" "model_history.png" "model_history.pkl" "model.pkl" "conf_model.json" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/New_Version_Workspace/" (22203 1442 0 0) "test/" "sync.sh" "Plot.pyc" "Plot.py" "Load_Utils.pyc" "Load_Utils.py" "Grid_Time.py" "Figure_Tool.pyc" "Figure_Tool.py" "Figure_Panel_Many.py" "Figure_JFM_Revision.pyc" "Figure_JFM_Revision.py" "Figure_Heating.pyc" "Figure_Heating.py" "Figure_Data.pyc" "Figure_Data.py" "Figure_Contact_Aureole.py" "Extract_Data.pyc" "Extract_Data.py" ".#MatchTe.py" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/Routine/" (22147 51847 0 0) "TEST/" "PAPER/" "New_Version_Workspace/" "GRAV/" "ELAS_GRAV/" "ELAS/" "Data_Load_tmp.py" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/Refroidissement/Skin_Model/" (22121 37870 0 0) "Write/" "SCAPAD/" "Routine/" "README.md" "Paper/" "Notebook/" "Figure/" "Code/" ".gitignore" ".git/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/Refroidissement/" (21769 42845 0 0) "Writing/" "Skin_Model/" "routine/" "Resultat/" "Presentation/" "Laccolith_Data/" "Daily_Report/" "Analyse_Result/" ".sync/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/These/Projet/" (21735 15813 0 0) "Refroidissement/" "LavaFlow/" "IntrusionSsVolcan/" "Intrusion/" "FFC/" "Basal_Ice_Flow/" ".sync/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Google Drive/S2DC/" (22256 9775 0 0) "candidature.org" "../" "./")
-
- ("/Users/thorey/Documents/Tool/ThinkStats2/book/" (22260 4862 0 0) "up.png" "note.tex" "next.png" "mylocals.py" "Makefile" "localdef.py" "latexonly" "htmlonly" "header.html" "footer.html" "book.toc" "book.tex" "book.log" "book.idx" "book.fls" "book.fdb_latexmk" "book.aux" "back.png" "auto/" "../" "./")
-
- ("/Users/thorey/Documents/Tool/ThinkStats2/" (22260 4765 0 0) "README.md" "LICENSE" "code/" "book/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/thorey/Documents/" (22260 4638 0 0) "Tool/" "These/" "Teaching/" "Stage/" "site/" "ressources/" "repos/" "project/" "pdsimage/" "paperwork/" "Papers Library/" "Own_Project/" "My Tableau Repository/" "MLearning/" "Cursera/" "cthorey.github.io/" "Clement.pprs" "Administratif/" ".sync/" ".localized" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/project/cthorey.github.io/" (22230 51212 0 0) "style.scss" "README.md" "publication.md" "morley.csv" "LICENSE" "index.html" "images/" "feed.xml" "CNAME" "archive.md" "about.md" "_site/" "_sass/" "_posts/" "_layouts/" "_includes/" "_config.yml" "404.md" ".sass-cache/" ".gitignore" ".git/" "../" "./")
-
- ("/Users/thorey/Documents/These/" (22121 31017 0 0) "Submission/" "Projet/" "Paperwork/" "Optimization_Formation/" "Manuscript/" "Librairie/" "Book/" ".sync/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/MLearning/CS231/assignment2/experiments/ThreeLayerConvnet/" (22201 4546 0 0) "ThreeLayerConvnet.py" "model_0/" "conf_init_maker.py" "../" "./")
-
- ("/Users/thorey/Documents/MLearning/CS231/assignment2/experiments/" (22204 37584 0 0) "ThreeLayerConvnet/" "FirstConvNet/" "../" "./")
-
- ("/Users/thorey/Documents/MLearning/CS231/assignment2/" (22204 48547 0 0) "test_newconv.ipynb" "start_ipython_osx.sh" "requirements.txt" "README.md" "puppy.jpg" "kitten.jpg" "FullyConnectedNets.ipynb" "frameworkpython" "experiments/" "Dropout.ipynb" "cs231n/" "ConvolutionalNetworks.ipynb" "collectSubmission.sh" "BatchNormalization.ipynb" ".ipynb_checkpoints/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/MLearning/CS231/" (22237 33823 0 0) "theano_tuto/" "README.md" "environment.yml" "assignment3/" "assignment2/" "assignment1/" ".gitignore" ".git/" ".DS_Store" "../" "./")
-
- ("/Users/thorey/Documents/MLearning/" (22187 15603 0 0) "zacstewart/" "Side_Project/" "Ressource/" "ProjectTemplate.pdf" "probability_cheatsheet.pdf" "OLD_CS231/" "ml_guide.svg" "Mitchell_Lecture/" "Kagle/" "Interesting_Notebook/" "data-wrangling-cheatsheet.pdf" "CS231/" "CS/" "Book/" "AppliedMachineLearningProcess.pdf" ".sync/" ".DS_Store" "../" "./")
 )
 
 ;; ----- ido-unc-hosts-cache -----

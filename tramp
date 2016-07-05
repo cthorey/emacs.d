@@ -1,4 +1,4 @@
-;; -*- emacs-lisp -*- <16/04/21 17:23:07 /Users/thorey/.emacs.d/tramp>
+;; -*- emacs-lisp -*- <16/06/01 18:07:57 /Users/thorey/.emacs.d/tramp>
 ;; Tramp connection history.  Don't change this file.
 ;; You can delete it, forcing Tramp to reapply the checks.
 
@@ -44,5 +44,7 @@
   ("~" "/Users/clement"))
  (["scp" nil "ssh" nil nil]
   nil)
- (["ssh" "thorey" "localhost" nil nil]
+ (["ssh" "root" "46.101.99.129" nil nil]
+  nil)
+ (["ssh" "thorey" "46.101.190.186" nil nil]
   nil))
